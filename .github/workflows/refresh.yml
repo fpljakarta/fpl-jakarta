@@ -1,0 +1,96 @@
+name: Refresh FPL data
+
+# Runs every hour, and you can also start it by hand from the Actions tab.
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch standings and monthly winners from FPL
+        run: |
+          cat > /tmp/fetch.mjs <<'SCRIPT'
+          const MAIN = 401272;   // main league
+          const HS   = 325153;   // high stakes league
+          const API  = 'https://fantasy.premierleague.com/api';
+          const MONTHS = ['August','September','October','November','December',
+                          'January','February','March','April','May'];
+
+          const UA = { 'User-Agent': 'Mozilla/5.0 (compatible; fpl-jakarta-page/1.0)' };
+
+          async function get(url) {
+            for (let attempt = 1; attempt <= 3; attempt++) {
+              const r = await fetch(url, { headers: UA });
+              if (r.ok) return r.json();
+              if (attempt === 3) throw new Error(url + ' returned ' + r.status);
+              await new Promise(s => setTimeout(s, 2000 * attempt));
+            }
+          }
+
+          // Walks through every page, so leagues bigger than 50 still work.
+          async function standings(leagueId, phase) {
+            let page = 1, rows = [], more = true;
+            while (more && page <= 40) {
+              let u = API + '/leagues-classic/' + leagueId + '/standings/?page_standings=' + page;
+              if (phase) u += '&phase=' + phase;
+              const j = await get(u);
+              rows.push(...j.standings.results);
+              more = j.standings.has_next;
+              page++;
+            }
+            return rows;
+          }
+
+          const shape = r => ({
+            mgr:   r.player_name,
+            team:  r.entry_name,
+            gw:    r.event_total,
+            total: r.total,
+            move:  (r.last_rank && r.rank) ? r.last_rank - r.rank : 0
+          });
+
+          const boot = await get(API + '/bootstrap-static/');
+          const finished = new Set(boot.events.filter(e => e.finished).map(e => e.id));
+
+          const out = { updated: new Date().toISOString(), standings: {}, motm: [] };
+
+          out.standings.main = (await standings(MAIN)).map(shape);
+          out.standings.hs   = (await standings(HS)).map(shape);
+
+          // A month only counts once its last gameweek is finished.
+          for (const name of MONTHS) {
+            const phase = boot.phases.find(p => p.name === name);
+            if (!phase || !finished.has(phase.stop_event)) { out.motm.push(null); continue; }
+            try {
+              const rows = await standings(MAIN, phase.id);
+              const top = rows[0];
+              out.motm.push(top ? { winner: top.player_name, team: top.entry_name, pts: top.total } : null);
+            } catch (e) {
+              console.log('could not read ' + name + ': ' + e.message);
+              out.motm.push(null);
+            }
+          }
+
+          const fs = await import('node:fs');
+          fs.writeFileSync('data.json', JSON.stringify(out, null, 2));
+          console.log('main: ' + out.standings.main.length + ' managers');
+          console.log('hs:   ' + out.standings.hs.length + ' managers');
+          console.log('months decided: ' + out.motm.filter(Boolean).length);
+          SCRIPT
+          node /tmp/fetch.mjs
+
+      - name: Save the result back to the site
+        run: |
+          git config user.name  "FPL Jakarta bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data.json
+          git diff --staged --quiet || git commit -m "Update FPL data"
+          git push
