@@ -220,6 +220,11 @@
   .month-team { font-size: 12.5px; color: var(--text-secondary); margin-top: 2px; }
   .month-pts { font-size: 12.5px; color: var(--text-muted); margin-top: 7px; font-variant-numeric: tabular-nums; }
   .month.pending { border-style: dashed; }
+
+  /* ---------- manager of the week ---------- */
+  .motw-hero { border-left: 3px solid var(--accent); }
+  .motw-hero .tile-value { font-size: 24px; }
+  #motwWrap table { max-height: none; }
   .month.pending .month-winner { color: var(--text-muted); font-weight: 400; font-size: 13.5px; }
 
   /* ---------- pills ---------- */
@@ -361,6 +366,15 @@
     <div class="months" id="months"></div>
   </section>
 
+  <!-- ============ MOTW ============ -->
+  <section>
+    <div class="sec-head">
+      <h2>Manager of the week</h2>
+      <p class="sec-note">Highest score in the main league each gameweek, after transfer hits. All 38 fill in as they're played.</p>
+    </div>
+    <div id="motwWrap"></div>
+  </section>
+
   <!-- ============ CUP ============ -->
   <section>
     <div class="sec-head">
@@ -465,7 +479,10 @@ const DATA = {
   standings: { hs: [], main: [] },
 
   // Monthly winners fill in on their own as each month ends.
-  motm: [null, null, null, null, null, null, null, null, null, null]
+  motm: [null, null, null, null, null, null, null, null, null, null],
+
+  // Weekly winners fill in on their own after every gameweek.
+  motw: []
 };
 
 /* ============================================================ */
@@ -589,6 +606,33 @@ function renderMonths() {
   }).join('');
 }
 
+/* ---- manager of the week ---- */
+function renderMotw() {
+  const rows = DATA.motw || [];
+  const wrap = $('motwWrap');
+  if (!rows.length) {
+    wrap.innerHTML = '<div class="card"><div class="empty"><strong>No gameweeks played yet</strong>'
+      + 'The first weekly winner appears once Gameweek 1 is done.</div></div>';
+    return;
+  }
+  const latest = rows[0], rest = rows.slice(1);
+  let html = '<div class="tile motw-hero">'
+    + '<div class="tile-label">Gameweek ' + latest.gw + ' winner</div>'
+    + '<div class="tile-value">' + latest.winner + '</div>'
+    + '<div class="tile-meta">' + latest.team + ' &middot; ' + latest.pts + ' pts</div>'
+    + '</div>';
+  if (rest.length) {
+    html += '<div class="card" style="margin-top:14px"><table><thead><tr>'
+      + '<th class="rank">GW</th><th>Manager</th><th class="num">Points</th>'
+      + '</tr></thead><tbody>'
+      + rest.map(r => '<tr><td class="rank">' + r.gw + '</td>'
+          + '<td><div class="mgr">' + r.winner + '</div><div class="team">' + r.team + '</div></td>'
+          + '<td class="num" style="font-weight:600">' + r.pts + '</td></tr>').join('')
+      + '</tbody></table></div>';
+  }
+  wrap.innerHTML = html;
+}
+
 /* ---- segmented controls ---- */
 const redraw = {};
 function wireSeg(segId, fn) {
@@ -604,6 +648,7 @@ function wireSeg(segId, fn) {
 wireSeg('prizeSeg', renderPrizes);
 wireSeg('standSeg', renderStandings);
 renderMonths();
+renderMotw();
 
 /* ---- live data ----------------------------------------------
    Once the hourly refresh is switched on, a file called data.json
@@ -617,8 +662,10 @@ fetch('data.json', { cache: 'no-store' })
     if (!j) return;
     if (j.standings) DATA.standings = j.standings;
     if (j.motm)      DATA.motm      = j.motm;
+    if (j.motw)      DATA.motw      = j.motw;
     redraw['standSeg']();
     renderMonths();
+    renderMotw();
     if (j.updated) {
       const el = document.createElement('div');
       el.style.marginTop = '8px';
