@@ -387,7 +387,7 @@
       </div>
       <div class="rule">
         <h3>Two leagues</h3>
-        <p>Everyone plays the main league. High Stakes is an optional second pot with its own entry fee and its own prizes.</p>
+        <p>Everyone plays the main league for Rp 1,500,000. High Stakes is an optional extra Rp 5,000,000 on top — a second pot with its own prizes.</p>
       </div>
       <div class="rule">
         <h3>Monthly prizes</h3>
@@ -419,8 +419,10 @@ const CONFIG = {
   gw1Deadline: '2026-08-21T17:30:00Z',
   formUrl: 'https://forms.gle/E4dhw64B8fxshrRq9',
   tiers: {
-    main: { label: 'Main league',  leagueId: 401272, fee: 2000000, accent: 'var(--accent)' },
-    hs:   { label: 'High Stakes',  leagueId: 325153, fee: 6000000, accent: 'var(--hs-accent)' }
+    // Everyone pays the main fee. High Stakes is an EXTRA on top,
+    // so an HS player pays 1,500,000 + 5,000,000 = 6,500,000 in total.
+    main: { label: 'Main league',  leagueId: 401272, fee: 1500000, accent: 'var(--accent)' },
+    hs:   { label: 'High Stakes',  leagueId: 325153, fee: 5000000, accent: 'var(--hs-accent)' }
   },
   months: ['August','September','October','November','December','January','February','March','April','May']
 };
@@ -442,7 +444,9 @@ const CONFIG = {
    ============================================================ */
 const DATA = {
 
-  // How many people have PAID so far. Change these two numbers.
+  // How many people have PAID so far.
+  //   main = EVERYONE who has paid (including the High Stakes lot)
+  //   hs   = how many of those ALSO paid the extra 5,000,000
   counts: { main: 0, hs: 0 },
 
   // Prize money. Leave empty until you have decided.
@@ -506,19 +510,18 @@ tick(); setInterval(tick, 30000);
 const potMain  = DATA.counts.main * CONFIG.tiers.main.fee;
 const potHs    = DATA.counts.hs   * CONFIG.tiers.hs.fee;
 const potAll   = potMain + potHs;
-const entries = DATA.counts.main + DATA.counts.hs;
 $('potTotal').textContent      = rp(potAll);
-$('potTotalMeta').textContent  = entries
-  ? entries + ' confirmed entries across both leagues'
+$('potTotalMeta').textContent  = DATA.counts.main
+  ? DATA.counts.main + ' entrants, ' + DATA.counts.hs + ' of them in High Stakes'
   : 'Signups are open — the pot grows as entries are confirmed';
 $('potMain').textContent       = rp(potMain);
 $('potMainMeta').textContent   = DATA.counts.main
-  ? DATA.counts.main + ' entries × ' + rp(CONFIG.tiers.main.fee)
-  : rp(CONFIG.tiers.main.fee) + ' to enter';
+  ? DATA.counts.main + ' × ' + rp(CONFIG.tiers.main.fee)
+  : rp(CONFIG.tiers.main.fee) + ' — everyone pays this';
 $('potHs').textContent         = rp(potHs);
 $('potHsMeta').textContent     = DATA.counts.hs
-  ? DATA.counts.hs + ' entries × ' + rp(CONFIG.tiers.hs.fee)
-  : rp(CONFIG.tiers.hs.fee) + ' to enter';
+  ? DATA.counts.hs + ' × ' + rp(CONFIG.tiers.hs.fee) + ' on top'
+  : '+ ' + rp(CONFIG.tiers.hs.fee) + ' on top — optional';
 
 /* ---- prize bars ---- */
 const SEQ = ['var(--seq-700)','var(--seq-600)','var(--seq-500)','var(--seq-450)','var(--seq-350)','var(--seq-250)','var(--seq-250)'];
@@ -572,30 +575,59 @@ function renderStandings(tier) {
 }
 
 /* ---- months ---- */
-$('months').innerHTML = CONFIG.months.map((m, i) => {
-  const w = DATA.motm[i];
-  if (!w) {
-    return '<div class="month pending"><div class="month-name">' + m + '</div>'
-      + '<div class="month-winner">Not played yet</div></div>';
-  }
-  return '<div class="month"><div class="month-name">' + m + '</div>'
-    + '<div class="month-winner">' + w.winner + '</div>'
-    + '<div class="month-team">' + w.team + '</div>'
-    + '<div class="month-pts">' + w.pts + ' pts</div></div>';
-}).join('');
+function renderMonths() {
+  $('months').innerHTML = CONFIG.months.map((m, i) => {
+    const w = DATA.motm[i];
+    if (!w) {
+      return '<div class="month pending"><div class="month-name">' + m + '</div>'
+        + '<div class="month-winner">Not played yet</div></div>';
+    }
+    return '<div class="month"><div class="month-name">' + m + '</div>'
+      + '<div class="month-winner">' + w.winner + '</div>'
+      + '<div class="month-team">' + (w.team || '') + '</div>'
+      + '<div class="month-pts">' + w.pts + ' pts</div></div>';
+  }).join('');
+}
 
 /* ---- segmented controls ---- */
+const redraw = {};
 function wireSeg(segId, fn) {
   const seg = $(segId);
+  redraw[segId] = () => fn(seg.querySelector('[aria-selected="true"]').dataset.tier);
   seg.addEventListener('click', e => {
     const b = e.target.closest('button'); if (!b) return;
     [...seg.querySelectorAll('button')].forEach(x => x.setAttribute('aria-selected', String(x === b)));
     fn(b.dataset.tier);
   });
-  fn(seg.querySelector('[aria-selected="true"]').dataset.tier);
+  redraw[segId]();
 }
 wireSeg('prizeSeg', renderPrizes);
 wireSeg('standSeg', renderStandings);
+renderMonths();
+
+/* ---- live data ----------------------------------------------
+   Once the hourly refresh is switched on, a file called data.json
+   turns up next to this one, and the standings and monthly winners
+   are read from it. Until that exists, this quietly does nothing
+   and the page carries on working.
+   ------------------------------------------------------------- */
+fetch('data.json', { cache: 'no-store' })
+  .then(r => r.ok ? r.json() : null)
+  .then(j => {
+    if (!j) return;
+    if (j.standings) DATA.standings = j.standings;
+    if (j.motm)      DATA.motm      = j.motm;
+    redraw['standSeg']();
+    renderMonths();
+    if (j.updated) {
+      const el = document.createElement('div');
+      el.style.marginTop = '8px';
+      el.textContent = 'Standings last updated ' + new Date(j.updated).toLocaleString('en-GB',
+        { timeZone: 'Asia/Jakarta', dateStyle: 'medium', timeStyle: 'short' }) + ' Jakarta time.';
+      document.querySelector('footer').appendChild(el);
+    }
+  })
+  .catch(() => {});
 </script>
 </body>
 </html>
