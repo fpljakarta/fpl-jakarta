@@ -15,7 +15,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Fetch standings and monthly winners from FPL
+      - name: Fetch standings, monthly and weekly winners from FPL
         run: |
           cat > /tmp/fetch.mjs <<'SCRIPT'
           const MAIN = 401272;   // main league
@@ -25,13 +25,14 @@ jobs:
                           'January','February','March','April','May'];
 
           const UA = { 'User-Agent': 'Mozilla/5.0 (compatible; fpl-jakarta-page/1.0)' };
+          const pause = ms => new Promise(s => setTimeout(s, ms));
 
           async function get(url) {
             for (let attempt = 1; attempt <= 3; attempt++) {
               const r = await fetch(url, { headers: UA });
               if (r.ok) return r.json();
               if (attempt === 3) throw new Error(url + ' returned ' + r.status);
-              await new Promise(s => setTimeout(s, 2000 * attempt));
+              await pause(2000 * attempt);
             }
           }
 
@@ -58,14 +59,19 @@ jobs:
           });
 
           const boot = await get(API + '/bootstrap-static/');
-          const finished = new Set(boot.events.filter(e => e.finished).map(e => e.id));
+          const finishedIds = boot.events.filter(e => e.finished).map(e => e.id).sort((a, b) => a - b);
+          const finished = new Set(finishedIds);
 
-          const out = { updated: new Date().toISOString(), standings: {}, motm: [] };
+          const out = { updated: new Date().toISOString(), standings: {}, motm: [], motw: [] };
 
-          out.standings.main = (await standings(MAIN)).map(shape);
-          out.standings.hs   = (await standings(HS)).map(shape);
+          const mainRaw = await standings(MAIN);
+          const hsRaw   = await standings(HS);
+          out.standings.main = mainRaw.map(shape);
+          out.standings.hs   = hsRaw.map(shape);
 
-          // A month only counts once its last gameweek is finished.
+          // ---- manager of the month -------------------------------------
+          // Uses FPL's own monthly phases, so it matches the month toggle
+          // on the official league page exactly.
           for (const name of MONTHS) {
             const phase = boot.phases.find(p => p.name === name);
             if (!phase || !finished.has(phase.stop_event)) { out.motm.push(null); continue; }
@@ -79,11 +85,44 @@ jobs:
             }
           }
 
+          // ---- manager of the week --------------------------------------
+          // Per-gameweek scores are not in the league table, so we read each
+          // manager's own history. Scores are net of transfer hits, matching
+          // what the official league table shows.
+          if (finishedIds.length && mainRaw.length) {
+            const best = {};
+            let read = 0, failed = 0;
+            for (const r of mainRaw.slice(0, 250)) {
+              let hist;
+              try {
+                hist = await get(API + '/entry/' + r.entry + '/history/');
+                read++;
+              } catch (e) {
+                failed++;
+                continue;
+              }
+              for (const ev of hist.current || []) {
+                if (!finished.has(ev.event)) continue;
+                const net = ev.points - (ev.event_transfers_cost || 0);
+                if (!best[ev.event] || net > best[ev.event].pts) {
+                  best[ev.event] = { pts: net, winner: r.player_name, team: r.entry_name };
+                }
+              }
+              await pause(120);
+            }
+            // Most recent gameweek first.
+            for (const gw of [...finishedIds].reverse()) {
+              if (best[gw]) out.motw.push({ gw, ...best[gw] });
+            }
+            console.log('histories read: ' + read + ', failed: ' + failed);
+          }
+
           const fs = await import('node:fs');
           fs.writeFileSync('data.json', JSON.stringify(out, null, 2));
           console.log('main: ' + out.standings.main.length + ' managers');
           console.log('hs:   ' + out.standings.hs.length + ' managers');
           console.log('months decided: ' + out.motm.filter(Boolean).length);
+          console.log('gameweeks decided: ' + out.motw.length);
           SCRIPT
           node /tmp/fetch.mjs
 
