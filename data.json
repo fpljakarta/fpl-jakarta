@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T11:58:21.013Z",
+  "updated": "2026-08-24T14:26:02.875Z",
   "standings": {
     "main": [
       {
@@ -10,15 +10,15 @@
         "move": 0
       },
       {
-        "mgr": "Sanchit Suri",
-        "team": "WinterisHere!",
+        "mgr": "Sanjay Morani",
+        "team": "Xisco Inferno FC",
         "gw": 64,
         "total": 64,
         "move": 0
       },
       {
-        "mgr": "Sanjay Morani",
-        "team": "Xisco Inferno FC",
+        "mgr": "Sanchit Suri",
+        "team": "WinterisHere!",
         "gw": 64,
         "total": 64,
         "move": 0
@@ -52,15 +52,15 @@
         "move": 0
       },
       {
-        "mgr": "Draking Ngaditono",
-        "team": "Enerzy",
+        "mgr": "Bharat Lakhwani",
+        "team": "Bpl",
         "gw": 61,
         "total": 61,
         "move": 0
       },
       {
-        "mgr": "Bharat Lakhwani",
-        "team": "Bpl",
+        "mgr": "Draking Ngaditono",
+        "team": "Enerzy",
         "gw": 61,
         "total": 61,
         "move": 0
@@ -73,15 +73,15 @@
         "move": 0
       },
       {
-        "mgr": "Xerxis Desai",
-        "team": "Bay City Ballers",
+        "mgr": "M Suudi",
+        "team": "Cakdes FPL",
         "gw": 60,
         "total": 60,
         "move": 0
       },
       {
-        "mgr": "M Suudi",
-        "team": "Cakdes FPL",
+        "mgr": "Xerxis Desai",
+        "team": "Bay City Ballers",
         "gw": 60,
         "total": 60,
         "move": 0
@@ -150,15 +150,15 @@
         "move": 0
       },
       {
-        "mgr": "Kevin Raymond",
-        "team": "Gunners United",
+        "mgr": "Nikk Kadbet",
+        "team": "Anfield Legends",
         "gw": 52,
         "total": 52,
         "move": 0
       },
       {
-        "mgr": "Nikk Kadbet",
-        "team": "Anfield Legends",
+        "mgr": "Kevin Raymond",
+        "team": "Gunners United",
         "gw": 52,
         "total": 52,
         "move": 0
@@ -199,15 +199,15 @@
         "move": 0
       },
       {
-        "mgr": "Prashan Harjani",
-        "team": "Pineapple Delight",
+        "mgr": "Rachman Witarlan",
+        "team": "FC Milanello",
         "gw": 46,
         "total": 46,
         "move": 0
       },
       {
-        "mgr": "Rachman Witarlan",
-        "team": "FC Milanello",
+        "mgr": "Prashan Harjani",
+        "team": "Pineapple Delight",
         "gw": 46,
         "total": 46,
         "move": 0
@@ -220,15 +220,15 @@
         "move": 0
       },
       {
-        "mgr": "Indar Dhaliwal",
-        "team": "Daylight Brobbery",
+        "mgr": "Rayan Hamza",
+        "team": "Zarks",
         "gw": 44,
         "total": 44,
         "move": 0
       },
       {
-        "mgr": "Rayan Hamza",
-        "team": "Zarks",
+        "mgr": "Indar Dhaliwal",
+        "team": "Daylight Brobbery",
         "gw": 44,
         "total": 44,
         "move": 0
@@ -248,22 +248,15 @@
         "move": 0
       },
       {
-        "mgr": "Jonathan Lobo",
-        "team": "Jonathan's Team",
-        "gw": 42,
-        "total": 42,
-        "move": 0
-      },
-      {
-        "mgr": "Rohan Kalwani",
-        "team": "-4 Builds Carrickter",
-        "gw": 42,
-        "total": 42,
-        "move": 0
-      },
-      {
         "mgr": "Lavesh Punjabi",
         "team": "Punjabi United",
+        "gw": 42,
+        "total": 42,
+        "move": 0
+      },
+      {
+        "mgr": "Jonathan Lobo",
+        "team": "Jonathan's Team",
         "gw": 42,
         "total": 42,
         "move": 0
@@ -278,6 +271,13 @@
       {
         "mgr": "Joanda Febrian",
         "team": "DBM FC",
+        "gw": 42,
+        "total": 42,
+        "move": 0
+      },
+      {
+        "mgr": "Rohan Kalwani",
+        "team": "-4 Builds Carrickter",
         "gw": 42,
         "total": 42,
         "move": 0
@@ -304,8 +304,8 @@
         "move": 0
       },
       {
-        "mgr": "Hitesh Singh",
-        "team": "Not Too Xabi",
+        "mgr": "Abhishek Keswani",
+        "team": "The Usual Suspects",
         "gw": 39,
         "total": 39,
         "move": 0
@@ -318,22 +318,22 @@
         "move": 0
       },
       {
-        "mgr": "Abhishek Keswani",
-        "team": "The Usual Suspects",
+        "mgr": "Hitesh Singh",
+        "team": "Not Too Xabi",
         "gw": 39,
         "total": 39,
         "move": 0
       },
       {
-        "mgr": "Rishabh Mehta",
-        "team": "PepMasterclass",
+        "mgr": "Kunal Manwani",
+        "team": "Kloppite_6",
         "gw": 37,
         "total": 37,
         "move": 0
       },
       {
-        "mgr": "Kunal Manwani",
-        "team": "Kloppite_6",
+        "mgr": "Rishabh Mehta",
+        "team": "PepMasterclass",
         "gw": 37,
         "total": 37,
         "move": 0
@@ -346,15 +346,15 @@
         "move": 0
       },
       {
-        "mgr": "Juzer Saify",
-        "team": "JS FC",
+        "mgr": "Hitesh Mahbubani",
+        "team": "Goalbusters",
         "gw": 35,
         "total": 35,
         "move": 0
       },
       {
-        "mgr": "Hitesh Mahbubani",
-        "team": "Goalbusters",
+        "mgr": "Juzer Saify",
+        "team": "JS FC",
         "gw": 35,
         "total": 35,
         "move": 0
@@ -481,15 +481,15 @@
         "move": 0
       },
       {
-        "mgr": "Sagar Paleja",
-        "team": "Jai Shree Krishna",
+        "mgr": "Nikk Kadbet",
+        "team": "Anfield Legends",
         "gw": 52,
         "total": 52,
         "move": 0
       },
       {
-        "mgr": "Nikk Kadbet",
-        "team": "Anfield Legends",
+        "mgr": "Sagar Paleja",
+        "team": "Jai Shree Krishna",
         "gw": 52,
         "total": 52,
         "move": 0
@@ -502,15 +502,15 @@
         "move": 0
       },
       {
-        "mgr": "Deepu Narwani",
-        "team": "FC BOSS THA",
+        "mgr": "Sherwin Lee",
+        "team": "soteriapsalms",
         "gw": 49,
         "total": 49,
         "move": 0
       },
       {
-        "mgr": "Sherwin Lee",
-        "team": "soteriapsalms",
+        "mgr": "Deepu Narwani",
+        "team": "FC BOSS THA",
         "gw": 49,
         "total": 49,
         "move": 0
