@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T14:26:02.875Z",
+  "updated": "2026-08-24T16:19:26.647Z",
   "standings": {
     "main": [
       {
@@ -24,6 +24,13 @@
         "move": 0
       },
       {
+        "mgr": "Karan Khosla",
+        "team": "Jinja's Safari",
+        "gw": 63,
+        "total": 63,
+        "move": 0
+      },
+      {
         "mgr": "Gautam Vassanmal",
         "team": "GV9",
         "gw": 63,
@@ -33,13 +40,6 @@
       {
         "mgr": "Nitin Nathani",
         "team": "Untouchables",
-        "gw": 63,
-        "total": 63,
-        "move": 0
-      },
-      {
-        "mgr": "Karan Khosla",
-        "team": "Jinja's Safari",
         "gw": 63,
         "total": 63,
         "move": 0
@@ -73,15 +73,15 @@
         "move": 0
       },
       {
-        "mgr": "M Suudi",
-        "team": "Cakdes FPL",
+        "mgr": "Xerxis Desai",
+        "team": "Bay City Ballers",
         "gw": 60,
         "total": 60,
         "move": 0
       },
       {
-        "mgr": "Xerxis Desai",
-        "team": "Bay City Ballers",
+        "mgr": "M Suudi",
+        "team": "Cakdes FPL",
         "gw": 60,
         "total": 60,
         "move": 0
@@ -122,8 +122,8 @@
         "move": 0
       },
       {
-        "mgr": "Suraj Topandasani",
-        "team": "Londonal FC",
+        "mgr": "Prashant Chainani",
+        "team": "HighOnHouse",
         "gw": 53,
         "total": 53,
         "move": 0
@@ -136,10 +136,17 @@
         "move": 0
       },
       {
-        "mgr": "Prashant Chainani",
-        "team": "HighOnHouse",
+        "mgr": "Suraj Topandasani",
+        "team": "Londonal FC",
         "gw": 53,
         "total": 53,
+        "move": 0
+      },
+      {
+        "mgr": "Kevin Raymond",
+        "team": "Gunners United",
+        "gw": 52,
+        "total": 52,
         "move": 0
       },
       {
@@ -152,13 +159,6 @@
       {
         "mgr": "Nikk Kadbet",
         "team": "Anfield Legends",
-        "gw": 52,
-        "total": 52,
-        "move": 0
-      },
-      {
-        "mgr": "Kevin Raymond",
-        "team": "Gunners United",
         "gw": 52,
         "total": 52,
         "move": 0
@@ -199,8 +199,8 @@
         "move": 0
       },
       {
-        "mgr": "Rachman Witarlan",
-        "team": "FC Milanello",
+        "mgr": "Prakash Mahtani",
+        "team": "400K Redemption Arc",
         "gw": 46,
         "total": 46,
         "move": 0
@@ -213,15 +213,15 @@
         "move": 0
       },
       {
-        "mgr": "Prakash Mahtani",
-        "team": "400K Redemption Arc",
+        "mgr": "Rachman Witarlan",
+        "team": "FC Milanello",
         "gw": 46,
         "total": 46,
         "move": 0
       },
       {
-        "mgr": "Rayan Hamza",
-        "team": "Zarks",
+        "mgr": "Amrit Lakhiani",
+        "team": "Pomfriterole FC",
         "gw": 44,
         "total": 44,
         "move": 0
@@ -234,8 +234,8 @@
         "move": 0
       },
       {
-        "mgr": "Amrit Lakhiani",
-        "team": "Pomfriterole FC",
+        "mgr": "Rayan Hamza",
+        "team": "Zarks",
         "gw": 44,
         "total": 44,
         "move": 0
@@ -248,8 +248,15 @@
         "move": 0
       },
       {
-        "mgr": "Lavesh Punjabi",
-        "team": "Punjabi United",
+        "mgr": "Sagar Sadarangani",
+        "team": "cole me palmer",
+        "gw": 42,
+        "total": 42,
+        "move": 0
+      },
+      {
+        "mgr": "Joanda Febrian",
+        "team": "DBM FC",
         "gw": 42,
         "total": 42,
         "move": 0
@@ -262,15 +269,8 @@
         "move": 0
       },
       {
-        "mgr": "Sagar Sadarangani",
-        "team": "cole me palmer",
-        "gw": 42,
-        "total": 42,
-        "move": 0
-      },
-      {
-        "mgr": "Joanda Febrian",
-        "team": "DBM FC",
+        "mgr": "Lavesh Punjabi",
+        "team": "Punjabi United",
         "gw": 42,
         "total": 42,
         "move": 0
@@ -304,6 +304,13 @@
         "move": 0
       },
       {
+        "mgr": "Hitesh Singh",
+        "team": "Not Too Xabi",
+        "gw": 39,
+        "total": 39,
+        "move": 0
+      },
+      {
         "mgr": "Abhishek Keswani",
         "team": "The Usual Suspects",
         "gw": 39,
@@ -318,22 +325,15 @@
         "move": 0
       },
       {
-        "mgr": "Hitesh Singh",
-        "team": "Not Too Xabi",
-        "gw": 39,
-        "total": 39,
-        "move": 0
-      },
-      {
-        "mgr": "Kunal Manwani",
-        "team": "Kloppite_6",
+        "mgr": "Rishabh Mehta",
+        "team": "PepMasterclass",
         "gw": 37,
         "total": 37,
         "move": 0
       },
       {
-        "mgr": "Rishabh Mehta",
-        "team": "PepMasterclass",
+        "mgr": "Kunal Manwani",
+        "team": "Kloppite_6",
         "gw": 37,
         "total": 37,
         "move": 0
@@ -367,8 +367,8 @@
         "move": 0
       },
       {
-        "mgr": "Edward Angkasa",
-        "team": "Juvenalis",
+        "mgr": "Paras Lalwani",
+        "team": "FC Pain Chaud",
         "gw": 31,
         "total": 31,
         "move": 0
@@ -381,8 +381,8 @@
         "move": 0
       },
       {
-        "mgr": "Paras Lalwani",
-        "team": "FC Pain Chaud",
+        "mgr": "Edward Angkasa",
+        "team": "Juvenalis",
         "gw": 31,
         "total": 31,
         "move": 0
@@ -481,15 +481,15 @@
         "move": 0
       },
       {
-        "mgr": "Nikk Kadbet",
-        "team": "Anfield Legends",
+        "mgr": "Sagar Paleja",
+        "team": "Jai Shree Krishna",
         "gw": 52,
         "total": 52,
         "move": 0
       },
       {
-        "mgr": "Sagar Paleja",
-        "team": "Jai Shree Krishna",
+        "mgr": "Nikk Kadbet",
+        "team": "Anfield Legends",
         "gw": 52,
         "total": 52,
         "move": 0
@@ -544,15 +544,15 @@
         "move": 0
       },
       {
-        "mgr": "Jonathan Lobo",
-        "team": "Jonathan's Team",
+        "mgr": "Lavesh Punjabi",
+        "team": "Punjabi United",
         "gw": 42,
         "total": 42,
         "move": 0
       },
       {
-        "mgr": "Lavesh Punjabi",
-        "team": "Punjabi United",
+        "mgr": "Jonathan Lobo",
+        "team": "Jonathan's Team",
         "gw": 42,
         "total": 42,
         "move": 0
