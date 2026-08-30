@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-30T20:03:36.124Z",
+  "updated": "2026-08-30T21:03:26.268Z",
   "standings": {
     "main": [
       {
@@ -10,13 +10,6 @@
         "move": 1
       },
       {
-        "mgr": "Rohan Kalwani",
-        "team": "-4 Builds Carrickter",
-        "gw": 120,
-        "total": 173,
-        "move": 37
-      },
-      {
         "mgr": "Neel Dadlani",
         "team": "NDFC",
         "gw": 100,
@@ -24,18 +17,18 @@
         "move": 8
       },
       {
+        "mgr": "Rohan Kalwani",
+        "team": "-4 Builds Carrickter",
+        "gw": 120,
+        "total": 173,
+        "move": 37
+      },
+      {
         "mgr": "Rahul Nanwani",
         "team": "Rahul Nanwani FC",
         "gw": 96,
         "total": 172,
         "move": 0
-      },
-      {
-        "mgr": "Sherwin Lee",
-        "team": "soteriapsalms",
-        "gw": 111,
-        "total": 171,
-        "move": 22
       },
       {
         "mgr": "Karan Khosla",
@@ -52,6 +45,13 @@
         "move": 2
       },
       {
+        "mgr": "Sherwin Lee",
+        "team": "soteriapsalms",
+        "gw": 111,
+        "total": 171,
+        "move": 22
+      },
+      {
         "mgr": "Bharat Lakhwani",
         "team": "Bpl",
         "gw": 98,
@@ -59,18 +59,18 @@
         "move": 4
       },
       {
-        "mgr": "Sanjay Morani",
-        "team": "Xisco Inferno FC",
-        "gw": 94,
-        "total": 169,
-        "move": -4
-      },
-      {
         "mgr": "Chiraag Keswani",
         "team": "Ckeswani's XI",
         "gw": 105,
         "total": 169,
         "move": 11
+      },
+      {
+        "mgr": "Sanjay Morani",
+        "team": "Xisco Inferno FC",
+        "gw": 94,
+        "total": 169,
+        "move": -4
       },
       {
         "mgr": "Akshay Melwani",
@@ -94,6 +94,13 @@
         "move": 1
       },
       {
+        "mgr": "Nikk Kadbet",
+        "team": "Anfield Legends",
+        "gw": 103,
+        "total": 166,
+        "move": 9
+      },
+      {
         "mgr": "Paras Lalwani",
         "team": "FC Pain Chaud",
         "gw": 124,
@@ -106,13 +113,6 @@
         "gw": 97,
         "total": 166,
         "move": 2
-      },
-      {
-        "mgr": "Nikk Kadbet",
-        "team": "Anfield Legends",
-        "gw": 103,
-        "total": 166,
-        "move": 9
       },
       {
         "mgr": "Prashant Chainani",
@@ -164,18 +164,18 @@
         "move": 10
       },
       {
-        "mgr": "Deepu Narwani",
-        "team": "FC BOSS THA",
-        "gw": 88,
-        "total": 156,
-        "move": -7
-      },
-      {
         "mgr": "Michael Kenneth",
         "team": "Pool4life",
         "gw": 106,
         "total": 156,
         "move": 20
+      },
+      {
+        "mgr": "Deepu Narwani",
+        "team": "FC BOSS THA",
+        "gw": 88,
+        "total": 156,
+        "move": -7
       },
       {
         "mgr": "Siddarth Kaul",
@@ -241,18 +241,18 @@
         "move": -4
       },
       {
-        "mgr": "Jevesh Vatvani",
-        "team": "YNWA",
-        "gw": 94,
-        "total": 146,
-        "move": 7
-      },
-      {
         "mgr": "Abhishek Keswani",
         "team": "Usual Suspects",
         "gw": 96,
         "total": 146,
         "move": 9
+      },
+      {
+        "mgr": "Jevesh Vatvani",
+        "team": "YNWA",
+        "gw": 94,
+        "total": 146,
+        "move": 7
       },
       {
         "mgr": "Jonathan Lobo",
@@ -425,18 +425,18 @@
         "move": 0
       },
       {
-        "mgr": "Karan Khosla",
-        "team": "Jinja's Safari",
-        "gw": 97,
-        "total": 171,
-        "move": 3
-      },
-      {
         "mgr": "Sherwin Lee",
         "team": "soteriapsalms",
         "gw": 111,
         "total": 171,
         "move": 12
+      },
+      {
+        "mgr": "Karan Khosla",
+        "team": "Jinja's Safari",
+        "gw": 97,
+        "total": 171,
+        "move": 3
       },
       {
         "mgr": "Sanjay Morani",
