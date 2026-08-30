@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-30T18:03:10.068Z",
+  "updated": "2026-08-30T19:03:19.180Z",
   "standings": {
     "main": [
       {
@@ -24,15 +24,15 @@
         "move": 1
       },
       {
-        "mgr": "Karan Khosla",
-        "team": "Jinja's Safari",
+        "mgr": "Nitin Nathani",
+        "team": "Untouchables",
         "gw": 97,
         "total": 171,
         "move": 3
       },
       {
-        "mgr": "Nitin Nathani",
-        "team": "Untouchables",
+        "mgr": "Karan Khosla",
+        "team": "Jinja's Safari",
         "gw": 97,
         "total": 171,
         "move": 3
@@ -73,6 +73,13 @@
         "move": 19
       },
       {
+        "mgr": "Sanchit Suri",
+        "team": "WinterisHere!",
+        "gw": 93,
+        "total": 168,
+        "move": -6
+      },
+      {
         "mgr": "Akshay Melwani",
         "team": "Test",
         "gw": 96,
@@ -87,11 +94,11 @@
         "move": 1
       },
       {
-        "mgr": "Sanchit Suri",
-        "team": "WinterisHere!",
-        "gw": 93,
-        "total": 168,
-        "move": -6
+        "mgr": "Paras Lalwani",
+        "team": "FC Pain Chaud",
+        "gw": 124,
+        "total": 166,
+        "move": 38
       },
       {
         "mgr": "Neeraj Narwani",
@@ -99,13 +106,6 @@
         "gw": 97,
         "total": 166,
         "move": 2
-      },
-      {
-        "mgr": "Paras Lalwani",
-        "team": "FC Pain Chaud",
-        "gw": 124,
-        "total": 166,
-        "move": 38
       },
       {
         "mgr": "Nikk Kadbet",
@@ -136,6 +136,13 @@
         "move": -12
       },
       {
+        "mgr": "Rachman Witarlan",
+        "team": "FC Milanello",
+        "gw": 100,
+        "total": 157,
+        "move": 11
+      },
+      {
         "mgr": "Snehanshu Gupta",
         "team": "Snaydoooo",
         "gw": 95,
@@ -148,13 +155,6 @@
         "gw": 79,
         "total": 157,
         "move": -17
-      },
-      {
-        "mgr": "Rachman Witarlan",
-        "team": "FC Milanello",
-        "gw": 100,
-        "total": 157,
-        "move": 11
       },
       {
         "mgr": "Win Win",
@@ -199,18 +199,18 @@
         "move": 19
       },
       {
-        "mgr": "Prashan Harjani",
-        "team": "Pineapple Delight",
-        "gw": 96,
-        "total": 153,
-        "move": 2
-      },
-      {
         "mgr": "Rayan Hamza",
         "team": "Zarks",
         "gw": 98,
         "total": 153,
         "move": 5
+      },
+      {
+        "mgr": "Prashan Harjani",
+        "team": "Pineapple Delight",
+        "gw": 96,
+        "total": 153,
+        "move": 2
       },
       {
         "mgr": "Hitesh Mahbubani",
@@ -241,18 +241,18 @@
         "move": -4
       },
       {
-        "mgr": "Abhishek Keswani",
-        "team": "Usual Suspects",
-        "gw": 96,
-        "total": 146,
-        "move": 9
-      },
-      {
         "mgr": "Jevesh Vatvani",
         "team": "YNWA",
         "gw": 94,
         "total": 146,
         "move": 7
+      },
+      {
+        "mgr": "Abhishek Keswani",
+        "team": "Usual Suspects",
+        "gw": 96,
+        "total": 146,
+        "move": 9
       },
       {
         "mgr": "M Suudi",
@@ -432,18 +432,18 @@
         "move": 3
       },
       {
-        "mgr": "Sanjay Morani",
-        "team": "Xisco Inferno FC",
-        "gw": 94,
-        "total": 169,
-        "move": 0
-      },
-      {
         "mgr": "Sherwin Lee",
         "team": "soteriapsalms",
         "gw": 109,
         "total": 169,
         "move": 11
+      },
+      {
+        "mgr": "Sanjay Morani",
+        "team": "Xisco Inferno FC",
+        "gw": 94,
+        "total": 169,
+        "move": 0
       },
       {
         "mgr": "Sanchit Suri",
