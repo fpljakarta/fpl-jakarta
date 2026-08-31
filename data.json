@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-31T18:03:35.398Z",
+  "updated": "2026-08-31T19:03:17.633Z",
   "standings": {
     "main": [
       {
@@ -10,18 +10,18 @@
         "move": 1
       },
       {
-        "mgr": "Rohan Kalwani",
-        "team": "-4 Builds Carrickter",
-        "gw": 120,
-        "total": 173,
-        "move": 37
-      },
-      {
         "mgr": "Neel Dadlani",
         "team": "NDFC",
         "gw": 100,
         "total": 173,
         "move": 8
+      },
+      {
+        "mgr": "Rohan Kalwani",
+        "team": "-4 Builds Carrickter",
+        "gw": 120,
+        "total": 173,
+        "move": 37
       },
       {
         "mgr": "Rahul Nanwani",
@@ -38,15 +38,15 @@
         "move": 22
       },
       {
-        "mgr": "Karan Khosla",
-        "team": "Jinja's Safari",
+        "mgr": "Nitin Nathani",
+        "team": "Untouchables",
         "gw": 97,
         "total": 171,
         "move": 2
       },
       {
-        "mgr": "Nitin Nathani",
-        "team": "Untouchables",
+        "mgr": "Karan Khosla",
+        "team": "Jinja's Safari",
         "gw": 97,
         "total": 171,
         "move": 2
@@ -101,18 +101,18 @@
         "move": 9
       },
       {
-        "mgr": "Neeraj Narwani",
-        "team": "Gampang Bro",
-        "gw": 97,
-        "total": 166,
-        "move": 2
-      },
-      {
         "mgr": "Paras Lalwani",
         "team": "FC Pain Chaud",
         "gw": 124,
         "total": 166,
         "move": 38
+      },
+      {
+        "mgr": "Neeraj Narwani",
+        "team": "Gampang Bro",
+        "gw": 97,
+        "total": 166,
+        "move": 2
       },
       {
         "mgr": "Prashant Chainani",
@@ -143,13 +143,6 @@
         "move": 6
       },
       {
-        "mgr": "Rachman Witarlan",
-        "team": "FC Milanello",
-        "gw": 100,
-        "total": 157,
-        "move": 10
-      },
-      {
         "mgr": "Dayne De Melo",
         "team": "Gross Misconduct",
         "gw": 79,
@@ -164,11 +157,11 @@
         "move": 31
       },
       {
-        "mgr": "Deepu Narwani",
-        "team": "FC BOSS THA",
-        "gw": 88,
-        "total": 156,
-        "move": -7
+        "mgr": "Rachman Witarlan",
+        "team": "FC Milanello",
+        "gw": 100,
+        "total": 157,
+        "move": 10
       },
       {
         "mgr": "Michael Kenneth",
@@ -176,6 +169,13 @@
         "gw": 106,
         "total": 156,
         "move": 20
+      },
+      {
+        "mgr": "Deepu Narwani",
+        "team": "FC BOSS THA",
+        "gw": 88,
+        "total": 156,
+        "move": -7
       },
       {
         "mgr": "Siddarth Kaul",
@@ -199,18 +199,18 @@
         "move": 19
       },
       {
-        "mgr": "Rayan Hamza",
-        "team": "Zarks",
-        "gw": 98,
-        "total": 153,
-        "move": 5
-      },
-      {
         "mgr": "Prashan Harjani",
         "team": "Pineapple Delight",
         "gw": 96,
         "total": 153,
         "move": 2
+      },
+      {
+        "mgr": "Rayan Hamza",
+        "team": "Zarks",
+        "gw": 98,
+        "total": 153,
+        "move": 5
       },
       {
         "mgr": "Hitesh Mahbubani",
