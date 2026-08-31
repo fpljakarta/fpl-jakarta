@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-31T09:03:22.474Z",
+  "updated": "2026-08-31T10:03:23.879Z",
   "standings": {
     "main": [
       {
@@ -59,13 +59,6 @@
         "move": 4
       },
       {
-        "mgr": "Chiraag Keswani",
-        "team": "Ckeswani's XI",
-        "gw": 105,
-        "total": 169,
-        "move": 11
-      },
-      {
         "mgr": "Sanjay Morani",
         "team": "Xisco Inferno FC",
         "gw": 94,
@@ -73,11 +66,11 @@
         "move": -4
       },
       {
-        "mgr": "Sanchit Suri",
-        "team": "WinterisHere!",
-        "gw": 93,
-        "total": 168,
-        "move": -6
+        "mgr": "Chiraag Keswani",
+        "team": "Ckeswani's XI",
+        "gw": 105,
+        "total": 169,
+        "move": 11
       },
       {
         "mgr": "Akshay Melwani",
@@ -87,11 +80,25 @@
         "move": 1
       },
       {
+        "mgr": "Sanchit Suri",
+        "team": "WinterisHere!",
+        "gw": 93,
+        "total": 168,
+        "move": -6
+      },
+      {
         "mgr": "Draking Ngaditono",
         "team": "Enerzy",
         "gw": 96,
         "total": 168,
         "move": 1
+      },
+      {
+        "mgr": "Neeraj Narwani",
+        "team": "Gampang Bro",
+        "gw": 97,
+        "total": 166,
+        "move": 2
       },
       {
         "mgr": "Nikk Kadbet",
@@ -106,13 +113,6 @@
         "gw": 124,
         "total": 166,
         "move": 38
-      },
-      {
-        "mgr": "Neeraj Narwani",
-        "team": "Gampang Bro",
-        "gw": 97,
-        "total": 166,
-        "move": 2
       },
       {
         "mgr": "Prashant Chainani",
@@ -164,18 +164,18 @@
         "move": 10
       },
       {
-        "mgr": "Michael Kenneth",
-        "team": "Pool4life",
-        "gw": 106,
-        "total": 156,
-        "move": 20
-      },
-      {
         "mgr": "Deepu Narwani",
         "team": "FC BOSS THA",
         "gw": 88,
         "total": 156,
         "move": -7
+      },
+      {
+        "mgr": "Michael Kenneth",
+        "team": "Pool4life",
+        "gw": 106,
+        "total": 156,
+        "move": 20
       },
       {
         "mgr": "Siddarth Kaul",
@@ -199,18 +199,18 @@
         "move": 19
       },
       {
-        "mgr": "Rayan Hamza",
-        "team": "Zarks",
-        "gw": 98,
-        "total": 153,
-        "move": 5
-      },
-      {
         "mgr": "Prashan Harjani",
         "team": "Pineapple Delight",
         "gw": 96,
         "total": 153,
         "move": 2
+      },
+      {
+        "mgr": "Rayan Hamza",
+        "team": "Zarks",
+        "gw": 98,
+        "total": 153,
+        "move": 5
       },
       {
         "mgr": "Hitesh Mahbubani",
@@ -425,18 +425,18 @@
         "move": 0
       },
       {
-        "mgr": "Karan Khosla",
-        "team": "Jinja's Safari",
-        "gw": 97,
-        "total": 171,
-        "move": 3
-      },
-      {
         "mgr": "Sherwin Lee",
         "team": "soteriapsalms",
         "gw": 111,
         "total": 171,
         "move": 12
+      },
+      {
+        "mgr": "Karan Khosla",
+        "team": "Jinja's Safari",
+        "gw": 97,
+        "total": 171,
+        "move": 3
       },
       {
         "mgr": "Sanjay Morani",
