@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-31T05:03:29.490Z",
+  "updated": "2026-08-31T06:03:57.658Z",
   "standings": {
     "main": [
       {
@@ -31,18 +31,18 @@
         "move": 0
       },
       {
-        "mgr": "Sherwin Lee",
-        "team": "soteriapsalms",
-        "gw": 111,
-        "total": 171,
-        "move": 22
-      },
-      {
         "mgr": "Nitin Nathani",
         "team": "Untouchables",
         "gw": 97,
         "total": 171,
         "move": 2
+      },
+      {
+        "mgr": "Sherwin Lee",
+        "team": "soteriapsalms",
+        "gw": 111,
+        "total": 171,
+        "move": 22
       },
       {
         "mgr": "Karan Khosla",
@@ -59,13 +59,6 @@
         "move": 4
       },
       {
-        "mgr": "Sanjay Morani",
-        "team": "Xisco Inferno FC",
-        "gw": 94,
-        "total": 169,
-        "move": -4
-      },
-      {
         "mgr": "Chiraag Keswani",
         "team": "Ckeswani's XI",
         "gw": 105,
@@ -73,8 +66,15 @@
         "move": 11
       },
       {
-        "mgr": "Akshay Melwani",
-        "team": "Test",
+        "mgr": "Sanjay Morani",
+        "team": "Xisco Inferno FC",
+        "gw": 94,
+        "total": 169,
+        "move": -4
+      },
+      {
+        "mgr": "Draking Ngaditono",
+        "team": "Enerzy",
         "gw": 96,
         "total": 168,
         "move": 1
@@ -87,11 +87,18 @@
         "move": -6
       },
       {
-        "mgr": "Draking Ngaditono",
-        "team": "Enerzy",
+        "mgr": "Akshay Melwani",
+        "team": "Test",
         "gw": 96,
         "total": 168,
         "move": 1
+      },
+      {
+        "mgr": "Neeraj Narwani",
+        "team": "Gampang Bro",
+        "gw": 97,
+        "total": 166,
+        "move": 2
       },
       {
         "mgr": "Paras Lalwani",
@@ -106,13 +113,6 @@
         "gw": 103,
         "total": 166,
         "move": 9
-      },
-      {
-        "mgr": "Neeraj Narwani",
-        "team": "Gampang Bro",
-        "gw": 97,
-        "total": 166,
-        "move": 2
       },
       {
         "mgr": "Prashant Chainani",
@@ -143,18 +143,18 @@
         "move": 6
       },
       {
-        "mgr": "Win Win",
-        "team": "Kalimasada FC",
-        "gw": 115,
-        "total": 157,
-        "move": 31
-      },
-      {
         "mgr": "Dayne De Melo",
         "team": "Gross Misconduct",
         "gw": 79,
         "total": 157,
         "move": -18
+      },
+      {
+        "mgr": "Win Win",
+        "team": "Kalimasada FC",
+        "gw": 115,
+        "total": 157,
+        "move": 31
       },
       {
         "mgr": "Rachman Witarlan",
@@ -199,18 +199,18 @@
         "move": 19
       },
       {
-        "mgr": "Prashan Harjani",
-        "team": "Pineapple Delight",
-        "gw": 96,
-        "total": 153,
-        "move": 2
-      },
-      {
         "mgr": "Rayan Hamza",
         "team": "Zarks",
         "gw": 98,
         "total": 153,
         "move": 5
+      },
+      {
+        "mgr": "Prashan Harjani",
+        "team": "Pineapple Delight",
+        "gw": 96,
+        "total": 153,
+        "move": 2
       },
       {
         "mgr": "Hitesh Mahbubani",
@@ -241,18 +241,18 @@
         "move": -4
       },
       {
-        "mgr": "Jevesh Vatvani",
-        "team": "YNWA",
-        "gw": 94,
-        "total": 146,
-        "move": 7
-      },
-      {
         "mgr": "Abhishek Keswani",
         "team": "Usual Suspects",
         "gw": 96,
         "total": 146,
         "move": 9
+      },
+      {
+        "mgr": "Jevesh Vatvani",
+        "team": "YNWA",
+        "gw": 94,
+        "total": 146,
+        "move": 7
       },
       {
         "mgr": "Jonathan Lobo",
@@ -453,18 +453,18 @@
         "move": -2
       },
       {
-        "mgr": "Neeraj Narwani",
-        "team": "Gampang Bro",
-        "gw": 97,
-        "total": 166,
-        "move": 2
-      },
-      {
         "mgr": "Nikk Kadbet",
         "team": "Anfield Legends",
         "gw": 103,
         "total": 166,
         "move": 6
+      },
+      {
+        "mgr": "Neeraj Narwani",
+        "team": "Gampang Bro",
+        "gw": 97,
+        "total": 166,
+        "move": 2
       },
       {
         "mgr": "Prashant Chainani",
