@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-31T06:03:57.658Z",
+  "updated": "2026-08-31T07:03:30.456Z",
   "standings": {
     "main": [
       {
@@ -10,18 +10,18 @@
         "move": 1
       },
       {
-        "mgr": "Rohan Kalwani",
-        "team": "-4 Builds Carrickter",
-        "gw": 120,
-        "total": 173,
-        "move": 37
-      },
-      {
         "mgr": "Neel Dadlani",
         "team": "NDFC",
         "gw": 100,
         "total": 173,
         "move": 8
+      },
+      {
+        "mgr": "Rohan Kalwani",
+        "team": "-4 Builds Carrickter",
+        "gw": 120,
+        "total": 173,
+        "move": 37
       },
       {
         "mgr": "Rahul Nanwani",
@@ -31,8 +31,8 @@
         "move": 0
       },
       {
-        "mgr": "Nitin Nathani",
-        "team": "Untouchables",
+        "mgr": "Karan Khosla",
+        "team": "Jinja's Safari",
         "gw": 97,
         "total": 171,
         "move": 2
@@ -45,8 +45,8 @@
         "move": 22
       },
       {
-        "mgr": "Karan Khosla",
-        "team": "Jinja's Safari",
+        "mgr": "Nitin Nathani",
+        "team": "Untouchables",
         "gw": 97,
         "total": 171,
         "move": 2
@@ -59,13 +59,6 @@
         "move": 4
       },
       {
-        "mgr": "Chiraag Keswani",
-        "team": "Ckeswani's XI",
-        "gw": 105,
-        "total": 169,
-        "move": 11
-      },
-      {
         "mgr": "Sanjay Morani",
         "team": "Xisco Inferno FC",
         "gw": 94,
@@ -73,11 +66,11 @@
         "move": -4
       },
       {
-        "mgr": "Draking Ngaditono",
-        "team": "Enerzy",
-        "gw": 96,
-        "total": 168,
-        "move": 1
+        "mgr": "Chiraag Keswani",
+        "team": "Ckeswani's XI",
+        "gw": 105,
+        "total": 169,
+        "move": 11
       },
       {
         "mgr": "Sanchit Suri",
@@ -87,18 +80,18 @@
         "move": -6
       },
       {
-        "mgr": "Akshay Melwani",
-        "team": "Test",
+        "mgr": "Draking Ngaditono",
+        "team": "Enerzy",
         "gw": 96,
         "total": 168,
         "move": 1
       },
       {
-        "mgr": "Neeraj Narwani",
-        "team": "Gampang Bro",
-        "gw": 97,
-        "total": 166,
-        "move": 2
+        "mgr": "Akshay Melwani",
+        "team": "Test",
+        "gw": 96,
+        "total": 168,
+        "move": 1
       },
       {
         "mgr": "Paras Lalwani",
@@ -113,6 +106,13 @@
         "gw": 103,
         "total": 166,
         "move": 9
+      },
+      {
+        "mgr": "Neeraj Narwani",
+        "team": "Gampang Bro",
+        "gw": 97,
+        "total": 166,
+        "move": 2
       },
       {
         "mgr": "Prashant Chainani",
