@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-31T10:03:23.879Z",
+  "updated": "2026-08-31T11:03:17.114Z",
   "standings": {
     "main": [
       {
@@ -31,15 +31,15 @@
         "move": 0
       },
       {
-        "mgr": "Nitin Nathani",
-        "team": "Untouchables",
+        "mgr": "Karan Khosla",
+        "team": "Jinja's Safari",
         "gw": 97,
         "total": 171,
         "move": 2
       },
       {
-        "mgr": "Karan Khosla",
-        "team": "Jinja's Safari",
+        "mgr": "Nitin Nathani",
+        "team": "Untouchables",
         "gw": 97,
         "total": 171,
         "move": 2
@@ -199,18 +199,18 @@
         "move": 19
       },
       {
-        "mgr": "Prashan Harjani",
-        "team": "Pineapple Delight",
-        "gw": 96,
-        "total": 153,
-        "move": 2
-      },
-      {
         "mgr": "Rayan Hamza",
         "team": "Zarks",
         "gw": 98,
         "total": 153,
         "move": 5
+      },
+      {
+        "mgr": "Prashan Harjani",
+        "team": "Pineapple Delight",
+        "gw": 96,
+        "total": 153,
+        "move": 2
       },
       {
         "mgr": "Hitesh Mahbubani",
@@ -453,18 +453,18 @@
         "move": -2
       },
       {
-        "mgr": "Nikk Kadbet",
-        "team": "Anfield Legends",
-        "gw": 103,
-        "total": 166,
-        "move": 6
-      },
-      {
         "mgr": "Neeraj Narwani",
         "team": "Gampang Bro",
         "gw": 97,
         "total": 166,
         "move": 2
+      },
+      {
+        "mgr": "Nikk Kadbet",
+        "team": "Anfield Legends",
+        "gw": 103,
+        "total": 166,
+        "move": 6
       },
       {
         "mgr": "Prashant Chainani",
