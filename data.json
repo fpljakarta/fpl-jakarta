@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-31T00:04:04.713Z",
+  "updated": "2026-08-31T01:03:22.336Z",
   "standings": {
     "main": [
       {
@@ -10,13 +10,6 @@
         "move": 1
       },
       {
-        "mgr": "Neel Dadlani",
-        "team": "NDFC",
-        "gw": 100,
-        "total": 173,
-        "move": 8
-      },
-      {
         "mgr": "Rohan Kalwani",
         "team": "-4 Builds Carrickter",
         "gw": 120,
@@ -24,11 +17,25 @@
         "move": 37
       },
       {
+        "mgr": "Neel Dadlani",
+        "team": "NDFC",
+        "gw": 100,
+        "total": 173,
+        "move": 8
+      },
+      {
         "mgr": "Rahul Nanwani",
         "team": "Rahul Nanwani FC",
         "gw": 96,
         "total": 172,
         "move": 0
+      },
+      {
+        "mgr": "Sherwin Lee",
+        "team": "soteriapsalms",
+        "gw": 111,
+        "total": 171,
+        "move": 22
       },
       {
         "mgr": "Karan Khosla",
@@ -45,18 +52,18 @@
         "move": 2
       },
       {
-        "mgr": "Sherwin Lee",
-        "team": "soteriapsalms",
-        "gw": 111,
-        "total": 171,
-        "move": 22
-      },
-      {
         "mgr": "Bharat Lakhwani",
         "team": "Bpl",
         "gw": 98,
         "total": 170,
         "move": 4
+      },
+      {
+        "mgr": "Sanjay Morani",
+        "team": "Xisco Inferno FC",
+        "gw": 94,
+        "total": 169,
+        "move": -4
       },
       {
         "mgr": "Chiraag Keswani",
@@ -66,11 +73,11 @@
         "move": 11
       },
       {
-        "mgr": "Sanjay Morani",
-        "team": "Xisco Inferno FC",
-        "gw": 94,
-        "total": 169,
-        "move": -4
+        "mgr": "Draking Ngaditono",
+        "team": "Enerzy",
+        "gw": 96,
+        "total": 168,
+        "move": 1
       },
       {
         "mgr": "Akshay Melwani",
@@ -87,11 +94,11 @@
         "move": -6
       },
       {
-        "mgr": "Draking Ngaditono",
-        "team": "Enerzy",
-        "gw": 96,
-        "total": 168,
-        "move": 1
+        "mgr": "Nikk Kadbet",
+        "team": "Anfield Legends",
+        "gw": 103,
+        "total": 166,
+        "move": 9
       },
       {
         "mgr": "Paras Lalwani",
@@ -99,13 +106,6 @@
         "gw": 124,
         "total": 166,
         "move": 38
-      },
-      {
-        "mgr": "Nikk Kadbet",
-        "team": "Anfield Legends",
-        "gw": 103,
-        "total": 166,
-        "move": 9
       },
       {
         "mgr": "Neeraj Narwani",
@@ -199,18 +199,18 @@
         "move": 19
       },
       {
-        "mgr": "Rayan Hamza",
-        "team": "Zarks",
-        "gw": 98,
-        "total": 153,
-        "move": 5
-      },
-      {
         "mgr": "Prashan Harjani",
         "team": "Pineapple Delight",
         "gw": 96,
         "total": 153,
         "move": 2
+      },
+      {
+        "mgr": "Rayan Hamza",
+        "team": "Zarks",
+        "gw": 98,
+        "total": 153,
+        "move": 5
       },
       {
         "mgr": "Hitesh Mahbubani",
@@ -453,18 +453,18 @@
         "move": -2
       },
       {
-        "mgr": "Neeraj Narwani",
-        "team": "Gampang Bro",
-        "gw": 97,
-        "total": 166,
-        "move": 2
-      },
-      {
         "mgr": "Nikk Kadbet",
         "team": "Anfield Legends",
         "gw": 103,
         "total": 166,
         "move": 6
+      },
+      {
+        "mgr": "Neeraj Narwani",
+        "team": "Gampang Bro",
+        "gw": 97,
+        "total": 166,
+        "move": 2
       },
       {
         "mgr": "Prashant Chainani",
