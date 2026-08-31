@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-31T03:03:18.354Z",
+  "updated": "2026-08-31T04:03:15.172Z",
   "standings": {
     "main": [
       {
@@ -10,18 +10,18 @@
         "move": 1
       },
       {
-        "mgr": "Neel Dadlani",
-        "team": "NDFC",
-        "gw": 100,
-        "total": 173,
-        "move": 8
-      },
-      {
         "mgr": "Rohan Kalwani",
         "team": "-4 Builds Carrickter",
         "gw": 120,
         "total": 173,
         "move": 37
+      },
+      {
+        "mgr": "Neel Dadlani",
+        "team": "NDFC",
+        "gw": 100,
+        "total": 173,
+        "move": 8
       },
       {
         "mgr": "Rahul Nanwani",
@@ -31,11 +31,11 @@
         "move": 0
       },
       {
-        "mgr": "Sherwin Lee",
-        "team": "soteriapsalms",
-        "gw": 111,
+        "mgr": "Karan Khosla",
+        "team": "Jinja's Safari",
+        "gw": 97,
         "total": 171,
-        "move": 22
+        "move": 2
       },
       {
         "mgr": "Nitin Nathani",
@@ -45,11 +45,11 @@
         "move": 2
       },
       {
-        "mgr": "Karan Khosla",
-        "team": "Jinja's Safari",
-        "gw": 97,
+        "mgr": "Sherwin Lee",
+        "team": "soteriapsalms",
+        "gw": 111,
         "total": 171,
-        "move": 2
+        "move": 22
       },
       {
         "mgr": "Bharat Lakhwani",
@@ -94,13 +94,6 @@
         "move": 1
       },
       {
-        "mgr": "Neeraj Narwani",
-        "team": "Gampang Bro",
-        "gw": 97,
-        "total": 166,
-        "move": 2
-      },
-      {
         "mgr": "Nikk Kadbet",
         "team": "Anfield Legends",
         "gw": 103,
@@ -113,6 +106,13 @@
         "gw": 124,
         "total": 166,
         "move": 38
+      },
+      {
+        "mgr": "Neeraj Narwani",
+        "team": "Gampang Bro",
+        "gw": 97,
+        "total": 166,
+        "move": 2
       },
       {
         "mgr": "Prashant Chainani",
@@ -150,13 +150,6 @@
         "move": 31
       },
       {
-        "mgr": "Dayne De Melo",
-        "team": "Gross Misconduct",
-        "gw": 79,
-        "total": 157,
-        "move": -18
-      },
-      {
         "mgr": "Rachman Witarlan",
         "team": "FC Milanello",
         "gw": 100,
@@ -164,11 +157,11 @@
         "move": 10
       },
       {
-        "mgr": "Deepu Narwani",
-        "team": "FC BOSS THA",
-        "gw": 88,
-        "total": 156,
-        "move": -7
+        "mgr": "Dayne De Melo",
+        "team": "Gross Misconduct",
+        "gw": 79,
+        "total": 157,
+        "move": -18
       },
       {
         "mgr": "Michael Kenneth",
@@ -176,6 +169,13 @@
         "gw": 106,
         "total": 156,
         "move": 20
+      },
+      {
+        "mgr": "Deepu Narwani",
+        "team": "FC BOSS THA",
+        "gw": 88,
+        "total": 156,
+        "move": -7
       },
       {
         "mgr": "Siddarth Kaul",
@@ -199,18 +199,18 @@
         "move": 19
       },
       {
-        "mgr": "Prashan Harjani",
-        "team": "Pineapple Delight",
-        "gw": 96,
-        "total": 153,
-        "move": 2
-      },
-      {
         "mgr": "Rayan Hamza",
         "team": "Zarks",
         "gw": 98,
         "total": 153,
         "move": 5
+      },
+      {
+        "mgr": "Prashan Harjani",
+        "team": "Pineapple Delight",
+        "gw": 96,
+        "total": 153,
+        "move": 2
       },
       {
         "mgr": "Hitesh Mahbubani",
@@ -425,18 +425,18 @@
         "move": 0
       },
       {
-        "mgr": "Sherwin Lee",
-        "team": "soteriapsalms",
-        "gw": 111,
-        "total": 171,
-        "move": 12
-      },
-      {
         "mgr": "Karan Khosla",
         "team": "Jinja's Safari",
         "gw": 97,
         "total": 171,
         "move": 3
+      },
+      {
+        "mgr": "Sherwin Lee",
+        "team": "soteriapsalms",
+        "gw": 111,
+        "total": 171,
+        "move": 12
       },
       {
         "mgr": "Sanjay Morani",
