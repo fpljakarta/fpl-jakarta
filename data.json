@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-31T08:03:39.232Z",
+  "updated": "2026-08-31T09:03:22.474Z",
   "standings": {
     "main": [
       {
@@ -31,11 +31,11 @@
         "move": 0
       },
       {
-        "mgr": "Sherwin Lee",
-        "team": "soteriapsalms",
-        "gw": 111,
+        "mgr": "Nitin Nathani",
+        "team": "Untouchables",
+        "gw": 97,
         "total": 171,
-        "move": 22
+        "move": 2
       },
       {
         "mgr": "Karan Khosla",
@@ -45,11 +45,11 @@
         "move": 2
       },
       {
-        "mgr": "Nitin Nathani",
-        "team": "Untouchables",
-        "gw": 97,
+        "mgr": "Sherwin Lee",
+        "team": "soteriapsalms",
+        "gw": 111,
         "total": 171,
-        "move": 2
+        "move": 22
       },
       {
         "mgr": "Bharat Lakhwani",
@@ -94,6 +94,13 @@
         "move": 1
       },
       {
+        "mgr": "Nikk Kadbet",
+        "team": "Anfield Legends",
+        "gw": 103,
+        "total": 166,
+        "move": 9
+      },
+      {
         "mgr": "Paras Lalwani",
         "team": "FC Pain Chaud",
         "gw": 124,
@@ -106,13 +113,6 @@
         "gw": 97,
         "total": 166,
         "move": 2
-      },
-      {
-        "mgr": "Nikk Kadbet",
-        "team": "Anfield Legends",
-        "gw": 103,
-        "total": 166,
-        "move": 9
       },
       {
         "mgr": "Prashant Chainani",
@@ -143,11 +143,11 @@
         "move": 6
       },
       {
-        "mgr": "Rachman Witarlan",
-        "team": "FC Milanello",
-        "gw": 100,
+        "mgr": "Dayne De Melo",
+        "team": "Gross Misconduct",
+        "gw": 79,
         "total": 157,
-        "move": 10
+        "move": -18
       },
       {
         "mgr": "Win Win",
@@ -157,11 +157,11 @@
         "move": 31
       },
       {
-        "mgr": "Dayne De Melo",
-        "team": "Gross Misconduct",
-        "gw": 79,
+        "mgr": "Rachman Witarlan",
+        "team": "FC Milanello",
+        "gw": 100,
         "total": 157,
-        "move": -18
+        "move": 10
       },
       {
         "mgr": "Michael Kenneth",
@@ -453,18 +453,18 @@
         "move": -2
       },
       {
-        "mgr": "Neeraj Narwani",
-        "team": "Gampang Bro",
-        "gw": 97,
-        "total": 166,
-        "move": 2
-      },
-      {
         "mgr": "Nikk Kadbet",
         "team": "Anfield Legends",
         "gw": 103,
         "total": 166,
         "move": 6
+      },
+      {
+        "mgr": "Neeraj Narwani",
+        "team": "Gampang Bro",
+        "gw": 97,
+        "total": 166,
+        "move": 2
       },
       {
         "mgr": "Prashant Chainani",
