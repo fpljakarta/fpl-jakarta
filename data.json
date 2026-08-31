@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-31T12:03:47.038Z",
+  "updated": "2026-08-31T13:03:31.300Z",
   "standings": {
     "main": [
       {
@@ -73,8 +73,8 @@
         "move": 11
       },
       {
-        "mgr": "Akshay Melwani",
-        "team": "Test",
+        "mgr": "Draking Ngaditono",
+        "team": "Enerzy",
         "gw": 96,
         "total": 168,
         "move": 1
@@ -87,18 +87,18 @@
         "move": -6
       },
       {
-        "mgr": "Draking Ngaditono",
-        "team": "Enerzy",
+        "mgr": "Akshay Melwani",
+        "team": "Test",
         "gw": 96,
         "total": 168,
         "move": 1
       },
       {
-        "mgr": "Neeraj Narwani",
-        "team": "Gampang Bro",
-        "gw": 97,
+        "mgr": "Paras Lalwani",
+        "team": "FC Pain Chaud",
+        "gw": 124,
         "total": 166,
-        "move": 2
+        "move": 38
       },
       {
         "mgr": "Nikk Kadbet",
@@ -108,11 +108,11 @@
         "move": 9
       },
       {
-        "mgr": "Paras Lalwani",
-        "team": "FC Pain Chaud",
-        "gw": 124,
+        "mgr": "Neeraj Narwani",
+        "team": "Gampang Bro",
+        "gw": 97,
         "total": 166,
-        "move": 38
+        "move": 2
       },
       {
         "mgr": "Prashant Chainani",
@@ -143,6 +143,13 @@
         "move": 6
       },
       {
+        "mgr": "Win Win",
+        "team": "Kalimasada FC",
+        "gw": 115,
+        "total": 157,
+        "move": 31
+      },
+      {
         "mgr": "Dayne De Melo",
         "team": "Gross Misconduct",
         "gw": 79,
@@ -155,13 +162,6 @@
         "gw": 100,
         "total": 157,
         "move": 10
-      },
-      {
-        "mgr": "Win Win",
-        "team": "Kalimasada FC",
-        "gw": 115,
-        "total": 157,
-        "move": 31
       },
       {
         "mgr": "Michael Kenneth",
@@ -453,18 +453,18 @@
         "move": -2
       },
       {
-        "mgr": "Neeraj Narwani",
-        "team": "Gampang Bro",
-        "gw": 97,
-        "total": 166,
-        "move": 2
-      },
-      {
         "mgr": "Nikk Kadbet",
         "team": "Anfield Legends",
         "gw": 103,
         "total": 166,
         "move": 6
+      },
+      {
+        "mgr": "Neeraj Narwani",
+        "team": "Gampang Bro",
+        "gw": 97,
+        "total": 166,
+        "move": 2
       },
       {
         "mgr": "Prashant Chainani",
