@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-31T21:03:11.069Z",
+  "updated": "2026-08-31T22:03:28.417Z",
   "standings": {
     "main": [
       {
@@ -10,15 +10,15 @@
         "move": 1
       },
       {
-        "mgr": "Draking Ngaditono",
-        "team": "Enerzy",
+        "mgr": "Akshay Melwani",
+        "team": "Test",
         "gw": 122,
         "total": 194,
         "move": 10
       },
       {
-        "mgr": "Akshay Melwani",
-        "team": "Test",
+        "mgr": "Draking Ngaditono",
+        "team": "Enerzy",
         "gw": 122,
         "total": 194,
         "move": 10
@@ -80,15 +80,15 @@
         "move": 41
       },
       {
-        "mgr": "Karan Khosla",
-        "team": "Jinja's Safari",
+        "mgr": "Nitin Nathani",
+        "team": "Untouchables",
         "gw": 108,
         "total": 182,
         "move": -5
       },
       {
-        "mgr": "Nitin Nathani",
-        "team": "Untouchables",
+        "mgr": "Karan Khosla",
+        "team": "Jinja's Safari",
         "gw": 108,
         "total": 182,
         "move": -5
@@ -122,6 +122,13 @@
         "move": 6
       },
       {
+        "mgr": "Deepu Narwani",
+        "team": "FC BOSS THA",
+        "gw": 106,
+        "total": 174,
+        "move": -1
+      },
+      {
         "mgr": "Dayne De Melo",
         "team": "Gross Misconduct",
         "gw": 96,
@@ -134,13 +141,6 @@
         "gw": 110,
         "total": 174,
         "move": 2
-      },
-      {
-        "mgr": "Deepu Narwani",
-        "team": "FC BOSS THA",
-        "gw": 106,
-        "total": 174,
-        "move": -1
       },
       {
         "mgr": "Siddarth Kaul",
@@ -206,13 +206,6 @@
         "move": 23
       },
       {
-        "mgr": "Michael Kenneth",
-        "team": "Pool4life",
-        "gw": 117,
-        "total": 167,
-        "move": 14
-      },
-      {
         "mgr": "Suraj Topandasani",
         "team": "Londonal FC",
         "gw": 103,
@@ -220,18 +213,18 @@
         "move": -10
       },
       {
+        "mgr": "Michael Kenneth",
+        "team": "Pool4life",
+        "gw": 117,
+        "total": 167,
+        "move": 14
+      },
+      {
         "mgr": "Rachman Witarlan",
         "team": "FC Milanello",
         "gw": 107,
         "total": 164,
         "move": -1
-      },
-      {
-        "mgr": "Hitesh Mahbubani",
-        "team": "Goalbusters",
-        "gw": 117,
-        "total": 163,
-        "move": 16
       },
       {
         "mgr": "M Suudi",
@@ -248,6 +241,13 @@
         "move": 9
       },
       {
+        "mgr": "Hitesh Mahbubani",
+        "team": "Goalbusters",
+        "gw": 117,
+        "total": 163,
+        "move": 16
+      },
+      {
         "mgr": "Abhishek Keswani",
         "team": "Usual Suspects",
         "gw": 110,
@@ -255,18 +255,18 @@
         "move": 8
       },
       {
-        "mgr": "Ajay Yeleswaram",
-        "team": "Relegated",
-        "gw": 105,
-        "total": 159,
-        "move": 0
-      },
-      {
         "mgr": "Vishal Lakhiani",
         "team": "Vish Fish",
         "gw": 101,
         "total": 159,
         "move": -7
+      },
+      {
+        "mgr": "Ajay Yeleswaram",
+        "team": "Relegated",
+        "gw": 105,
+        "total": 159,
+        "move": 0
       },
       {
         "mgr": "Jonathan Lobo",
@@ -332,18 +332,18 @@
         "move": -20
       },
       {
-        "mgr": "Kevin Raymond",
-        "team": "Gunners United",
-        "gw": 71,
-        "total": 134,
-        "move": -25
-      },
-      {
         "mgr": "Sagar Sadarangani",
         "team": "cole me palmer",
         "gw": 79,
         "total": 134,
         "move": -14
+      },
+      {
+        "mgr": "Kevin Raymond",
+        "team": "Gunners United",
+        "gw": 71,
+        "total": 134,
+        "move": -25
       },
       {
         "mgr": "Edward Angkasa",
@@ -474,13 +474,6 @@
         "move": 4
       },
       {
-        "mgr": "Prashant Chainani",
-        "team": "HighOnHouse",
-        "gw": 110,
-        "total": 174,
-        "move": 2
-      },
-      {
         "mgr": "Deepu Narwani",
         "team": "FC BOSS THA",
         "gw": 106,
@@ -495,11 +488,11 @@
         "move": -7
       },
       {
-        "mgr": "Xerxis Desai",
-        "team": "Bay City Ballers",
-        "gw": 101,
-        "total": 172,
-        "move": -5
+        "mgr": "Prashant Chainani",
+        "team": "HighOnHouse",
+        "gw": 110,
+        "total": 174,
+        "move": 2
       },
       {
         "mgr": "Kunal Manwani",
@@ -507,6 +500,13 @@
         "gw": 124,
         "total": 172,
         "move": 10
+      },
+      {
+        "mgr": "Xerxis Desai",
+        "team": "Bay City Ballers",
+        "gw": 101,
+        "total": 172,
+        "move": -5
       },
       {
         "mgr": "Prashan Harjani",
