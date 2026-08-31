@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-31T01:03:22.336Z",
+  "updated": "2026-08-31T02:03:22.622Z",
   "standings": {
     "main": [
       {
@@ -31,11 +31,11 @@
         "move": 0
       },
       {
-        "mgr": "Sherwin Lee",
-        "team": "soteriapsalms",
-        "gw": 111,
+        "mgr": "Nitin Nathani",
+        "team": "Untouchables",
+        "gw": 97,
         "total": 171,
-        "move": 22
+        "move": 2
       },
       {
         "mgr": "Karan Khosla",
@@ -45,11 +45,11 @@
         "move": 2
       },
       {
-        "mgr": "Nitin Nathani",
-        "team": "Untouchables",
-        "gw": 97,
+        "mgr": "Sherwin Lee",
+        "team": "soteriapsalms",
+        "gw": 111,
         "total": 171,
-        "move": 2
+        "move": 22
       },
       {
         "mgr": "Bharat Lakhwani",
@@ -59,13 +59,6 @@
         "move": 4
       },
       {
-        "mgr": "Sanjay Morani",
-        "team": "Xisco Inferno FC",
-        "gw": 94,
-        "total": 169,
-        "move": -4
-      },
-      {
         "mgr": "Chiraag Keswani",
         "team": "Ckeswani's XI",
         "gw": 105,
@@ -73,15 +66,15 @@
         "move": 11
       },
       {
-        "mgr": "Draking Ngaditono",
-        "team": "Enerzy",
-        "gw": 96,
-        "total": 168,
-        "move": 1
+        "mgr": "Sanjay Morani",
+        "team": "Xisco Inferno FC",
+        "gw": 94,
+        "total": 169,
+        "move": -4
       },
       {
-        "mgr": "Akshay Melwani",
-        "team": "Test",
+        "mgr": "Draking Ngaditono",
+        "team": "Enerzy",
         "gw": 96,
         "total": 168,
         "move": 1
@@ -92,6 +85,13 @@
         "gw": 93,
         "total": 168,
         "move": -6
+      },
+      {
+        "mgr": "Akshay Melwani",
+        "team": "Test",
+        "gw": 96,
+        "total": 168,
+        "move": 1
       },
       {
         "mgr": "Nikk Kadbet",
@@ -143,11 +143,11 @@
         "move": 6
       },
       {
-        "mgr": "Rachman Witarlan",
-        "team": "FC Milanello",
-        "gw": 100,
+        "mgr": "Win Win",
+        "team": "Kalimasada FC",
+        "gw": 115,
         "total": 157,
-        "move": 10
+        "move": 31
       },
       {
         "mgr": "Dayne De Melo",
@@ -157,11 +157,11 @@
         "move": -18
       },
       {
-        "mgr": "Win Win",
-        "team": "Kalimasada FC",
-        "gw": 115,
+        "mgr": "Rachman Witarlan",
+        "team": "FC Milanello",
+        "gw": 100,
         "total": 157,
-        "move": 31
+        "move": 10
       },
       {
         "mgr": "Michael Kenneth",
@@ -425,18 +425,18 @@
         "move": 0
       },
       {
-        "mgr": "Sherwin Lee",
-        "team": "soteriapsalms",
-        "gw": 111,
-        "total": 171,
-        "move": 12
-      },
-      {
         "mgr": "Karan Khosla",
         "team": "Jinja's Safari",
         "gw": 97,
         "total": 171,
         "move": 3
+      },
+      {
+        "mgr": "Sherwin Lee",
+        "team": "soteriapsalms",
+        "gw": 111,
+        "total": 171,
+        "move": 12
       },
       {
         "mgr": "Sanjay Morani",
