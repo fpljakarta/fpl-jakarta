@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-31T16:03:21.190Z",
+  "updated": "2026-08-31T17:03:25.250Z",
   "standings": {
     "main": [
       {
@@ -59,13 +59,6 @@
         "move": 4
       },
       {
-        "mgr": "Sanjay Morani",
-        "team": "Xisco Inferno FC",
-        "gw": 94,
-        "total": 169,
-        "move": -4
-      },
-      {
         "mgr": "Chiraag Keswani",
         "team": "Ckeswani's XI",
         "gw": 105,
@@ -73,11 +66,11 @@
         "move": 11
       },
       {
-        "mgr": "Sanchit Suri",
-        "team": "WinterisHere!",
-        "gw": 93,
-        "total": 168,
-        "move": -6
+        "mgr": "Sanjay Morani",
+        "team": "Xisco Inferno FC",
+        "gw": 94,
+        "total": 169,
+        "move": -4
       },
       {
         "mgr": "Akshay Melwani",
@@ -92,6 +85,13 @@
         "gw": 96,
         "total": 168,
         "move": 1
+      },
+      {
+        "mgr": "Sanchit Suri",
+        "team": "WinterisHere!",
+        "gw": 93,
+        "total": 168,
+        "move": -6
       },
       {
         "mgr": "Nikk Kadbet",
@@ -143,18 +143,18 @@
         "move": 6
       },
       {
-        "mgr": "Dayne De Melo",
-        "team": "Gross Misconduct",
-        "gw": 79,
-        "total": 157,
-        "move": -18
-      },
-      {
         "mgr": "Rachman Witarlan",
         "team": "FC Milanello",
         "gw": 100,
         "total": 157,
         "move": 10
+      },
+      {
+        "mgr": "Dayne De Melo",
+        "team": "Gross Misconduct",
+        "gw": 79,
+        "total": 157,
+        "move": -18
       },
       {
         "mgr": "Win Win",
@@ -164,18 +164,18 @@
         "move": 31
       },
       {
-        "mgr": "Deepu Narwani",
-        "team": "FC BOSS THA",
-        "gw": 88,
-        "total": 156,
-        "move": -7
-      },
-      {
         "mgr": "Michael Kenneth",
         "team": "Pool4life",
         "gw": 106,
         "total": 156,
         "move": 20
+      },
+      {
+        "mgr": "Deepu Narwani",
+        "team": "FC BOSS THA",
+        "gw": 88,
+        "total": 156,
+        "move": -7
       },
       {
         "mgr": "Siddarth Kaul",
@@ -199,18 +199,18 @@
         "move": 19
       },
       {
-        "mgr": "Rayan Hamza",
-        "team": "Zarks",
-        "gw": 98,
-        "total": 153,
-        "move": 5
-      },
-      {
         "mgr": "Prashan Harjani",
         "team": "Pineapple Delight",
         "gw": 96,
         "total": 153,
         "move": 2
+      },
+      {
+        "mgr": "Rayan Hamza",
+        "team": "Zarks",
+        "gw": 98,
+        "total": 153,
+        "move": 5
       },
       {
         "mgr": "Hitesh Mahbubani",
@@ -241,18 +241,18 @@
         "move": -4
       },
       {
-        "mgr": "Jevesh Vatvani",
-        "team": "YNWA",
-        "gw": 94,
-        "total": 146,
-        "move": 7
-      },
-      {
         "mgr": "Abhishek Keswani",
         "team": "Usual Suspects",
         "gw": 96,
         "total": 146,
         "move": 9
+      },
+      {
+        "mgr": "Jevesh Vatvani",
+        "team": "YNWA",
+        "gw": 94,
+        "total": 146,
+        "move": 7
       },
       {
         "mgr": "Jonathan Lobo",
@@ -425,18 +425,18 @@
         "move": 0
       },
       {
-        "mgr": "Karan Khosla",
-        "team": "Jinja's Safari",
-        "gw": 97,
-        "total": 171,
-        "move": 3
-      },
-      {
         "mgr": "Sherwin Lee",
         "team": "soteriapsalms",
         "gw": 111,
         "total": 171,
         "move": 12
+      },
+      {
+        "mgr": "Karan Khosla",
+        "team": "Jinja's Safari",
+        "gw": 97,
+        "total": 171,
+        "move": 3
       },
       {
         "mgr": "Sanjay Morani",
