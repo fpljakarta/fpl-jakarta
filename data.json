@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-31T11:03:17.114Z",
+  "updated": "2026-08-31T12:03:47.038Z",
   "standings": {
     "main": [
       {
@@ -31,15 +31,15 @@
         "move": 0
       },
       {
-        "mgr": "Karan Khosla",
-        "team": "Jinja's Safari",
+        "mgr": "Nitin Nathani",
+        "team": "Untouchables",
         "gw": 97,
         "total": 171,
         "move": 2
       },
       {
-        "mgr": "Nitin Nathani",
-        "team": "Untouchables",
+        "mgr": "Karan Khosla",
+        "team": "Jinja's Safari",
         "gw": 97,
         "total": 171,
         "move": 2
@@ -150,13 +150,6 @@
         "move": -18
       },
       {
-        "mgr": "Win Win",
-        "team": "Kalimasada FC",
-        "gw": 115,
-        "total": 157,
-        "move": 31
-      },
-      {
         "mgr": "Rachman Witarlan",
         "team": "FC Milanello",
         "gw": 100,
@@ -164,11 +157,11 @@
         "move": 10
       },
       {
-        "mgr": "Deepu Narwani",
-        "team": "FC BOSS THA",
-        "gw": 88,
-        "total": 156,
-        "move": -7
+        "mgr": "Win Win",
+        "team": "Kalimasada FC",
+        "gw": 115,
+        "total": 157,
+        "move": 31
       },
       {
         "mgr": "Michael Kenneth",
@@ -176,6 +169,13 @@
         "gw": 106,
         "total": 156,
         "move": 20
+      },
+      {
+        "mgr": "Deepu Narwani",
+        "team": "FC BOSS THA",
+        "gw": 88,
+        "total": 156,
+        "move": -7
       },
       {
         "mgr": "Siddarth Kaul",
@@ -199,18 +199,18 @@
         "move": 19
       },
       {
-        "mgr": "Rayan Hamza",
-        "team": "Zarks",
-        "gw": 98,
-        "total": 153,
-        "move": 5
-      },
-      {
         "mgr": "Prashan Harjani",
         "team": "Pineapple Delight",
         "gw": 96,
         "total": 153,
         "move": 2
+      },
+      {
+        "mgr": "Rayan Hamza",
+        "team": "Zarks",
+        "gw": 98,
+        "total": 153,
+        "move": 5
       },
       {
         "mgr": "Hitesh Mahbubani",
