@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-01T05:05:44.465Z",
+  "updated": "2026-09-01T06:08:00.481Z",
   "standings": {
     "main": [
       {
@@ -10,15 +10,15 @@
         "move": 1
       },
       {
-        "mgr": "Akshay Melwani",
-        "team": "Test",
+        "mgr": "Draking Ngaditono",
+        "team": "Enerzy",
         "gw": 122,
         "total": 194,
         "move": 10
       },
       {
-        "mgr": "Draking Ngaditono",
-        "team": "Enerzy",
+        "mgr": "Akshay Melwani",
+        "team": "Test",
         "gw": 122,
         "total": 194,
         "move": 10
@@ -122,11 +122,11 @@
         "move": 6
       },
       {
-        "mgr": "Deepu Narwani",
-        "team": "FC BOSS THA",
-        "gw": 106,
+        "mgr": "Dayne De Melo",
+        "team": "Gross Misconduct",
+        "gw": 96,
         "total": 174,
-        "move": -1
+        "move": -15
       },
       {
         "mgr": "Prashant Chainani",
@@ -136,11 +136,11 @@
         "move": 2
       },
       {
-        "mgr": "Dayne De Melo",
-        "team": "Gross Misconduct",
-        "gw": 96,
+        "mgr": "Deepu Narwani",
+        "team": "FC BOSS THA",
+        "gw": 106,
         "total": 174,
-        "move": -15
+        "move": -1
       },
       {
         "mgr": "Siddarth Kaul",
@@ -227,11 +227,11 @@
         "move": -1
       },
       {
-        "mgr": "Hitesh Mahbubani",
-        "team": "Goalbusters",
-        "gw": 117,
+        "mgr": "Jevesh Vatvani",
+        "team": "YNWA",
+        "gw": 111,
         "total": 163,
-        "move": 16
+        "move": 9
       },
       {
         "mgr": "M Suudi",
@@ -241,11 +241,11 @@
         "move": -32
       },
       {
-        "mgr": "Jevesh Vatvani",
-        "team": "YNWA",
-        "gw": 111,
+        "mgr": "Hitesh Mahbubani",
+        "team": "Goalbusters",
+        "gw": 117,
         "total": 163,
-        "move": 9
+        "move": 16
       },
       {
         "mgr": "Abhishek Keswani",
@@ -255,18 +255,18 @@
         "move": 8
       },
       {
-        "mgr": "Vishal Lakhiani",
-        "team": "Vish Fish",
-        "gw": 101,
-        "total": 159,
-        "move": -7
-      },
-      {
         "mgr": "Ajay Yeleswaram",
         "team": "Relegated",
         "gw": 105,
         "total": 159,
         "move": 0
+      },
+      {
+        "mgr": "Vishal Lakhiani",
+        "team": "Vish Fish",
+        "gw": 101,
+        "total": 159,
+        "move": -7
       },
       {
         "mgr": "Jonathan Lobo",
@@ -481,18 +481,18 @@
         "move": 0
       },
       {
-        "mgr": "Dayne De Melo",
-        "team": "Gross Misconduct",
-        "gw": 96,
-        "total": 174,
-        "move": -7
-      },
-      {
         "mgr": "Prashant Chainani",
         "team": "HighOnHouse",
         "gw": 110,
         "total": 174,
         "move": 2
+      },
+      {
+        "mgr": "Dayne De Melo",
+        "team": "Gross Misconduct",
+        "gw": 96,
+        "total": 174,
+        "move": -7
       },
       {
         "mgr": "Kunal Manwani",
