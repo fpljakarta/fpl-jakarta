@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-01T04:05:42.767Z",
+  "updated": "2026-09-01T05:05:44.465Z",
   "standings": {
     "main": [
       {
@@ -80,15 +80,15 @@
         "move": 41
       },
       {
-        "mgr": "Nitin Nathani",
-        "team": "Untouchables",
+        "mgr": "Karan Khosla",
+        "team": "Jinja's Safari",
         "gw": 108,
         "total": 182,
         "move": -5
       },
       {
-        "mgr": "Karan Khosla",
-        "team": "Jinja's Safari",
+        "mgr": "Nitin Nathani",
+        "team": "Untouchables",
         "gw": 108,
         "total": 182,
         "move": -5
@@ -206,18 +206,18 @@
         "move": 23
       },
       {
-        "mgr": "Michael Kenneth",
-        "team": "Pool4life",
-        "gw": 117,
-        "total": 167,
-        "move": 14
-      },
-      {
         "mgr": "Suraj Topandasani",
         "team": "Londonal FC",
         "gw": 103,
         "total": 167,
         "move": -10
+      },
+      {
+        "mgr": "Michael Kenneth",
+        "team": "Pool4life",
+        "gw": 117,
+        "total": 167,
+        "move": 14
       },
       {
         "mgr": "Rachman Witarlan",
@@ -255,18 +255,18 @@
         "move": 8
       },
       {
-        "mgr": "Ajay Yeleswaram",
-        "team": "Relegated",
-        "gw": 105,
-        "total": 159,
-        "move": 0
-      },
-      {
         "mgr": "Vishal Lakhiani",
         "team": "Vish Fish",
         "gw": 101,
         "total": 159,
         "move": -7
+      },
+      {
+        "mgr": "Ajay Yeleswaram",
+        "team": "Relegated",
+        "gw": 105,
+        "total": 159,
+        "move": 0
       },
       {
         "mgr": "Jonathan Lobo",
@@ -474,11 +474,11 @@
         "move": 4
       },
       {
-        "mgr": "Prashant Chainani",
-        "team": "HighOnHouse",
-        "gw": 110,
+        "mgr": "Deepu Narwani",
+        "team": "FC BOSS THA",
+        "gw": 106,
         "total": 174,
-        "move": 2
+        "move": 0
       },
       {
         "mgr": "Dayne De Melo",
@@ -488,18 +488,11 @@
         "move": -7
       },
       {
-        "mgr": "Deepu Narwani",
-        "team": "FC BOSS THA",
-        "gw": 106,
+        "mgr": "Prashant Chainani",
+        "team": "HighOnHouse",
+        "gw": 110,
         "total": 174,
-        "move": 0
-      },
-      {
-        "mgr": "Xerxis Desai",
-        "team": "Bay City Ballers",
-        "gw": 101,
-        "total": 172,
-        "move": -5
+        "move": 2
       },
       {
         "mgr": "Kunal Manwani",
@@ -507,6 +500,13 @@
         "gw": 124,
         "total": 172,
         "move": 10
+      },
+      {
+        "mgr": "Xerxis Desai",
+        "team": "Bay City Ballers",
+        "gw": 101,
+        "total": 172,
+        "move": -5
       },
       {
         "mgr": "Prashan Harjani",
