@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-01T02:05:12.198Z",
+  "updated": "2026-09-01T03:06:32.131Z",
   "standings": {
     "main": [
       {
@@ -80,15 +80,15 @@
         "move": 41
       },
       {
-        "mgr": "Karan Khosla",
-        "team": "Jinja's Safari",
+        "mgr": "Nitin Nathani",
+        "team": "Untouchables",
         "gw": 108,
         "total": 182,
         "move": -5
       },
       {
-        "mgr": "Nitin Nathani",
-        "team": "Untouchables",
+        "mgr": "Karan Khosla",
+        "team": "Jinja's Safari",
         "gw": 108,
         "total": 182,
         "move": -5
@@ -150,18 +150,18 @@
         "move": -4
       },
       {
-        "mgr": "Xerxis Desai",
-        "team": "Bay City Ballers",
-        "gw": 101,
-        "total": 172,
-        "move": -7
-      },
-      {
         "mgr": "Kunal Manwani",
         "team": "Kloppite_6",
         "gw": 124,
         "total": 172,
         "move": 25
+      },
+      {
+        "mgr": "Xerxis Desai",
+        "team": "Bay City Ballers",
+        "gw": 101,
+        "total": 172,
+        "move": -7
       },
       {
         "mgr": "Rishabh Mehta",
@@ -178,18 +178,18 @@
         "move": 6
       },
       {
-        "mgr": "Rayan Hamza",
-        "team": "Zarks",
-        "gw": 115,
-        "total": 170,
-        "move": 8
-      },
-      {
         "mgr": "Snehanshu Gupta",
         "team": "Snaydoooo",
         "gw": 108,
         "total": 170,
         "move": 0
+      },
+      {
+        "mgr": "Rayan Hamza",
+        "team": "Zarks",
+        "gw": 115,
+        "total": 170,
+        "move": 8
       },
       {
         "mgr": "Charles Lesmana",
@@ -227,18 +227,18 @@
         "move": -1
       },
       {
-        "mgr": "Hitesh Mahbubani",
-        "team": "Goalbusters",
-        "gw": 117,
-        "total": 163,
-        "move": 16
-      },
-      {
         "mgr": "Jevesh Vatvani",
         "team": "YNWA",
         "gw": 111,
         "total": 163,
         "move": 9
+      },
+      {
+        "mgr": "Hitesh Mahbubani",
+        "team": "Goalbusters",
+        "gw": 117,
+        "total": 163,
+        "move": 16
       },
       {
         "mgr": "M Suudi",
@@ -255,18 +255,18 @@
         "move": 8
       },
       {
-        "mgr": "Ajay Yeleswaram",
-        "team": "Relegated",
-        "gw": 105,
-        "total": 159,
-        "move": 0
-      },
-      {
         "mgr": "Vishal Lakhiani",
         "team": "Vish Fish",
         "gw": 101,
         "total": 159,
         "move": -7
+      },
+      {
+        "mgr": "Ajay Yeleswaram",
+        "team": "Relegated",
+        "gw": 105,
+        "total": 159,
+        "move": 0
       },
       {
         "mgr": "Jonathan Lobo",
