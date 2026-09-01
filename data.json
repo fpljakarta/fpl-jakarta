@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-01T07:06:08.233Z",
+  "updated": "2026-09-01T12:57:00.120Z",
   "standings": {
     "main": [
       {
@@ -80,15 +80,15 @@
         "move": 41
       },
       {
-        "mgr": "Nitin Nathani",
-        "team": "Untouchables",
+        "mgr": "Karan Khosla",
+        "team": "Jinja's Safari",
         "gw": 108,
         "total": 182,
         "move": -5
       },
       {
-        "mgr": "Karan Khosla",
-        "team": "Jinja's Safari",
+        "mgr": "Nitin Nathani",
+        "team": "Untouchables",
         "gw": 108,
         "total": 182,
         "move": -5
@@ -122,13 +122,6 @@
         "move": 6
       },
       {
-        "mgr": "Dayne De Melo",
-        "team": "Gross Misconduct",
-        "gw": 96,
-        "total": 174,
-        "move": -15
-      },
-      {
         "mgr": "Deepu Narwani",
         "team": "FC BOSS THA",
         "gw": 106,
@@ -141,6 +134,13 @@
         "gw": 110,
         "total": 174,
         "move": 2
+      },
+      {
+        "mgr": "Dayne De Melo",
+        "team": "Gross Misconduct",
+        "gw": 96,
+        "total": 174,
+        "move": -15
       },
       {
         "mgr": "Siddarth Kaul",
@@ -206,18 +206,18 @@
         "move": 23
       },
       {
-        "mgr": "Suraj Topandasani",
-        "team": "Londonal FC",
-        "gw": 103,
-        "total": 167,
-        "move": -10
-      },
-      {
         "mgr": "Michael Kenneth",
         "team": "Pool4life",
         "gw": 117,
         "total": 167,
         "move": 14
+      },
+      {
+        "mgr": "Suraj Topandasani",
+        "team": "Londonal FC",
+        "gw": 103,
+        "total": 167,
+        "move": -10
       },
       {
         "mgr": "Rachman Witarlan",
@@ -227,11 +227,11 @@
         "move": -1
       },
       {
-        "mgr": "Jevesh Vatvani",
-        "team": "YNWA",
-        "gw": 111,
+        "mgr": "Hitesh Mahbubani",
+        "team": "Goalbusters",
+        "gw": 117,
         "total": 163,
-        "move": 9
+        "move": 16
       },
       {
         "mgr": "M Suudi",
@@ -241,11 +241,11 @@
         "move": -32
       },
       {
-        "mgr": "Hitesh Mahbubani",
-        "team": "Goalbusters",
-        "gw": 117,
+        "mgr": "Jevesh Vatvani",
+        "team": "YNWA",
+        "gw": 111,
         "total": 163,
-        "move": 16
+        "move": 9
       },
       {
         "mgr": "Abhishek Keswani",
@@ -255,18 +255,18 @@
         "move": 8
       },
       {
-        "mgr": "Vishal Lakhiani",
-        "team": "Vish Fish",
-        "gw": 101,
-        "total": 159,
-        "move": -7
-      },
-      {
         "mgr": "Ajay Yeleswaram",
         "team": "Relegated",
         "gw": 105,
         "total": 159,
         "move": 0
+      },
+      {
+        "mgr": "Vishal Lakhiani",
+        "team": "Vish Fish",
+        "gw": 101,
+        "total": 159,
+        "move": -7
       },
       {
         "mgr": "Jonathan Lobo",
@@ -334,16 +334,23 @@
       {
         "mgr": "Sagar Sadarangani",
         "team": "cole me palmer",
-        "gw": 79,
-        "total": 134,
-        "move": -14
+        "gw": 81,
+        "total": 136,
+        "move": -13
       },
       {
         "mgr": "Kevin Raymond",
         "team": "Gunners United",
         "gw": 71,
         "total": 134,
-        "move": -25
+        "move": -26
+      },
+      {
+        "mgr": "Jeremy Oberoi",
+        "team": "Next Season FC",
+        "gw": 79,
+        "total": 133,
+        "move": -13
       },
       {
         "mgr": "Edward Angkasa",
@@ -357,14 +364,7 @@
         "team": "JS FC",
         "gw": 86,
         "total": 132,
-        "move": -2
-      },
-      {
-        "mgr": "Jeremy Oberoi",
-        "team": "Next Season FC",
-        "gw": 75,
-        "total": 129,
-        "move": -15
+        "move": -3
       },
       {
         "mgr": "Amrit Lakhiani",
@@ -381,24 +381,24 @@
         "move": -2
       },
       {
+        "mgr": "Jasvin Seera",
+        "team": "Seera Squad",
+        "gw": 83,
+        "total": 124,
+        "move": 2
+      },
+      {
         "mgr": "Hitesh Singh",
         "team": "Not Too Xabi",
         "gw": 72,
         "total": 122,
-        "move": -11
-      },
-      {
-        "mgr": "Jasvin Seera",
-        "team": "Seera Squad",
-        "gw": 80,
-        "total": 121,
-        "move": 1
+        "move": -12
       },
       {
         "mgr": "Ashwin Mulani",
         "team": "Balon D'orgu",
-        "gw": 73,
-        "total": 110,
+        "gw": 75,
+        "total": 112,
         "move": 1
       },
       {
@@ -411,9 +411,9 @@
       {
         "mgr": "Sanjev Rama",
         "team": "Jippy's",
-        "gw": 81,
-        "total": 101,
-        "move": 0
+        "gw": 82,
+        "total": 102,
+        "move": 1
       }
     ],
     "hs": [
@@ -474,6 +474,13 @@
         "move": 4
       },
       {
+        "mgr": "Dayne De Melo",
+        "team": "Gross Misconduct",
+        "gw": 96,
+        "total": 174,
+        "move": -7
+      },
+      {
         "mgr": "Prashant Chainani",
         "team": "HighOnHouse",
         "gw": 110,
@@ -488,11 +495,11 @@
         "move": 0
       },
       {
-        "mgr": "Dayne De Melo",
-        "team": "Gross Misconduct",
-        "gw": 96,
-        "total": 174,
-        "move": -7
+        "mgr": "Xerxis Desai",
+        "team": "Bay City Ballers",
+        "gw": 101,
+        "total": 172,
+        "move": -5
       },
       {
         "mgr": "Kunal Manwani",
@@ -500,13 +507,6 @@
         "gw": 124,
         "total": 172,
         "move": 10
-      },
-      {
-        "mgr": "Xerxis Desai",
-        "team": "Bay City Ballers",
-        "gw": 101,
-        "total": 172,
-        "move": -5
       },
       {
         "mgr": "Prashan Harjani",
@@ -602,7 +602,11 @@
     ]
   },
   "motm": [
-    null,
+    {
+      "winner": "S M",
+      "team": "I Know Nothing",
+      "pts": 198
+    },
     null,
     null,
     null,
@@ -614,6 +618,12 @@
     null
   ],
   "motw": [
+    {
+      "gw": 2,
+      "pts": 141,
+      "winner": "Paras Lalwani",
+      "team": "FC Pain Chaud"
+    },
     {
       "gw": 1,
       "pts": 84,
