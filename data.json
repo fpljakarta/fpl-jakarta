@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03T19:33:28.284Z",
+  "updated": "2026-09-03T22:07:10.637Z",
   "standings": {
     "main": [
       {
@@ -80,15 +80,15 @@
         "move": 41
       },
       {
-        "mgr": "Karan Khosla",
-        "team": "Jinja's Safari",
+        "mgr": "Nitin Nathani",
+        "team": "Untouchables",
         "gw": 108,
         "total": 182,
         "move": -5
       },
       {
-        "mgr": "Nitin Nathani",
-        "team": "Untouchables",
+        "mgr": "Karan Khosla",
+        "team": "Jinja's Safari",
         "gw": 108,
         "total": 182,
         "move": -5
@@ -122,11 +122,11 @@
         "move": 6
       },
       {
-        "mgr": "Deepu Narwani",
-        "team": "FC BOSS THA",
-        "gw": 106,
+        "mgr": "Dayne De Melo",
+        "team": "Gross Misconduct",
+        "gw": 96,
         "total": 174,
-        "move": -1
+        "move": -15
       },
       {
         "mgr": "Prashant Chainani",
@@ -136,11 +136,11 @@
         "move": 2
       },
       {
-        "mgr": "Dayne De Melo",
-        "team": "Gross Misconduct",
-        "gw": 96,
+        "mgr": "Deepu Narwani",
+        "team": "FC BOSS THA",
+        "gw": 106,
         "total": 174,
-        "move": -15
+        "move": -1
       },
       {
         "mgr": "Siddarth Kaul",
@@ -150,18 +150,18 @@
         "move": -4
       },
       {
-        "mgr": "Kunal Manwani",
-        "team": "Kloppite_6",
-        "gw": 124,
-        "total": 172,
-        "move": 25
-      },
-      {
         "mgr": "Xerxis Desai",
         "team": "Bay City Ballers",
         "gw": 101,
         "total": 172,
         "move": -7
+      },
+      {
+        "mgr": "Kunal Manwani",
+        "team": "Kloppite_6",
+        "gw": 124,
+        "total": 172,
+        "move": 25
       },
       {
         "mgr": "Rishabh Mehta",
@@ -227,11 +227,11 @@
         "move": -1
       },
       {
-        "mgr": "Jevesh Vatvani",
-        "team": "YNWA",
-        "gw": 111,
+        "mgr": "Hitesh Mahbubani",
+        "team": "Goalbusters",
+        "gw": 117,
         "total": 163,
-        "move": 9
+        "move": 16
       },
       {
         "mgr": "M Suudi",
@@ -241,11 +241,11 @@
         "move": -32
       },
       {
-        "mgr": "Hitesh Mahbubani",
-        "team": "Goalbusters",
-        "gw": 117,
+        "mgr": "Jevesh Vatvani",
+        "team": "YNWA",
+        "gw": 111,
         "total": 163,
-        "move": 16
+        "move": 9
       },
       {
         "mgr": "Abhishek Keswani",
@@ -255,18 +255,18 @@
         "move": 8
       },
       {
-        "mgr": "Ajay Yeleswaram",
-        "team": "Relegated",
-        "gw": 105,
-        "total": 159,
-        "move": 0
-      },
-      {
         "mgr": "Vishal Lakhiani",
         "team": "Vish Fish",
         "gw": 101,
         "total": 159,
         "move": -7
+      },
+      {
+        "mgr": "Ajay Yeleswaram",
+        "team": "Relegated",
+        "gw": 105,
+        "total": 159,
+        "move": 0
       },
       {
         "mgr": "Jonathan Lobo",
@@ -325,18 +325,18 @@
         "move": 5
       },
       {
-        "mgr": "Mohit Mirpuri",
-        "team": "LION CITY BALLERS",
-        "gw": 76,
-        "total": 136,
-        "move": -20
-      },
-      {
         "mgr": "Sagar Sadarangani",
         "team": "cole me palmer",
         "gw": 81,
         "total": 136,
         "move": -13
+      },
+      {
+        "mgr": "Mohit Mirpuri",
+        "team": "LION CITY BALLERS",
+        "gw": 76,
+        "total": 136,
+        "move": -20
       },
       {
         "mgr": "Kevin Raymond",
@@ -474,18 +474,18 @@
         "move": 4
       },
       {
-        "mgr": "Prashant Chainani",
-        "team": "HighOnHouse",
-        "gw": 110,
-        "total": 174,
-        "move": 2
-      },
-      {
         "mgr": "Dayne De Melo",
         "team": "Gross Misconduct",
         "gw": 96,
         "total": 174,
         "move": -7
+      },
+      {
+        "mgr": "Prashant Chainani",
+        "team": "HighOnHouse",
+        "gw": 110,
+        "total": 174,
+        "move": 2
       },
       {
         "mgr": "Deepu Narwani",
