@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03T16:49:39.994Z",
+  "updated": "2026-09-03T19:33:28.284Z",
   "standings": {
     "main": [
       {
@@ -80,15 +80,15 @@
         "move": 41
       },
       {
-        "mgr": "Nitin Nathani",
-        "team": "Untouchables",
+        "mgr": "Karan Khosla",
+        "team": "Jinja's Safari",
         "gw": 108,
         "total": 182,
         "move": -5
       },
       {
-        "mgr": "Karan Khosla",
-        "team": "Jinja's Safari",
+        "mgr": "Nitin Nathani",
+        "team": "Untouchables",
         "gw": 108,
         "total": 182,
         "move": -5
@@ -122,11 +122,11 @@
         "move": 6
       },
       {
-        "mgr": "Dayne De Melo",
-        "team": "Gross Misconduct",
-        "gw": 96,
+        "mgr": "Deepu Narwani",
+        "team": "FC BOSS THA",
+        "gw": 106,
         "total": 174,
-        "move": -15
+        "move": -1
       },
       {
         "mgr": "Prashant Chainani",
@@ -136,11 +136,11 @@
         "move": 2
       },
       {
-        "mgr": "Deepu Narwani",
-        "team": "FC BOSS THA",
-        "gw": 106,
+        "mgr": "Dayne De Melo",
+        "team": "Gross Misconduct",
+        "gw": 96,
         "total": 174,
-        "move": -1
+        "move": -15
       },
       {
         "mgr": "Siddarth Kaul",
@@ -234,18 +234,18 @@
         "move": 9
       },
       {
-        "mgr": "Hitesh Mahbubani",
-        "team": "Goalbusters",
-        "gw": 117,
-        "total": 163,
-        "move": 16
-      },
-      {
         "mgr": "M Suudi",
         "team": "Cakdes FPL",
         "gw": 79,
         "total": 163,
         "move": -32
+      },
+      {
+        "mgr": "Hitesh Mahbubani",
+        "team": "Goalbusters",
+        "gw": 117,
+        "total": 163,
+        "move": 16
       },
       {
         "mgr": "Abhishek Keswani",
@@ -255,18 +255,18 @@
         "move": 8
       },
       {
-        "mgr": "Vishal Lakhiani",
-        "team": "Vish Fish",
-        "gw": 101,
-        "total": 159,
-        "move": -7
-      },
-      {
         "mgr": "Ajay Yeleswaram",
         "team": "Relegated",
         "gw": 105,
         "total": 159,
         "move": 0
+      },
+      {
+        "mgr": "Vishal Lakhiani",
+        "team": "Vish Fish",
+        "gw": 101,
+        "total": 159,
+        "move": -7
       },
       {
         "mgr": "Jonathan Lobo",
@@ -346,18 +346,18 @@
         "move": -26
       },
       {
-        "mgr": "Jeremy Oberoi",
-        "team": "Next Season FC",
-        "gw": 79,
-        "total": 133,
-        "move": -13
-      },
-      {
         "mgr": "Edward Angkasa",
         "team": "Juvenalis",
         "gw": 91,
         "total": 133,
         "move": 2
+      },
+      {
+        "mgr": "Jeremy Oberoi",
+        "team": "Next Season FC",
+        "gw": 79,
+        "total": 133,
+        "move": -13
       },
       {
         "mgr": "Juzer Saify",
@@ -402,18 +402,18 @@
         "move": 1
       },
       {
-        "mgr": "Sanjev Rama",
-        "team": "Jippy's",
-        "gw": 82,
-        "total": 102,
-        "move": 1
-      },
-      {
         "mgr": "Gaurav Yadav",
         "team": "Quantom of Tzolis",
         "gw": 60,
         "total": 102,
         "move": -6
+      },
+      {
+        "mgr": "Sanjev Rama",
+        "team": "Jippy's",
+        "gw": 82,
+        "total": 102,
+        "move": 1
       }
     ],
     "hs": [
@@ -481,18 +481,18 @@
         "move": 2
       },
       {
-        "mgr": "Deepu Narwani",
-        "team": "FC BOSS THA",
-        "gw": 106,
-        "total": 174,
-        "move": 0
-      },
-      {
         "mgr": "Dayne De Melo",
         "team": "Gross Misconduct",
         "gw": 96,
         "total": 174,
         "move": -7
+      },
+      {
+        "mgr": "Deepu Narwani",
+        "team": "FC BOSS THA",
+        "gw": 106,
+        "total": 174,
+        "move": 0
       },
       {
         "mgr": "Kunal Manwani",
