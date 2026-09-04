@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T20:25:43.679Z",
+  "updated": "2026-09-04T22:42:16.592Z",
   "standings": {
     "main": [
       {
@@ -17,15 +17,15 @@
         "move": 4
       },
       {
-        "mgr": "Akshay Melwani",
-        "team": "Test",
+        "mgr": "Draking Ngaditono",
+        "team": "Enerzy",
         "gw": 3,
         "total": 197,
         "move": -1
       },
       {
-        "mgr": "Draking Ngaditono",
-        "team": "Enerzy",
+        "mgr": "Akshay Melwani",
+        "team": "Test",
         "gw": 3,
         "total": 197,
         "move": -1
@@ -150,18 +150,18 @@
         "move": -4
       },
       {
-        "mgr": "Win Win",
-        "team": "Kalimasada FC",
-        "gw": 10,
-        "total": 178,
-        "move": 7
-      },
-      {
         "mgr": "M Suudi",
         "team": "Cakdes FPL",
         "gw": 14,
         "total": 177,
-        "move": 10
+        "move": 11
+      },
+      {
+        "mgr": "Win Win",
+        "team": "Kalimasada FC",
+        "gw": 9,
+        "total": 177,
+        "move": 7
       },
       {
         "mgr": "Prashant Chainani",
@@ -269,18 +269,18 @@
         "move": -1
       },
       {
+        "mgr": "Joanda Febrian",
+        "team": "DBM FC",
+        "gw": 17,
+        "total": 160,
+        "move": 5
+      },
+      {
         "mgr": "Vishal Lakhiani",
         "team": "Vish Fish",
         "gw": 0,
         "total": 159,
-        "move": -2
-      },
-      {
-        "mgr": "Joanda Febrian",
-        "team": "DBM FC",
-        "gw": 16,
-        "total": 159,
-        "move": 4
+        "move": -3
       },
       {
         "mgr": "Edward Angkasa",
@@ -327,8 +327,8 @@
       {
         "mgr": "Indar Dhaliwal",
         "team": "Daylight Brobbery",
-        "gw": 7,
-        "total": 147,
+        "gw": 6,
+        "total": 146,
         "move": -2
       },
       {
@@ -336,13 +336,13 @@
         "team": "JS FC",
         "gw": 14,
         "total": 146,
-        "move": 4
+        "move": 5
       },
       {
         "mgr": "Sagar Sadarangani",
         "team": "cole me palmer",
-        "gw": 10,
-        "total": 142,
+        "gw": 9,
+        "total": 141,
         "move": -2
       },
       {
