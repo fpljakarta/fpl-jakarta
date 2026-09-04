@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03T22:07:10.637Z",
+  "updated": "2026-09-04T00:36:35.827Z",
   "standings": {
     "main": [
       {
@@ -10,15 +10,15 @@
         "move": 1
       },
       {
-        "mgr": "Draking Ngaditono",
-        "team": "Enerzy",
+        "mgr": "Akshay Melwani",
+        "team": "Test",
         "gw": 122,
         "total": 194,
         "move": 10
       },
       {
-        "mgr": "Akshay Melwani",
-        "team": "Test",
+        "mgr": "Draking Ngaditono",
+        "team": "Enerzy",
         "gw": 122,
         "total": 194,
         "move": 10
@@ -178,18 +178,18 @@
         "move": 6
       },
       {
-        "mgr": "Snehanshu Gupta",
-        "team": "Snaydoooo",
-        "gw": 108,
-        "total": 170,
-        "move": 0
-      },
-      {
         "mgr": "Rayan Hamza",
         "team": "Zarks",
         "gw": 115,
         "total": 170,
         "move": 8
+      },
+      {
+        "mgr": "Snehanshu Gupta",
+        "team": "Snaydoooo",
+        "gw": 108,
+        "total": 170,
+        "move": 0
       },
       {
         "mgr": "Charles Lesmana",
@@ -206,18 +206,18 @@
         "move": 23
       },
       {
-        "mgr": "Suraj Topandasani",
-        "team": "Londonal FC",
-        "gw": 103,
-        "total": 167,
-        "move": -10
-      },
-      {
         "mgr": "Michael Kenneth",
         "team": "Pool4life",
         "gw": 117,
         "total": 167,
         "move": 14
+      },
+      {
+        "mgr": "Suraj Topandasani",
+        "team": "Londonal FC",
+        "gw": 103,
+        "total": 167,
+        "move": -10
       },
       {
         "mgr": "Rachman Witarlan",
@@ -227,11 +227,11 @@
         "move": -1
       },
       {
-        "mgr": "Hitesh Mahbubani",
-        "team": "Goalbusters",
-        "gw": 117,
+        "mgr": "Jevesh Vatvani",
+        "team": "YNWA",
+        "gw": 111,
         "total": 163,
-        "move": 16
+        "move": 9
       },
       {
         "mgr": "M Suudi",
@@ -241,11 +241,11 @@
         "move": -32
       },
       {
-        "mgr": "Jevesh Vatvani",
-        "team": "YNWA",
-        "gw": 111,
+        "mgr": "Hitesh Mahbubani",
+        "team": "Goalbusters",
+        "gw": 117,
         "total": 163,
-        "move": 9
+        "move": 16
       },
       {
         "mgr": "Abhishek Keswani",
@@ -255,18 +255,18 @@
         "move": 8
       },
       {
-        "mgr": "Vishal Lakhiani",
-        "team": "Vish Fish",
-        "gw": 101,
-        "total": 159,
-        "move": -7
-      },
-      {
         "mgr": "Ajay Yeleswaram",
         "team": "Relegated",
         "gw": 105,
         "total": 159,
         "move": 0
+      },
+      {
+        "mgr": "Vishal Lakhiani",
+        "team": "Vish Fish",
+        "gw": 101,
+        "total": 159,
+        "move": -7
       },
       {
         "mgr": "Jonathan Lobo",
@@ -346,18 +346,18 @@
         "move": -26
       },
       {
-        "mgr": "Edward Angkasa",
-        "team": "Juvenalis",
-        "gw": 91,
-        "total": 133,
-        "move": 2
-      },
-      {
         "mgr": "Jeremy Oberoi",
         "team": "Next Season FC",
         "gw": 79,
         "total": 133,
         "move": -13
+      },
+      {
+        "mgr": "Edward Angkasa",
+        "team": "Juvenalis",
+        "gw": 91,
+        "total": 133,
+        "move": 2
       },
       {
         "mgr": "Juzer Saify",
@@ -474,11 +474,11 @@
         "move": 4
       },
       {
-        "mgr": "Dayne De Melo",
-        "team": "Gross Misconduct",
-        "gw": 96,
+        "mgr": "Deepu Narwani",
+        "team": "FC BOSS THA",
+        "gw": 106,
         "total": 174,
-        "move": -7
+        "move": 0
       },
       {
         "mgr": "Prashant Chainani",
@@ -488,18 +488,11 @@
         "move": 2
       },
       {
-        "mgr": "Deepu Narwani",
-        "team": "FC BOSS THA",
-        "gw": 106,
+        "mgr": "Dayne De Melo",
+        "team": "Gross Misconduct",
+        "gw": 96,
         "total": 174,
-        "move": 0
-      },
-      {
-        "mgr": "Kunal Manwani",
-        "team": "Kloppite_6",
-        "gw": 124,
-        "total": 172,
-        "move": 10
+        "move": -7
       },
       {
         "mgr": "Xerxis Desai",
@@ -507,6 +500,13 @@
         "gw": 101,
         "total": 172,
         "move": -5
+      },
+      {
+        "mgr": "Kunal Manwani",
+        "team": "Kloppite_6",
+        "gw": 124,
+        "total": 172,
+        "move": 10
       },
       {
         "mgr": "Prashan Harjani",
