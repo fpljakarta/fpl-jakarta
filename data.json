@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T22:42:16.592Z",
+  "updated": "2026-09-05T00:32:30.108Z",
   "standings": {
     "main": [
       {
@@ -24,18 +24,18 @@
         "move": -1
       },
       {
-        "mgr": "Akshay Melwani",
-        "team": "Test",
-        "gw": 3,
-        "total": 197,
-        "move": -1
-      },
-      {
         "mgr": "Sanchit Suri",
         "team": "WinterisHere!",
         "gw": 11,
         "total": 197,
         "move": 5
+      },
+      {
+        "mgr": "Akshay Melwani",
+        "team": "Test",
+        "gw": 3,
+        "total": 197,
+        "move": -1
       },
       {
         "mgr": "Deepu Narwani",
@@ -150,18 +150,18 @@
         "move": -4
       },
       {
-        "mgr": "M Suudi",
-        "team": "Cakdes FPL",
-        "gw": 14,
-        "total": 177,
-        "move": 11
-      },
-      {
         "mgr": "Win Win",
         "team": "Kalimasada FC",
         "gw": 9,
         "total": 177,
         "move": 7
+      },
+      {
+        "mgr": "M Suudi",
+        "team": "Cakdes FPL",
+        "gw": 14,
+        "total": 177,
+        "move": 11
       },
       {
         "mgr": "Prashant Chainani",
