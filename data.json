@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05T05:09:21.466Z",
+  "updated": "2026-09-05T09:47:24.043Z",
   "standings": {
     "main": [
       {
@@ -17,11 +17,11 @@
         "move": 4
       },
       {
-        "mgr": "Draking Ngaditono",
-        "team": "Enerzy",
-        "gw": 3,
+        "mgr": "Sanchit Suri",
+        "team": "WinterisHere!",
+        "gw": 11,
         "total": 197,
-        "move": -1
+        "move": 5
       },
       {
         "mgr": "Akshay Melwani",
@@ -31,11 +31,11 @@
         "move": -1
       },
       {
-        "mgr": "Sanchit Suri",
-        "team": "WinterisHere!",
-        "gw": 11,
+        "mgr": "Draking Ngaditono",
+        "team": "Enerzy",
+        "gw": 3,
         "total": 197,
-        "move": 5
+        "move": -1
       },
       {
         "mgr": "Deepu Narwani",
@@ -325,18 +325,18 @@
         "move": -4
       },
       {
-        "mgr": "Juzer Saify",
-        "team": "JS FC",
-        "gw": 14,
-        "total": 146,
-        "move": 5
-      },
-      {
         "mgr": "Indar Dhaliwal",
         "team": "Daylight Brobbery",
         "gw": 6,
         "total": 146,
         "move": -2
+      },
+      {
+        "mgr": "Juzer Saify",
+        "team": "JS FC",
+        "gw": 14,
+        "total": 146,
+        "move": 5
       },
       {
         "mgr": "Sagar Sadarangani",
