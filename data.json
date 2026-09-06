@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05T22:33:39.548Z",
+  "updated": "2026-09-06T00:28:31.376Z",
   "standings": {
     "main": [
       {
@@ -52,13 +52,6 @@
         "move": -2
       },
       {
-        "mgr": "Bharat Lakhwani",
-        "team": "Bpl",
-        "gw": 46,
-        "total": 227,
-        "move": 6
-      },
-      {
         "mgr": "Deepu Narwani",
         "team": "FC BOSS THA",
         "gw": 53,
@@ -66,11 +59,11 @@
         "move": 10
       },
       {
-        "mgr": "Chiraag Keswani",
-        "team": "Ckeswani's XI",
+        "mgr": "Bharat Lakhwani",
+        "team": "Bpl",
         "gw": 46,
-        "total": 226,
-        "move": 5
+        "total": 227,
+        "move": 6
       },
       {
         "mgr": "Neel Dadlani",
@@ -78,6 +71,13 @@
         "gw": 35,
         "total": 226,
         "move": -6
+      },
+      {
+        "mgr": "Chiraag Keswani",
+        "team": "Ckeswani's XI",
+        "gw": 46,
+        "total": 226,
+        "move": 5
       },
       {
         "mgr": "Kunal Manwani",
@@ -108,18 +108,18 @@
         "move": 3
       },
       {
-        "mgr": "Neeraj Narwani",
-        "team": "Gampang Bro",
-        "gw": 38,
-        "total": 222,
-        "move": -7
-      },
-      {
         "mgr": "Rohan Kalwani",
         "team": "-4 Builds Carrickter",
         "gw": 38,
         "total": 222,
         "move": -6
+      },
+      {
+        "mgr": "Neeraj Narwani",
+        "team": "Gampang Bro",
+        "gw": 38,
+        "total": 222,
+        "move": -7
       },
       {
         "mgr": "Win Win",
@@ -136,18 +136,18 @@
         "move": -2
       },
       {
-        "mgr": "Karan Khosla",
-        "team": "Jinja's Safari",
-        "gw": 37,
-        "total": 219,
-        "move": -8
-      },
-      {
         "mgr": "Prashant Chainani",
         "team": "HighOnHouse",
         "gw": 45,
         "total": 219,
         "move": -2
+      },
+      {
+        "mgr": "Karan Khosla",
+        "team": "Jinja's Safari",
+        "gw": 37,
+        "total": 219,
+        "move": -8
       },
       {
         "mgr": "Nikk Kadbet",
@@ -213,18 +213,18 @@
         "move": 14
       },
       {
-        "mgr": "Snehanshu Gupta",
-        "team": "Snaydoooo",
-        "gw": 36,
-        "total": 206,
-        "move": -5
-      },
-      {
         "mgr": "Jevesh Vatvani",
         "team": "YNWA",
         "gw": 43,
         "total": 206,
         "move": 2
+      },
+      {
+        "mgr": "Snehanshu Gupta",
+        "team": "Snaydoooo",
+        "gw": 36,
+        "total": 206,
+        "move": -5
       },
       {
         "mgr": "Michael Kenneth",
@@ -481,18 +481,18 @@
         "move": -2
       },
       {
-        "mgr": "Prashant Chainani",
-        "team": "HighOnHouse",
-        "gw": 45,
-        "total": 219,
-        "move": -1
-      },
-      {
         "mgr": "Karan Khosla",
         "team": "Jinja's Safari",
         "gw": 37,
         "total": 219,
         "move": -4
+      },
+      {
+        "mgr": "Prashant Chainani",
+        "team": "HighOnHouse",
+        "gw": 45,
+        "total": 219,
+        "move": -1
       },
       {
         "mgr": "Nikk Kadbet",
