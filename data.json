@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-07T11:16:50.959Z",
+  "updated": "2026-09-07T17:00:37.942Z",
   "standings": {
     "main": [
       {
@@ -618,6 +618,12 @@
     null
   ],
   "motw": [
+    {
+      "gw": 3,
+      "pts": 71,
+      "winner": "Abhishek Keswani",
+      "team": "Usual Suspects"
+    },
     {
       "gw": 2,
       "pts": 141,
