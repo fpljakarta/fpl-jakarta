@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-07T00:35:42.416Z",
+  "updated": "2026-09-07T05:33:49.198Z",
   "standings": {
     "main": [
       {
@@ -38,18 +38,18 @@
         "move": 3
       },
       {
-        "mgr": "Rohan Kalwani",
-        "team": "-4 Builds Carrickter",
-        "gw": 55,
-        "total": 239,
-        "move": 4
-      },
-      {
         "mgr": "Kunal Manwani",
         "team": "Kloppite_6",
         "gw": 67,
         "total": 239,
         "move": 16
+      },
+      {
+        "mgr": "Rohan Kalwani",
+        "team": "-4 Builds Carrickter",
+        "gw": 55,
+        "total": 239,
+        "move": 4
       },
       {
         "mgr": "Paras Lalwani",
@@ -94,13 +94,6 @@
         "move": -1
       },
       {
-        "mgr": "Abhishek Keswani",
-        "team": "Usual Suspects",
-        "gw": 71,
-        "total": 231,
-        "move": 22
-      },
-      {
         "mgr": "Neeraj Narwani",
         "team": "Gampang Bro",
         "gw": 47,
@@ -108,15 +101,22 @@
         "move": -5
       },
       {
-        "mgr": "Draking Ngaditono",
-        "team": "Enerzy",
+        "mgr": "Abhishek Keswani",
+        "team": "Usual Suspects",
+        "gw": 71,
+        "total": 231,
+        "move": 22
+      },
+      {
+        "mgr": "Akshay Melwani",
+        "team": "Test",
         "gw": 36,
         "total": 230,
         "move": -14
       },
       {
-        "mgr": "Akshay Melwani",
-        "team": "Test",
+        "mgr": "Draking Ngaditono",
+        "team": "Enerzy",
         "gw": 36,
         "total": 230,
         "move": -14
@@ -136,18 +136,18 @@
         "move": 7
       },
       {
-        "mgr": "Prashant Chainani",
-        "team": "HighOnHouse",
-        "gw": 52,
-        "total": 226,
-        "move": -2
-      },
-      {
         "mgr": "Prashan Harjani",
         "team": "Pineapple Delight",
         "gw": 55,
         "total": 226,
         "move": 5
+      },
+      {
+        "mgr": "Prashant Chainani",
+        "team": "HighOnHouse",
+        "gw": 52,
+        "total": 226,
+        "move": -2
       },
       {
         "mgr": "Gautam Vassanmal",
@@ -381,18 +381,18 @@
         "move": 1
       },
       {
-        "mgr": "Amrit Lakhiani",
-        "team": "Pomfriterole FC",
-        "gw": 44,
-        "total": 172,
-        "move": -2
-      },
-      {
         "mgr": "Lavesh Punjabi",
         "team": "Punjabi United",
         "gw": 47,
         "total": 172,
         "move": -1
+      },
+      {
+        "mgr": "Amrit Lakhiani",
+        "team": "Pomfriterole FC",
+        "gw": 44,
+        "total": 172,
+        "move": -2
       },
       {
         "mgr": "Sanjev Rama",
