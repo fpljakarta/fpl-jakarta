@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-07T05:33:49.198Z",
+  "updated": "2026-09-07T11:16:50.959Z",
   "standings": {
     "main": [
       {
@@ -150,6 +150,13 @@
         "move": -2
       },
       {
+        "mgr": "Nitin Nathani",
+        "team": "Untouchables",
+        "gw": 43,
+        "total": 225,
+        "move": -10
+      },
+      {
         "mgr": "Gautam Vassanmal",
         "team": "GV9",
         "gw": 47,
@@ -161,28 +168,21 @@
         "team": "Anfield Legends",
         "gw": 48,
         "total": 225,
-        "move": -6
+        "move": -7
       },
       {
         "mgr": "Dayne De Melo",
         "team": "Gross Misconduct",
         "gw": 50,
         "total": 224,
-        "move": -6
+        "move": -7
       },
       {
         "mgr": "Win Win",
         "team": "Kalimasada FC",
         "gw": 55,
         "total": 223,
-        "move": 4
-      },
-      {
-        "mgr": "Nitin Nathani",
-        "team": "Untouchables",
-        "gw": 41,
-        "total": 223,
-        "move": -13
+        "move": 3
       },
       {
         "mgr": "Suraj Topandasani",
@@ -206,6 +206,13 @@
         "move": -7
       },
       {
+        "mgr": "M Suudi",
+        "team": "Cakdes FPL",
+        "gw": 52,
+        "total": 215,
+        "move": 3
+      },
+      {
         "mgr": "Siddarth Kaul",
         "team": "sidskids",
         "gw": 42,
@@ -213,46 +220,39 @@
         "move": -9
       },
       {
+        "mgr": "Hitesh Mahbubani",
+        "team": "Goalbusters",
+        "gw": 52,
+        "total": 215,
+        "move": 1
+      },
+      {
         "mgr": "Michael Kenneth",
         "team": "Pool4life",
         "gw": 48,
         "total": 215,
-        "move": -1
+        "move": -3
+      },
+      {
+        "mgr": "Charles Lesmana",
+        "team": "Les Intouchables",
+        "gw": 45,
+        "total": 214,
+        "move": -6
+      },
+      {
+        "mgr": "Jonathan Lobo",
+        "team": "Jonathan's Team",
+        "gw": 65,
+        "total": 214,
+        "move": 4
       },
       {
         "mgr": "Snehanshu Gupta",
         "team": "Snaydoooo",
         "gw": 43,
         "total": 213,
-        "move": -6
-      },
-      {
-        "mgr": "Jonathan Lobo",
-        "team": "Jonathan's Team",
-        "gw": 63,
-        "total": 212,
-        "move": 6
-      },
-      {
-        "mgr": "M Suudi",
-        "team": "Cakdes FPL",
-        "gw": 48,
-        "total": 211,
-        "move": -1
-      },
-      {
-        "mgr": "Hitesh Mahbubani",
-        "team": "Goalbusters",
-        "gw": 48,
-        "total": 211,
-        "move": -2
-      },
-      {
-        "mgr": "Charles Lesmana",
-        "team": "Les Intouchables",
-        "gw": 41,
-        "total": 210,
-        "move": -8
+        "move": -10
       },
       {
         "mgr": "Ajay Yeleswaram",
@@ -311,32 +311,32 @@
         "move": 6
       },
       {
+        "mgr": "Indar Dhaliwal",
+        "team": "Daylight Brobbery",
+        "gw": 55,
+        "total": 195,
+        "move": 0
+      },
+      {
         "mgr": "Kevin Raymond",
         "team": "Gunners United",
         "gw": 61,
         "total": 195,
-        "move": 4
+        "move": 3
       },
       {
-        "mgr": "Indar Dhaliwal",
-        "team": "Daylight Brobbery",
-        "gw": 53,
+        "mgr": "Mohit Mirpuri",
+        "team": "LION CITY BALLERS",
+        "gw": 57,
         "total": 193,
-        "move": -1
+        "move": 0
       },
       {
         "mgr": "Jeremy Oberoi",
         "team": "Next Season FC",
         "gw": 59,
         "total": 192,
-        "move": 3
-      },
-      {
-        "mgr": "Mohit Mirpuri",
-        "team": "LION CITY BALLERS",
-        "gw": 56,
-        "total": 192,
-        "move": 0
+        "move": 2
       },
       {
         "mgr": "Juzer Saify",
@@ -376,21 +376,21 @@
       {
         "mgr": "Jasvin Seera",
         "team": "Seera Squad",
-        "gw": 53,
-        "total": 177,
+        "gw": 55,
+        "total": 179,
         "move": 1
+      },
+      {
+        "mgr": "Amrit Lakhiani",
+        "team": "Pomfriterole FC",
+        "gw": 48,
+        "total": 176,
+        "move": -2
       },
       {
         "mgr": "Lavesh Punjabi",
         "team": "Punjabi United",
         "gw": 47,
-        "total": 172,
-        "move": -1
-      },
-      {
-        "mgr": "Amrit Lakhiani",
-        "team": "Pomfriterole FC",
-        "gw": 44,
         "total": 172,
         "move": -2
       },
@@ -516,18 +516,18 @@
         "move": -2
       },
       {
-        "mgr": "Jonathan Lobo",
-        "team": "Jonathan's Team",
-        "gw": 63,
-        "total": 212,
-        "move": 2
-      },
-      {
         "mgr": "Charles Lesmana",
         "team": "Les Intouchables",
-        "gw": 41,
-        "total": 210,
-        "move": -1
+        "gw": 45,
+        "total": 214,
+        "move": 0
+      },
+      {
+        "mgr": "Jonathan Lobo",
+        "team": "Jonathan's Team",
+        "gw": 65,
+        "total": 214,
+        "move": 1
       },
       {
         "mgr": "Prakash Mahtani",
@@ -567,8 +567,8 @@
       {
         "mgr": "Mohit Mirpuri",
         "team": "LION CITY BALLERS",
-        "gw": 56,
-        "total": 192,
+        "gw": 57,
+        "total": 193,
         "move": -1
       },
       {
@@ -581,8 +581,8 @@
       {
         "mgr": "Amrit Lakhiani",
         "team": "Pomfriterole FC",
-        "gw": 44,
-        "total": 172,
+        "gw": 48,
+        "total": 176,
         "move": 0
       },
       {
@@ -590,7 +590,7 @@
         "team": "Punjabi United",
         "gw": 47,
         "total": 172,
-        "move": 1
+        "move": 0
       },
       {
         "mgr": "Gaurav Yadav",
