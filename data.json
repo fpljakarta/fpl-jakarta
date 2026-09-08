@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-08T16:58:31.010Z",
+  "updated": "2026-09-08T19:45:59.496Z",
   "standings": {
     "main": [
       {
@@ -38,18 +38,18 @@
         "move": 3
       },
       {
-        "mgr": "Kunal Manwani",
-        "team": "Kloppite_6",
-        "gw": 67,
-        "total": 239,
-        "move": 16
-      },
-      {
         "mgr": "Rohan Kalwani",
         "team": "-4 Builds Carrickter",
         "gw": 55,
         "total": 239,
         "move": 4
+      },
+      {
+        "mgr": "Kunal Manwani",
+        "team": "Kloppite_6",
+        "gw": 67,
+        "total": 239,
+        "move": 16
       },
       {
         "mgr": "Paras Lalwani",
@@ -474,18 +474,18 @@
         "move": 1
       },
       {
-        "mgr": "Prashan Harjani",
-        "team": "Pineapple Delight",
-        "gw": 55,
-        "total": 226,
-        "move": 5
-      },
-      {
         "mgr": "Prashant Chainani",
         "team": "HighOnHouse",
         "gw": 52,
         "total": 226,
         "move": 0
+      },
+      {
+        "mgr": "Prashan Harjani",
+        "team": "Pineapple Delight",
+        "gw": 55,
+        "total": 226,
+        "move": 5
       },
       {
         "mgr": "Gautam Vassanmal",
