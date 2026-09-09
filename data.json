@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T10:34:13.175Z",
+  "updated": "2026-09-09T14:57:40.685Z",
   "standings": {
     "main": [
       {
@@ -38,18 +38,18 @@
         "move": 3
       },
       {
-        "mgr": "Kunal Manwani",
-        "team": "Kloppite_6",
-        "gw": 67,
-        "total": 239,
-        "move": 16
-      },
-      {
         "mgr": "Rohan Kalwani",
         "team": "-4 Builds Carrickter",
         "gw": 55,
         "total": 239,
         "move": 4
+      },
+      {
+        "mgr": "Kunal Manwani",
+        "team": "Kloppite_6",
+        "gw": 67,
+        "total": 239,
+        "move": 16
       },
       {
         "mgr": "Paras Lalwani",
@@ -108,15 +108,15 @@
         "move": -5
       },
       {
-        "mgr": "Draking Ngaditono",
-        "team": "Enerzy",
+        "mgr": "Akshay Melwani",
+        "team": "Test",
         "gw": 36,
         "total": 230,
         "move": -14
       },
       {
-        "mgr": "Akshay Melwani",
-        "team": "Test",
+        "mgr": "Draking Ngaditono",
+        "team": "Enerzy",
         "gw": 36,
         "total": 230,
         "move": -14
@@ -474,18 +474,18 @@
         "move": 1
       },
       {
-        "mgr": "Prashant Chainani",
-        "team": "HighOnHouse",
-        "gw": 52,
-        "total": 226,
-        "move": 0
-      },
-      {
         "mgr": "Prashan Harjani",
         "team": "Pineapple Delight",
         "gw": 55,
         "total": 226,
         "move": 5
+      },
+      {
+        "mgr": "Prashant Chainani",
+        "team": "HighOnHouse",
+        "gw": 52,
+        "total": 226,
+        "move": 0
       },
       {
         "mgr": "Gautam Vassanmal",
