@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T23:44:52.263Z",
+  "updated": "2026-09-10T02:33:06.579Z",
   "standings": {
     "main": [
       {
@@ -108,15 +108,15 @@
         "move": -5
       },
       {
-        "mgr": "Akshay Melwani",
-        "team": "Test",
+        "mgr": "Draking Ngaditono",
+        "team": "Enerzy",
         "gw": 36,
         "total": 230,
         "move": -14
       },
       {
-        "mgr": "Draking Ngaditono",
-        "team": "Enerzy",
+        "mgr": "Akshay Melwani",
+        "team": "Test",
         "gw": 36,
         "total": 230,
         "move": -14
@@ -206,18 +206,18 @@
         "move": -7
       },
       {
-        "mgr": "Siddarth Kaul",
-        "team": "sidskids",
-        "gw": 42,
-        "total": 215,
-        "move": -9
-      },
-      {
         "mgr": "M Suudi",
         "team": "Cakdes FPL",
         "gw": 52,
         "total": 215,
         "move": 3
+      },
+      {
+        "mgr": "Siddarth Kaul",
+        "team": "sidskids",
+        "gw": 42,
+        "total": 215,
+        "move": -9
       },
       {
         "mgr": "Hitesh Mahbubani",
@@ -474,18 +474,18 @@
         "move": 1
       },
       {
-        "mgr": "Prashant Chainani",
-        "team": "HighOnHouse",
-        "gw": 52,
-        "total": 226,
-        "move": 0
-      },
-      {
         "mgr": "Prashan Harjani",
         "team": "Pineapple Delight",
         "gw": 55,
         "total": 226,
         "move": 5
+      },
+      {
+        "mgr": "Prashant Chainani",
+        "team": "HighOnHouse",
+        "gw": 52,
+        "total": 226,
+        "move": 0
       },
       {
         "mgr": "Gautam Vassanmal",
