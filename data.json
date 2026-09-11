@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10T22:10:02.553Z",
+  "updated": "2026-09-11T00:44:54.692Z",
   "standings": {
     "main": [
       {
@@ -206,18 +206,18 @@
         "move": -7
       },
       {
-        "mgr": "M Suudi",
-        "team": "Cakdes FPL",
-        "gw": 52,
-        "total": 215,
-        "move": 3
-      },
-      {
         "mgr": "Siddarth Kaul",
         "team": "sidskids",
         "gw": 42,
         "total": 215,
         "move": -9
+      },
+      {
+        "mgr": "M Suudi",
+        "team": "Cakdes FPL",
+        "gw": 52,
+        "total": 215,
+        "move": 3
       },
       {
         "mgr": "Hitesh Mahbubani",
@@ -474,18 +474,18 @@
         "move": 1
       },
       {
-        "mgr": "Prashan Harjani",
-        "team": "Pineapple Delight",
-        "gw": 55,
-        "total": 226,
-        "move": 5
-      },
-      {
         "mgr": "Prashant Chainani",
         "team": "HighOnHouse",
         "gw": 52,
         "total": 226,
         "move": 0
+      },
+      {
+        "mgr": "Prashan Harjani",
+        "team": "Pineapple Delight",
+        "gw": 55,
+        "total": 226,
+        "move": 5
       },
       {
         "mgr": "Gautam Vassanmal",
