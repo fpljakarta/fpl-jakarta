@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11T18:04:25.977Z",
+  "updated": "2026-09-11T21:30:09.445Z",
   "standings": {
     "main": [
       {
@@ -94,13 +94,6 @@
         "move": -1
       },
       {
-        "mgr": "Neeraj Narwani",
-        "team": "Gampang Bro",
-        "gw": 47,
-        "total": 231,
-        "move": -5
-      },
-      {
         "mgr": "Abhishek Keswani",
         "team": "Usual Suspects",
         "gw": 71,
@@ -108,15 +101,22 @@
         "move": 22
       },
       {
-        "mgr": "Akshay Melwani",
-        "team": "Test",
+        "mgr": "Neeraj Narwani",
+        "team": "Gampang Bro",
+        "gw": 47,
+        "total": 231,
+        "move": -5
+      },
+      {
+        "mgr": "Draking Ngaditono",
+        "team": "Enerzy",
         "gw": 36,
         "total": 230,
         "move": -14
       },
       {
-        "mgr": "Draking Ngaditono",
-        "team": "Enerzy",
+        "mgr": "Akshay Melwani",
+        "team": "Test",
         "gw": 36,
         "total": 230,
         "move": -14
@@ -136,18 +136,18 @@
         "move": 7
       },
       {
-        "mgr": "Prashant Chainani",
-        "team": "HighOnHouse",
-        "gw": 52,
-        "total": 226,
-        "move": -2
-      },
-      {
         "mgr": "Prashan Harjani",
         "team": "Pineapple Delight",
         "gw": 55,
         "total": 226,
         "move": 5
+      },
+      {
+        "mgr": "Prashant Chainani",
+        "team": "HighOnHouse",
+        "gw": 52,
+        "total": 226,
+        "move": -2
       },
       {
         "mgr": "Gautam Vassanmal",
@@ -206,18 +206,18 @@
         "move": -7
       },
       {
-        "mgr": "M Suudi",
-        "team": "Cakdes FPL",
-        "gw": 52,
-        "total": 215,
-        "move": 3
-      },
-      {
         "mgr": "Siddarth Kaul",
         "team": "sidskids",
         "gw": 42,
         "total": 215,
         "move": -9
+      },
+      {
+        "mgr": "M Suudi",
+        "team": "Cakdes FPL",
+        "gw": 52,
+        "total": 215,
+        "move": 3
       },
       {
         "mgr": "Hitesh Mahbubani",
