@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11T00:44:54.692Z",
+  "updated": "2026-09-11T05:30:54.637Z",
   "standings": {
     "main": [
       {
@@ -94,18 +94,18 @@
         "move": -1
       },
       {
-        "mgr": "Abhishek Keswani",
-        "team": "Usual Suspects",
-        "gw": 71,
-        "total": 231,
-        "move": 22
-      },
-      {
         "mgr": "Neeraj Narwani",
         "team": "Gampang Bro",
         "gw": 47,
         "total": 231,
         "move": -5
+      },
+      {
+        "mgr": "Abhishek Keswani",
+        "team": "Usual Suspects",
+        "gw": 71,
+        "total": 231,
+        "move": 22
       },
       {
         "mgr": "Draking Ngaditono",
@@ -150,18 +150,18 @@
         "move": -2
       },
       {
-        "mgr": "Gautam Vassanmal",
-        "team": "GV9",
-        "gw": 47,
-        "total": 225,
-        "move": -6
-      },
-      {
         "mgr": "Nitin Nathani",
         "team": "Untouchables",
         "gw": 43,
         "total": 225,
         "move": -10
+      },
+      {
+        "mgr": "Gautam Vassanmal",
+        "team": "GV9",
+        "gw": 47,
+        "total": 225,
+        "move": -6
       },
       {
         "mgr": "Nikk Kadbet",
@@ -206,18 +206,18 @@
         "move": -7
       },
       {
-        "mgr": "Siddarth Kaul",
-        "team": "sidskids",
-        "gw": 42,
-        "total": 215,
-        "move": -9
-      },
-      {
         "mgr": "M Suudi",
         "team": "Cakdes FPL",
         "gw": 52,
         "total": 215,
         "move": 3
+      },
+      {
+        "mgr": "Siddarth Kaul",
+        "team": "sidskids",
+        "gw": 42,
+        "total": 215,
+        "move": -9
       },
       {
         "mgr": "Hitesh Mahbubani",
