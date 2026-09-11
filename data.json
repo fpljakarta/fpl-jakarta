@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11T21:30:09.445Z",
+  "updated": "2026-09-11T23:46:31.602Z",
   "standings": {
     "main": [
       {
@@ -38,18 +38,18 @@
         "move": 3
       },
       {
-        "mgr": "Kunal Manwani",
-        "team": "Kloppite_6",
-        "gw": 67,
-        "total": 239,
-        "move": 16
-      },
-      {
         "mgr": "Rohan Kalwani",
         "team": "-4 Builds Carrickter",
         "gw": 55,
         "total": 239,
         "move": 4
+      },
+      {
+        "mgr": "Kunal Manwani",
+        "team": "Kloppite_6",
+        "gw": 67,
+        "total": 239,
+        "move": 16
       },
       {
         "mgr": "Paras Lalwani",
@@ -94,13 +94,6 @@
         "move": -1
       },
       {
-        "mgr": "Abhishek Keswani",
-        "team": "Usual Suspects",
-        "gw": 71,
-        "total": 231,
-        "move": 22
-      },
-      {
         "mgr": "Neeraj Narwani",
         "team": "Gampang Bro",
         "gw": 47,
@@ -108,15 +101,22 @@
         "move": -5
       },
       {
-        "mgr": "Draking Ngaditono",
-        "team": "Enerzy",
+        "mgr": "Abhishek Keswani",
+        "team": "Usual Suspects",
+        "gw": 71,
+        "total": 231,
+        "move": 22
+      },
+      {
+        "mgr": "Akshay Melwani",
+        "team": "Test",
         "gw": 36,
         "total": 230,
         "move": -14
       },
       {
-        "mgr": "Akshay Melwani",
-        "team": "Test",
+        "mgr": "Draking Ngaditono",
+        "team": "Enerzy",
         "gw": 36,
         "total": 230,
         "move": -14
@@ -150,18 +150,18 @@
         "move": -2
       },
       {
-        "mgr": "Gautam Vassanmal",
-        "team": "GV9",
-        "gw": 47,
-        "total": 225,
-        "move": -6
-      },
-      {
         "mgr": "Nitin Nathani",
         "team": "Untouchables",
         "gw": 43,
         "total": 225,
         "move": -10
+      },
+      {
+        "mgr": "Gautam Vassanmal",
+        "team": "GV9",
+        "gw": 47,
+        "total": 225,
+        "move": -6
       },
       {
         "mgr": "Nikk Kadbet",
@@ -206,18 +206,18 @@
         "move": -7
       },
       {
-        "mgr": "Siddarth Kaul",
-        "team": "sidskids",
-        "gw": 42,
-        "total": 215,
-        "move": -9
-      },
-      {
         "mgr": "M Suudi",
         "team": "Cakdes FPL",
         "gw": 52,
         "total": 215,
         "move": 3
+      },
+      {
+        "mgr": "Siddarth Kaul",
+        "team": "sidskids",
+        "gw": 42,
+        "total": 215,
+        "move": -9
       },
       {
         "mgr": "Hitesh Mahbubani",
@@ -474,18 +474,18 @@
         "move": 1
       },
       {
-        "mgr": "Prashant Chainani",
-        "team": "HighOnHouse",
-        "gw": 52,
-        "total": 226,
-        "move": 0
-      },
-      {
         "mgr": "Prashan Harjani",
         "team": "Pineapple Delight",
         "gw": 55,
         "total": 226,
         "move": 5
+      },
+      {
+        "mgr": "Prashant Chainani",
+        "team": "HighOnHouse",
+        "gw": 52,
+        "total": 226,
+        "move": 0
       },
       {
         "mgr": "Gautam Vassanmal",
