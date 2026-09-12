@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12T07:33:34.712Z",
+  "updated": "2026-09-12T11:52:19.604Z",
   "standings": {
     "main": [
       {
@@ -38,18 +38,18 @@
         "move": 3
       },
       {
-        "mgr": "Rohan Kalwani",
-        "team": "-4 Builds Carrickter",
-        "gw": 55,
-        "total": 239,
-        "move": 4
-      },
-      {
         "mgr": "Kunal Manwani",
         "team": "Kloppite_6",
         "gw": 67,
         "total": 239,
         "move": 16
+      },
+      {
+        "mgr": "Rohan Kalwani",
+        "team": "-4 Builds Carrickter",
+        "gw": 55,
+        "total": 239,
+        "move": 4
       },
       {
         "mgr": "Paras Lalwani",
@@ -108,15 +108,15 @@
         "move": 22
       },
       {
-        "mgr": "Akshay Melwani",
-        "team": "Test",
+        "mgr": "Draking Ngaditono",
+        "team": "Enerzy",
         "gw": 36,
         "total": 230,
         "move": -14
       },
       {
-        "mgr": "Draking Ngaditono",
-        "team": "Enerzy",
+        "mgr": "Akshay Melwani",
+        "team": "Test",
         "gw": 36,
         "total": 230,
         "move": -14
@@ -206,18 +206,18 @@
         "move": -7
       },
       {
-        "mgr": "M Suudi",
-        "team": "Cakdes FPL",
-        "gw": 52,
-        "total": 215,
-        "move": 3
-      },
-      {
         "mgr": "Siddarth Kaul",
         "team": "sidskids",
         "gw": 42,
         "total": 215,
         "move": -9
+      },
+      {
+        "mgr": "M Suudi",
+        "team": "Cakdes FPL",
+        "gw": 52,
+        "total": 215,
+        "move": 3
       },
       {
         "mgr": "Hitesh Mahbubani",
