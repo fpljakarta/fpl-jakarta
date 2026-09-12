@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11T23:46:31.602Z",
+  "updated": "2026-09-12T02:35:21.010Z",
   "standings": {
     "main": [
       {
@@ -38,18 +38,18 @@
         "move": 3
       },
       {
-        "mgr": "Rohan Kalwani",
-        "team": "-4 Builds Carrickter",
-        "gw": 55,
-        "total": 239,
-        "move": 4
-      },
-      {
         "mgr": "Kunal Manwani",
         "team": "Kloppite_6",
         "gw": 67,
         "total": 239,
         "move": 16
+      },
+      {
+        "mgr": "Rohan Kalwani",
+        "team": "-4 Builds Carrickter",
+        "gw": 55,
+        "total": 239,
+        "move": 4
       },
       {
         "mgr": "Paras Lalwani",
@@ -136,13 +136,6 @@
         "move": 7
       },
       {
-        "mgr": "Prashan Harjani",
-        "team": "Pineapple Delight",
-        "gw": 55,
-        "total": 226,
-        "move": 5
-      },
-      {
         "mgr": "Prashant Chainani",
         "team": "HighOnHouse",
         "gw": 52,
@@ -150,11 +143,11 @@
         "move": -2
       },
       {
-        "mgr": "Nitin Nathani",
-        "team": "Untouchables",
-        "gw": 43,
-        "total": 225,
-        "move": -10
+        "mgr": "Prashan Harjani",
+        "team": "Pineapple Delight",
+        "gw": 55,
+        "total": 226,
+        "move": 5
       },
       {
         "mgr": "Gautam Vassanmal",
@@ -162,6 +155,13 @@
         "gw": 47,
         "total": 225,
         "move": -6
+      },
+      {
+        "mgr": "Nitin Nathani",
+        "team": "Untouchables",
+        "gw": 43,
+        "total": 225,
+        "move": -10
       },
       {
         "mgr": "Nikk Kadbet",
