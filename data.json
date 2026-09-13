@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T00:31:31.790Z",
+  "updated": "2026-09-13T05:32:49.845Z",
   "standings": {
     "main": [
       {
@@ -38,15 +38,15 @@
         "move": 3
       },
       {
-        "mgr": "Draking Ngaditono",
-        "team": "Enerzy",
+        "mgr": "Akshay Melwani",
+        "team": "Test",
         "gw": 66,
         "total": 296,
         "move": 10
       },
       {
-        "mgr": "Akshay Melwani",
-        "team": "Test",
+        "mgr": "Draking Ngaditono",
+        "team": "Enerzy",
         "gw": 66,
         "total": 296,
         "move": 10
@@ -87,18 +87,18 @@
         "move": 12
       },
       {
-        "mgr": "Sherwin Lee",
-        "team": "soteriapsalms",
-        "gw": 40,
-        "total": 283,
-        "move": -10
-      },
-      {
         "mgr": "Gautam Vassanmal",
         "team": "GV9",
         "gw": 58,
         "total": 283,
         "move": 9
+      },
+      {
+        "mgr": "Sherwin Lee",
+        "team": "soteriapsalms",
+        "gw": 40,
+        "total": 283,
+        "move": -10
       },
       {
         "mgr": "Prashan Harjani",
@@ -311,18 +311,18 @@
         "move": 2
       },
       {
-        "mgr": "Jeremy Oberoi",
-        "team": "Next Season FC",
-        "gw": 54,
-        "total": 246,
-        "move": 3
-      },
-      {
         "mgr": "Hitesh Singh",
         "team": "Not Too Xabi",
         "gw": 59,
         "total": 246,
         "move": 5
+      },
+      {
+        "mgr": "Jeremy Oberoi",
+        "team": "Next Season FC",
+        "gw": 54,
+        "total": 246,
+        "move": 3
       },
       {
         "mgr": "Mohit Mirpuri",
