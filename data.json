@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12T22:04:23.896Z",
+  "updated": "2026-09-13T00:31:31.790Z",
   "standings": {
     "main": [
       {
@@ -87,18 +87,18 @@
         "move": 12
       },
       {
-        "mgr": "Gautam Vassanmal",
-        "team": "GV9",
-        "gw": 58,
-        "total": 283,
-        "move": 9
-      },
-      {
         "mgr": "Sherwin Lee",
         "team": "soteriapsalms",
         "gw": 40,
         "total": 283,
         "move": -10
+      },
+      {
+        "mgr": "Gautam Vassanmal",
+        "team": "GV9",
+        "gw": 58,
+        "total": 283,
+        "move": 9
       },
       {
         "mgr": "Prashan Harjani",
@@ -164,18 +164,18 @@
         "move": -5
       },
       {
-        "mgr": "Win Win",
-        "team": "Kalimasada FC",
-        "gw": 46,
-        "total": 269,
-        "move": 2
-      },
-      {
         "mgr": "Michael Kenneth",
         "team": "Pool4life",
         "gw": 54,
         "total": 269,
         "move": 9
+      },
+      {
+        "mgr": "Win Win",
+        "team": "Kalimasada FC",
+        "gw": 46,
+        "total": 269,
+        "move": 2
       },
       {
         "mgr": "Suraj Topandasani",
@@ -227,18 +227,18 @@
         "move": -23
       },
       {
-        "mgr": "Indar Dhaliwal",
-        "team": "Daylight Brobbery",
-        "gw": 65,
-        "total": 260,
-        "move": 12
-      },
-      {
         "mgr": "Anoop Vaswani",
         "team": "Beer Kings",
         "gw": 74,
         "total": 260,
         "move": 18
+      },
+      {
+        "mgr": "Indar Dhaliwal",
+        "team": "Daylight Brobbery",
+        "gw": 65,
+        "total": 260,
+        "move": 12
       },
       {
         "mgr": "Charles Lesmana",
@@ -325,18 +325,18 @@
         "move": 5
       },
       {
-        "mgr": "Sagar Sadarangani",
-        "team": "cole me palmer",
-        "gw": 63,
-        "total": 245,
-        "move": 6
-      },
-      {
         "mgr": "Mohit Mirpuri",
         "team": "LION CITY BALLERS",
         "gw": 52,
         "total": 245,
         "move": 0
+      },
+      {
+        "mgr": "Sagar Sadarangani",
+        "team": "cole me palmer",
+        "gw": 63,
+        "total": 245,
+        "move": 6
       },
       {
         "mgr": "Ajay Yeleswaram",
