@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T17:49:37.930Z",
+  "updated": "2026-09-13T20:06:09.686Z",
   "standings": {
     "main": [
       {
@@ -94,18 +94,18 @@
         "move": 0
       },
       {
-        "mgr": "Gautam Vassanmal",
-        "team": "GV9",
-        "gw": 85,
-        "total": 310,
-        "move": 8
-      },
-      {
         "mgr": "Sherwin Lee",
         "team": "soteriapsalms",
         "gw": 67,
         "total": 310,
         "move": -11
+      },
+      {
+        "mgr": "Gautam Vassanmal",
+        "team": "GV9",
+        "gw": 85,
+        "total": 310,
+        "move": 8
       },
       {
         "mgr": "Rishabh Mehta",
@@ -115,18 +115,18 @@
         "move": -7
       },
       {
-        "mgr": "Kunal Manwani",
-        "team": "Kloppite_6",
-        "gw": 67,
-        "total": 306,
-        "move": -11
-      },
-      {
         "mgr": "Bharat Lakhwani",
         "team": "Bpl",
         "gw": 72,
         "total": 306,
         "move": -5
+      },
+      {
+        "mgr": "Kunal Manwani",
+        "team": "Kloppite_6",
+        "gw": 67,
+        "total": 306,
+        "move": -11
       },
       {
         "mgr": "Prashant Chainani",
@@ -157,13 +157,6 @@
         "move": -2
       },
       {
-        "mgr": "Suraj Topandasani",
-        "team": "Londonal FC",
-        "gw": 79,
-        "total": 298,
-        "move": 4
-      },
-      {
         "mgr": "Deepu Narwani",
         "team": "FC BOSS THA",
         "gw": 69,
@@ -176,6 +169,13 @@
         "gw": 79,
         "total": 298,
         "move": 5
+      },
+      {
+        "mgr": "Suraj Topandasani",
+        "team": "Londonal FC",
+        "gw": 79,
+        "total": 298,
+        "move": 4
       },
       {
         "mgr": "Neeraj Narwani",
@@ -220,18 +220,18 @@
         "move": -6
       },
       {
-        "mgr": "Sagar Paleja",
-        "team": "Jai Shree Krishna",
-        "gw": 85,
-        "total": 286,
-        "move": 11
-      },
-      {
         "mgr": "Snehanshu Gupta",
         "team": "Snaydoooo",
         "gw": 73,
         "total": 286,
         "move": 4
+      },
+      {
+        "mgr": "Sagar Paleja",
+        "team": "Jai Shree Krishna",
+        "gw": 85,
+        "total": 286,
+        "move": 11
       },
       {
         "mgr": "Joanda Febrian",
@@ -453,18 +453,18 @@
         "move": 1
       },
       {
-        "mgr": "Sherwin Lee",
-        "team": "soteriapsalms",
-        "gw": 67,
-        "total": 310,
-        "move": -3
-      },
-      {
         "mgr": "Gautam Vassanmal",
         "team": "GV9",
         "gw": 85,
         "total": 310,
         "move": 5
+      },
+      {
+        "mgr": "Sherwin Lee",
+        "team": "soteriapsalms",
+        "gw": 67,
+        "total": 310,
+        "move": -3
       },
       {
         "mgr": "Kunal Manwani",
