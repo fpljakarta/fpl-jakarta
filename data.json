@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T05:32:49.845Z",
+  "updated": "2026-09-13T10:54:50.776Z",
   "standings": {
     "main": [
       {
@@ -87,18 +87,18 @@
         "move": 12
       },
       {
-        "mgr": "Gautam Vassanmal",
-        "team": "GV9",
-        "gw": 58,
-        "total": 283,
-        "move": 9
-      },
-      {
         "mgr": "Sherwin Lee",
         "team": "soteriapsalms",
         "gw": 40,
         "total": 283,
         "move": -10
+      },
+      {
+        "mgr": "Gautam Vassanmal",
+        "team": "GV9",
+        "gw": 58,
+        "total": 283,
+        "move": 9
       },
       {
         "mgr": "Prashan Harjani",
@@ -325,18 +325,18 @@
         "move": 3
       },
       {
-        "mgr": "Mohit Mirpuri",
-        "team": "LION CITY BALLERS",
-        "gw": 52,
-        "total": 245,
-        "move": 0
-      },
-      {
         "mgr": "Sagar Sadarangani",
         "team": "cole me palmer",
         "gw": 63,
         "total": 245,
         "move": 6
+      },
+      {
+        "mgr": "Mohit Mirpuri",
+        "team": "LION CITY BALLERS",
+        "gw": 52,
+        "total": 245,
+        "move": 0
       },
       {
         "mgr": "Ajay Yeleswaram",
