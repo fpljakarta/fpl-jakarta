@@ -1,342 +1,342 @@
 {
-  "updated": "2026-09-14T17:23:22.783Z",
+  "updated": "2026-09-14T21:16:24.450Z",
   "standings": {
     "main": [
       {
+        "mgr": "S M",
+        "team": "I Know Nothing",
+        "gw": 91,
+        "total": 342,
+        "move": 0
+      },
+      {
+        "mgr": "Rahul Nanwani",
+        "team": "Rahul Nanwani FC",
+        "gw": 101,
+        "total": 337,
+        "move": 8
+      },
+      {
         "mgr": "Akshay Melwani",
         "team": "Test",
-        "gw": 103,
-        "total": 333,
-        "move": 15
+        "gw": 105,
+        "total": 335,
+        "move": 13
       },
       {
         "mgr": "Draking Ngaditono",
         "team": "Enerzy",
-        "gw": 103,
-        "total": 333,
-        "move": 15
-      },
-      {
-        "mgr": "S M",
-        "team": "I Know Nothing",
-        "gw": 81,
-        "total": 332,
-        "move": -2
-      },
-      {
-        "mgr": "Sanchit Suri",
-        "team": "WinterisHere!",
-        "gw": 88,
-        "total": 327,
-        "move": 1
+        "gw": 105,
+        "total": 335,
+        "move": 13
       },
       {
         "mgr": "Neel Dadlani",
         "team": "NDFC",
-        "gw": 83,
-        "total": 324,
+        "gw": 93,
+        "total": 334,
+        "move": -1
+      },
+      {
+        "mgr": "Sanchit Suri",
+        "team": "WinterisHere!",
+        "gw": 90,
+        "total": 329,
         "move": -1
       },
       {
         "mgr": "Paras Lalwani",
         "team": "FC Pain Chaud",
-        "gw": 85,
-        "total": 323,
-        "move": 2
+        "gw": 87,
+        "total": 325,
+        "move": 1
       },
       {
-        "mgr": "Rahul Nanwani",
-        "team": "Rahul Nanwani FC",
-        "gw": 86,
-        "total": 322,
-        "move": 3
+        "mgr": "Bharat Lakhwani",
+        "team": "Bpl",
+        "gw": 90,
+        "total": 324,
+        "move": 4
       },
       {
         "mgr": "Rohan Kalwani",
         "team": "-4 Builds Carrickter",
-        "gw": 82,
-        "total": 317,
-        "move": -2
+        "gw": 84,
+        "total": 319,
+        "move": -3
       },
       {
         "mgr": "Siddarth Kaul",
         "team": "sidskids",
-        "gw": 101,
-        "total": 316,
-        "move": 21
+        "gw": 103,
+        "total": 318,
+        "move": 20
       },
       {
         "mgr": "Sanjay Morani",
         "team": "Xisco Inferno FC",
-        "gw": 70,
-        "total": 316,
-        "move": -8
+        "gw": 72,
+        "total": 318,
+        "move": -9
+      },
+      {
+        "mgr": "Prashant Chainani",
+        "team": "HighOnHouse",
+        "gw": 89,
+        "total": 315,
+        "move": 8
       },
       {
         "mgr": "Xerxis Desai",
         "team": "Bay City Ballers",
         "gw": 97,
         "total": 314,
-        "move": 18
+        "move": 16
+      },
+      {
+        "mgr": "Gautam Vassanmal",
+        "team": "GV9",
+        "gw": 88,
+        "total": 313,
+        "move": 8
+      },
+      {
+        "mgr": "Sherwin Lee",
+        "team": "soteriapsalms",
+        "gw": 70,
+        "total": 313,
+        "move": -11
       },
       {
         "mgr": "Karan Khosla",
         "team": "Jinja's Safari",
         "gw": 79,
         "total": 313,
-        "move": 1
+        "move": -3
       },
       {
         "mgr": "Chiraag Keswani",
         "team": "Ckeswani's XI",
         "gw": 77,
         "total": 312,
-        "move": -2
+        "move": -6
       },
       {
-        "mgr": "Gautam Vassanmal",
-        "team": "GV9",
-        "gw": 86,
+        "mgr": "Nikk Kadbet",
+        "team": "Anfield Legends",
+        "gw": 90,
         "total": 311,
-        "move": 8
-      },
-      {
-        "mgr": "Sherwin Lee",
-        "team": "soteriapsalms",
-        "gw": 68,
-        "total": 311,
-        "move": -11
+        "move": 6
       },
       {
         "mgr": "Rishabh Mehta",
         "team": "PepMasterclass",
-        "gw": 72,
-        "total": 308,
-        "move": -7
-      },
-      {
-        "mgr": "Bharat Lakhwani",
-        "team": "Bpl",
-        "gw": 73,
-        "total": 307,
-        "move": -5
+        "gw": 74,
+        "total": 310,
+        "move": -10
       },
       {
         "mgr": "Kunal Manwani",
         "team": "Kloppite_6",
         "gw": 68,
         "total": 307,
-        "move": -11
-      },
-      {
-        "mgr": "Prashant Chainani",
-        "team": "HighOnHouse",
-        "gw": 79,
-        "total": 305,
-        "move": 1
-      },
-      {
-        "mgr": "Nikk Kadbet",
-        "team": "Anfield Legends",
-        "gw": 83,
-        "total": 304,
-        "move": 4
+        "move": -14
       },
       {
         "mgr": "Charles Lesmana",
         "team": "Les Intouchables",
-        "gw": 89,
-        "total": 303,
+        "gw": 91,
+        "total": 305,
         "move": 13
+      },
+      {
+        "mgr": "Rayan Hamza",
+        "team": "Zarks",
+        "gw": 77,
+        "total": 303,
+        "move": -3
       },
       {
         "mgr": "Prashan Harjani",
         "team": "Pineapple Delight",
         "gw": 77,
         "total": 303,
-        "move": -2
-      },
-      {
-        "mgr": "Jevesh Vatvani",
-        "team": "YNWA",
-        "gw": 80,
-        "total": 299,
-        "move": 5
+        "move": -3
       },
       {
         "mgr": "Suraj Topandasani",
         "team": "Londonal FC",
-        "gw": 80,
-        "total": 299,
-        "move": 4
+        "gw": 83,
+        "total": 302,
+        "move": 3
+      },
+      {
+        "mgr": "Jevesh Vatvani",
+        "team": "YNWA",
+        "gw": 82,
+        "total": 301,
+        "move": 3
       },
       {
         "mgr": "Neeraj Narwani",
         "team": "Gampang Bro",
-        "gw": 68,
-        "total": 299,
-        "move": -11
+        "gw": 70,
+        "total": 301,
+        "move": -12
+      },
+      {
+        "mgr": "Nitin Nathani",
+        "team": "Untouchables",
+        "gw": 76,
+        "total": 301,
+        "move": -4
+      },
+      {
+        "mgr": "Hitesh Mahbubani",
+        "team": "Goalbusters",
+        "gw": 85,
+        "total": 300,
+        "move": 4
       },
       {
         "mgr": "Deepu Narwani",
         "team": "FC BOSS THA",
         "gw": 69,
         "total": 298,
-        "move": -8
+        "move": -11
       },
       {
         "mgr": "Abhishek Keswani",
         "team": "Usual Suspects",
-        "gw": 63,
-        "total": 294,
-        "move": -13
+        "gw": 65,
+        "total": 296,
+        "move": -16
       },
       {
-        "mgr": "Rayan Hamza",
-        "team": "Zarks",
-        "gw": 67,
-        "total": 293,
-        "move": -9
-      },
-      {
-        "mgr": "Hitesh Mahbubani",
-        "team": "Goalbusters",
-        "gw": 75,
-        "total": 290,
-        "move": 3
+        "mgr": "Indar Dhaliwal",
+        "team": "Daylight Brobbery",
+        "gw": 101,
+        "total": 296,
+        "move": 14
       },
       {
         "mgr": "Michael Kenneth",
         "team": "Pool4life",
-        "gw": 74,
-        "total": 289,
-        "move": 3
+        "gw": 76,
+        "total": 291,
+        "move": 1
+      },
+      {
+        "mgr": "Ajay Yeleswaram",
+        "team": "Relegated",
+        "gw": 82,
+        "total": 291,
+        "move": 4
+      },
+      {
+        "mgr": "Win Win",
+        "team": "Kalimasada FC",
+        "gw": 67,
+        "total": 290,
+        "move": -8
       },
       {
         "mgr": "Dayne De Melo",
         "team": "Gross Misconduct",
-        "gw": 63,
-        "total": 287,
-        "move": -6
+        "gw": 65,
+        "total": 289,
+        "move": -10
       },
       {
         "mgr": "Sagar Paleja",
         "team": "Jai Shree Krishna",
         "gw": 86,
         "total": 287,
-        "move": 11
+        "move": 7
       },
       {
         "mgr": "Snehanshu Gupta",
         "team": "Snaydoooo",
         "gw": 74,
         "total": 287,
-        "move": 4
+        "move": 0
       },
       {
         "mgr": "Joanda Febrian",
         "team": "DBM FC",
         "gw": 78,
         "total": 286,
-        "move": 4
+        "move": 0
       },
       {
-        "mgr": "Nitin Nathani",
-        "team": "Untouchables",
-        "gw": 59,
+        "mgr": "Kevin Raymond",
+        "team": "Gunners United",
+        "gw": 89,
         "total": 284,
-        "move": -13
+        "move": 7
       },
       {
         "mgr": "Vishal Lakhiani",
         "team": "Vish Fish",
         "gw": 82,
         "total": 283,
-        "move": 6
-      },
-      {
-        "mgr": "Ajay Yeleswaram",
-        "team": "Relegated",
-        "gw": 72,
-        "total": 281,
-        "move": 0
-      },
-      {
-        "mgr": "Win Win",
-        "team": "Kalimasada FC",
-        "gw": 57,
-        "total": 280,
-        "move": -12
+        "move": 2
       },
       {
         "mgr": "joachim chia",
         "team": "brotatogyokeres",
         "gw": 77,
         "total": 280,
-        "move": 2
+        "move": 0
       },
       {
-        "mgr": "Indar Dhaliwal",
-        "team": "Daylight Brobbery",
-        "gw": 84,
-        "total": 279,
-        "move": 5
+        "mgr": "Rachman Witarlan",
+        "team": "FC Milanello",
+        "gw": 69,
+        "total": 277,
+        "move": -3
+      },
+      {
+        "mgr": "M Suudi",
+        "team": "Cakdes FPL",
+        "gw": 62,
+        "total": 277,
+        "move": -12
       },
       {
         "mgr": "Prakash Mahtani",
         "team": "400K Redemption Arc",
         "gw": 71,
         "total": 277,
-        "move": -1
-      },
-      {
-        "mgr": "M Suudi",
-        "team": "Cakdes FPL",
-        "gw": 60,
-        "total": 275,
-        "move": -12
-      },
-      {
-        "mgr": "Kevin Raymond",
-        "team": "Gunners United",
-        "gw": 79,
-        "total": 274,
-        "move": 3
+        "move": -4
       },
       {
         "mgr": "Edward Angkasa",
         "team": "Juvenalis",
         "gw": 74,
         "total": 273,
-        "move": 0
+        "move": -1
       },
       {
         "mgr": "Anoop Vaswani",
         "team": "Beer Kings",
         "gw": 85,
         "total": 271,
-        "move": 6
+        "move": 5
       },
       {
         "mgr": "Jonathan Lobo",
         "team": "Jonathan's Team",
-        "gw": 60,
-        "total": 270,
-        "move": -11
+        "gw": 61,
+        "total": 271,
+        "move": -12
       },
       {
         "mgr": "Mohit Mirpuri",
         "team": "LION CITY BALLERS",
         "gw": 75,
         "total": 268,
-        "move": 0
-      },
-      {
-        "mgr": "Rachman Witarlan",
-        "team": "FC Milanello",
-        "gw": 59,
-        "total": 267,
-        "move": -9
+        "move": -1
       },
       {
         "mgr": "Hitesh Singh",
@@ -376,8 +376,8 @@
       {
         "mgr": "Amrit Lakhiani",
         "team": "Pomfriterole FC",
-        "gw": 72,
-        "total": 248,
+        "gw": 75,
+        "total": 251,
         "move": 1
       },
       {
@@ -390,8 +390,8 @@
       {
         "mgr": "Lavesh Punjabi",
         "team": "Punjabi United",
-        "gw": 74,
-        "total": 242,
+        "gw": 76,
+        "total": 244,
         "move": 0
       },
       {
@@ -411,8 +411,8 @@
       {
         "mgr": "Sanjev Rama",
         "team": "Jippy's",
-        "gw": 40,
-        "total": 209,
+        "gw": 50,
+        "total": 219,
         "move": -2
       }
     ],
@@ -420,78 +420,78 @@
       {
         "mgr": "S M",
         "team": "I Know Nothing",
-        "gw": 81,
-        "total": 332,
+        "gw": 91,
+        "total": 342,
         "move": 0
       },
       {
         "mgr": "Sanchit Suri",
         "team": "WinterisHere!",
-        "gw": 88,
-        "total": 327,
+        "gw": 90,
+        "total": 329,
         "move": 2
       },
       {
         "mgr": "Sanjay Morani",
         "team": "Xisco Inferno FC",
-        "gw": 70,
-        "total": 316,
+        "gw": 72,
+        "total": 318,
         "move": -1
+      },
+      {
+        "mgr": "Prashant Chainani",
+        "team": "HighOnHouse",
+        "gw": 89,
+        "total": 315,
+        "move": 5
       },
       {
         "mgr": "Xerxis Desai",
         "team": "Bay City Ballers",
         "gw": 97,
         "total": 314,
-        "move": 10
+        "move": 9
+      },
+      {
+        "mgr": "Sherwin Lee",
+        "team": "soteriapsalms",
+        "gw": 70,
+        "total": 313,
+        "move": -3
+      },
+      {
+        "mgr": "Gautam Vassanmal",
+        "team": "GV9",
+        "gw": 88,
+        "total": 313,
+        "move": 5
       },
       {
         "mgr": "Karan Khosla",
         "team": "Jinja's Safari",
         "gw": 79,
         "total": 313,
-        "move": 1
+        "move": -2
       },
       {
-        "mgr": "Sherwin Lee",
-        "team": "soteriapsalms",
-        "gw": 68,
+        "mgr": "Nikk Kadbet",
+        "team": "Anfield Legends",
+        "gw": 90,
         "total": 311,
-        "move": -3
-      },
-      {
-        "mgr": "Gautam Vassanmal",
-        "team": "GV9",
-        "gw": 86,
-        "total": 311,
-        "move": 5
+        "move": 3
       },
       {
         "mgr": "Kunal Manwani",
         "team": "Kloppite_6",
         "gw": 68,
         "total": 307,
-        "move": -3
-      },
-      {
-        "mgr": "Prashant Chainani",
-        "team": "HighOnHouse",
-        "gw": 79,
-        "total": 305,
-        "move": 0
-      },
-      {
-        "mgr": "Nikk Kadbet",
-        "team": "Anfield Legends",
-        "gw": 83,
-        "total": 304,
-        "move": 2
+        "move": -5
       },
       {
         "mgr": "Charles Lesmana",
         "team": "Les Intouchables",
-        "gw": 89,
-        "total": 303,
+        "gw": 91,
+        "total": 305,
         "move": 4
       },
       {
@@ -504,8 +504,8 @@
       {
         "mgr": "Neeraj Narwani",
         "team": "Gampang Bro",
-        "gw": 68,
-        "total": 299,
+        "gw": 70,
+        "total": 301,
         "move": -6
       },
       {
@@ -518,8 +518,8 @@
       {
         "mgr": "Dayne De Melo",
         "team": "Gross Misconduct",
-        "gw": 63,
-        "total": 287,
+        "gw": 65,
+        "total": 289,
         "move": -2
       },
       {
@@ -560,8 +560,8 @@
       {
         "mgr": "Jonathan Lobo",
         "team": "Jonathan's Team",
-        "gw": 60,
-        "total": 270,
+        "gw": 61,
+        "total": 271,
         "move": -5
       },
       {
@@ -581,15 +581,15 @@
       {
         "mgr": "Amrit Lakhiani",
         "team": "Pomfriterole FC",
-        "gw": 72,
-        "total": 248,
+        "gw": 75,
+        "total": 251,
         "move": 0
       },
       {
         "mgr": "Lavesh Punjabi",
         "team": "Punjabi United",
-        "gw": 74,
-        "total": 242,
+        "gw": 76,
+        "total": 244,
         "move": 0
       },
       {
