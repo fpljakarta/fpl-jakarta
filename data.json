@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T22:45:37.214Z",
+  "updated": "2026-09-14T00:34:41.428Z",
   "standings": {
     "main": [
       {
@@ -157,18 +157,18 @@
         "move": -2
       },
       {
-        "mgr": "Jevesh Vatvani",
-        "team": "YNWA",
-        "gw": 80,
-        "total": 299,
-        "move": 5
-      },
-      {
         "mgr": "Suraj Topandasani",
         "team": "Londonal FC",
         "gw": 80,
         "total": 299,
         "move": 4
+      },
+      {
+        "mgr": "Jevesh Vatvani",
+        "team": "YNWA",
+        "gw": 80,
+        "total": 299,
+        "move": 5
       },
       {
         "mgr": "Neeraj Narwani",
@@ -220,18 +220,18 @@
         "move": -6
       },
       {
-        "mgr": "Sagar Paleja",
-        "team": "Jai Shree Krishna",
-        "gw": 86,
-        "total": 287,
-        "move": 11
-      },
-      {
         "mgr": "Snehanshu Gupta",
         "team": "Snaydoooo",
         "gw": 74,
         "total": 287,
         "move": 4
+      },
+      {
+        "mgr": "Sagar Paleja",
+        "team": "Jai Shree Krishna",
+        "gw": 86,
+        "total": 287,
+        "move": 11
       },
       {
         "mgr": "Joanda Febrian",
