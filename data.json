@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T11:26:33.668Z",
+  "updated": "2026-09-14T17:23:22.783Z",
   "standings": {
     "main": [
       {
@@ -115,18 +115,18 @@
         "move": -7
       },
       {
-        "mgr": "Kunal Manwani",
-        "team": "Kloppite_6",
-        "gw": 68,
-        "total": 307,
-        "move": -11
-      },
-      {
         "mgr": "Bharat Lakhwani",
         "team": "Bpl",
         "gw": 73,
         "total": 307,
         "move": -5
+      },
+      {
+        "mgr": "Kunal Manwani",
+        "team": "Kloppite_6",
+        "gw": 68,
+        "total": 307,
+        "move": -11
       },
       {
         "mgr": "Prashant Chainani",
@@ -453,18 +453,18 @@
         "move": 1
       },
       {
-        "mgr": "Gautam Vassanmal",
-        "team": "GV9",
-        "gw": 86,
-        "total": 311,
-        "move": 5
-      },
-      {
         "mgr": "Sherwin Lee",
         "team": "soteriapsalms",
         "gw": 68,
         "total": 311,
         "move": -3
+      },
+      {
+        "mgr": "Gautam Vassanmal",
+        "team": "GV9",
+        "gw": 86,
+        "total": 311,
+        "move": 5
       },
       {
         "mgr": "Kunal Manwani",
