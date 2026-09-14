@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T00:34:41.428Z",
+  "updated": "2026-09-14T05:37:41.401Z",
   "standings": {
     "main": [
       {
@@ -220,18 +220,18 @@
         "move": -6
       },
       {
-        "mgr": "Snehanshu Gupta",
-        "team": "Snaydoooo",
-        "gw": 74,
-        "total": 287,
-        "move": 4
-      },
-      {
         "mgr": "Sagar Paleja",
         "team": "Jai Shree Krishna",
         "gw": 86,
         "total": 287,
         "move": 11
+      },
+      {
+        "mgr": "Snehanshu Gupta",
+        "team": "Snaydoooo",
+        "gw": 74,
+        "total": 287,
+        "move": 4
       },
       {
         "mgr": "Joanda Febrian",
@@ -453,18 +453,18 @@
         "move": 1
       },
       {
-        "mgr": "Gautam Vassanmal",
-        "team": "GV9",
-        "gw": 86,
-        "total": 311,
-        "move": 5
-      },
-      {
         "mgr": "Sherwin Lee",
         "team": "soteriapsalms",
         "gw": 68,
         "total": 311,
         "move": -3
+      },
+      {
+        "mgr": "Gautam Vassanmal",
+        "team": "GV9",
+        "gw": 86,
+        "total": 311,
+        "move": 5
       },
       {
         "mgr": "Kunal Manwani",
