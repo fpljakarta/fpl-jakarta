@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T21:16:24.450Z",
+  "updated": "2026-09-15T00:07:59.820Z",
   "standings": {
     "main": [
       {
@@ -17,15 +17,15 @@
         "move": 8
       },
       {
-        "mgr": "Akshay Melwani",
-        "team": "Test",
+        "mgr": "Draking Ngaditono",
+        "team": "Enerzy",
         "gw": 105,
         "total": 335,
         "move": 13
       },
       {
-        "mgr": "Draking Ngaditono",
-        "team": "Enerzy",
+        "mgr": "Akshay Melwani",
+        "team": "Test",
         "gw": 105,
         "total": 335,
         "move": 13
@@ -178,18 +178,18 @@
         "move": 3
       },
       {
-        "mgr": "Neeraj Narwani",
-        "team": "Gampang Bro",
-        "gw": 70,
-        "total": 301,
-        "move": -12
-      },
-      {
         "mgr": "Nitin Nathani",
         "team": "Untouchables",
         "gw": 76,
         "total": 301,
         "move": -4
+      },
+      {
+        "mgr": "Neeraj Narwani",
+        "team": "Gampang Bro",
+        "gw": 70,
+        "total": 301,
+        "move": -12
       },
       {
         "mgr": "Hitesh Mahbubani",
@@ -248,18 +248,18 @@
         "move": -10
       },
       {
-        "mgr": "Sagar Paleja",
-        "team": "Jai Shree Krishna",
-        "gw": 86,
-        "total": 287,
-        "move": 7
-      },
-      {
         "mgr": "Snehanshu Gupta",
         "team": "Snaydoooo",
         "gw": 74,
         "total": 287,
         "move": 0
+      },
+      {
+        "mgr": "Sagar Paleja",
+        "team": "Jai Shree Krishna",
+        "gw": 86,
+        "total": 287,
+        "move": 7
       },
       {
         "mgr": "Joanda Febrian",
@@ -290,18 +290,18 @@
         "move": 0
       },
       {
-        "mgr": "Rachman Witarlan",
-        "team": "FC Milanello",
-        "gw": 69,
-        "total": 277,
-        "move": -3
-      },
-      {
         "mgr": "M Suudi",
         "team": "Cakdes FPL",
         "gw": 62,
         "total": 277,
         "move": -12
+      },
+      {
+        "mgr": "Rachman Witarlan",
+        "team": "FC Milanello",
+        "gw": 69,
+        "total": 277,
+        "move": -3
       },
       {
         "mgr": "Prakash Mahtani",
