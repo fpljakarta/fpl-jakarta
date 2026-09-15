@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T05:39:23.412Z",
+  "updated": "2026-09-15T10:49:11.608Z",
   "standings": {
     "main": [
       {
@@ -17,15 +17,15 @@
         "move": 8
       },
       {
-        "mgr": "Draking Ngaditono",
-        "team": "Enerzy",
+        "mgr": "Akshay Melwani",
+        "team": "Test",
         "gw": 105,
         "total": 335,
         "move": 13
       },
       {
-        "mgr": "Akshay Melwani",
-        "team": "Test",
+        "mgr": "Draking Ngaditono",
+        "team": "Enerzy",
         "gw": 105,
         "total": 335,
         "move": 13
@@ -94,18 +94,18 @@
         "move": 16
       },
       {
-        "mgr": "Gautam Vassanmal",
-        "team": "GV9",
-        "gw": 88,
-        "total": 313,
-        "move": 8
-      },
-      {
         "mgr": "Sherwin Lee",
         "team": "soteriapsalms",
         "gw": 70,
         "total": 313,
         "move": -11
+      },
+      {
+        "mgr": "Gautam Vassanmal",
+        "team": "GV9",
+        "gw": 88,
+        "total": 313,
+        "move": 8
       },
       {
         "mgr": "Karan Khosla",
@@ -145,8 +145,8 @@
       {
         "mgr": "Charles Lesmana",
         "team": "Les Intouchables",
-        "gw": 91,
-        "total": 305,
+        "gw": 92,
+        "total": 306,
         "move": 13
       },
       {
@@ -241,25 +241,25 @@
         "move": -8
       },
       {
+        "mgr": "Snehanshu Gupta",
+        "team": "Snaydoooo",
+        "gw": 77,
+        "total": 290,
+        "move": 1
+      },
+      {
         "mgr": "Dayne De Melo",
         "team": "Gross Misconduct",
         "gw": 65,
         "total": 289,
-        "move": -10
+        "move": -11
       },
       {
         "mgr": "Sagar Paleja",
         "team": "Jai Shree Krishna",
         "gw": 86,
         "total": 287,
-        "move": 7
-      },
-      {
-        "mgr": "Snehanshu Gupta",
-        "team": "Snaydoooo",
-        "gw": 74,
-        "total": 287,
-        "move": 0
+        "move": 6
       },
       {
         "mgr": "Joanda Febrian",
@@ -285,16 +285,9 @@
       {
         "mgr": "joachim chia",
         "team": "brotatogyokeres",
-        "gw": 77,
-        "total": 280,
+        "gw": 78,
+        "total": 281,
         "move": 0
-      },
-      {
-        "mgr": "M Suudi",
-        "team": "Cakdes FPL",
-        "gw": 62,
-        "total": 277,
-        "move": -12
       },
       {
         "mgr": "Rachman Witarlan",
@@ -302,6 +295,13 @@
         "gw": 69,
         "total": 277,
         "move": -3
+      },
+      {
+        "mgr": "M Suudi",
+        "team": "Cakdes FPL",
+        "gw": 62,
+        "total": 277,
+        "move": -12
       },
       {
         "mgr": "Prakash Mahtani",
@@ -334,8 +334,8 @@
       {
         "mgr": "Mohit Mirpuri",
         "team": "LION CITY BALLERS",
-        "gw": 75,
-        "total": 268,
+        "gw": 76,
+        "total": 269,
         "move": -1
       },
       {
@@ -369,8 +369,8 @@
       {
         "mgr": "Sagar Sadarangani",
         "team": "cole me palmer",
-        "gw": 72,
-        "total": 254,
+        "gw": 73,
+        "total": 255,
         "move": 0
       },
       {
@@ -404,8 +404,8 @@
       {
         "mgr": "Gaurav Yadav",
         "team": "Quantom of Tzolis",
-        "gw": 63,
-        "total": 219,
+        "gw": 64,
+        "total": 220,
         "move": 0
       },
       {
@@ -453,18 +453,18 @@
         "move": 9
       },
       {
-        "mgr": "Gautam Vassanmal",
-        "team": "GV9",
-        "gw": 88,
-        "total": 313,
-        "move": 5
-      },
-      {
         "mgr": "Sherwin Lee",
         "team": "soteriapsalms",
         "gw": 70,
         "total": 313,
         "move": -3
+      },
+      {
+        "mgr": "Gautam Vassanmal",
+        "team": "GV9",
+        "gw": 88,
+        "total": 313,
+        "move": 5
       },
       {
         "mgr": "Karan Khosla",
@@ -490,8 +490,8 @@
       {
         "mgr": "Charles Lesmana",
         "team": "Les Intouchables",
-        "gw": 91,
-        "total": 305,
+        "gw": 92,
+        "total": 306,
         "move": 4
       },
       {
@@ -539,8 +539,8 @@
       {
         "mgr": "joachim chia",
         "team": "brotatogyokeres",
-        "gw": 77,
-        "total": 280,
+        "gw": 78,
+        "total": 281,
         "move": 0
       },
       {
@@ -567,8 +567,8 @@
       {
         "mgr": "Mohit Mirpuri",
         "team": "LION CITY BALLERS",
-        "gw": 75,
-        "total": 268,
+        "gw": 76,
+        "total": 269,
         "move": 0
       },
       {
@@ -595,8 +595,8 @@
       {
         "mgr": "Gaurav Yadav",
         "team": "Quantom of Tzolis",
-        "gw": 63,
-        "total": 219,
+        "gw": 64,
+        "total": 220,
         "move": 0
       }
     ]
