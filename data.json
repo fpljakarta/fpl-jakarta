@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T10:49:11.608Z",
+  "updated": "2026-09-15T15:22:49.576Z",
   "standings": {
     "main": [
       {
@@ -94,18 +94,18 @@
         "move": 16
       },
       {
-        "mgr": "Sherwin Lee",
-        "team": "soteriapsalms",
-        "gw": 70,
-        "total": 313,
-        "move": -11
-      },
-      {
         "mgr": "Gautam Vassanmal",
         "team": "GV9",
         "gw": 88,
         "total": 313,
         "move": 8
+      },
+      {
+        "mgr": "Sherwin Lee",
+        "team": "soteriapsalms",
+        "gw": 70,
+        "total": 313,
+        "move": -11
       },
       {
         "mgr": "Karan Khosla",
@@ -453,18 +453,18 @@
         "move": 9
       },
       {
-        "mgr": "Sherwin Lee",
-        "team": "soteriapsalms",
-        "gw": 70,
-        "total": 313,
-        "move": -3
-      },
-      {
         "mgr": "Gautam Vassanmal",
         "team": "GV9",
         "gw": 88,
         "total": 313,
         "move": 5
+      },
+      {
+        "mgr": "Sherwin Lee",
+        "team": "soteriapsalms",
+        "gw": 70,
+        "total": 313,
+        "move": -3
       },
       {
         "mgr": "Karan Khosla",
@@ -618,6 +618,12 @@
     null
   ],
   "motw": [
+    {
+      "gw": 4,
+      "pts": 105,
+      "winner": "Akshay Melwani",
+      "team": "Test"
+    },
     {
       "gw": 3,
       "pts": 71,
