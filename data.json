@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T19:24:56.875Z",
+  "updated": "2026-09-15T22:36:53.033Z",
   "standings": {
     "main": [
       {
@@ -94,18 +94,18 @@
         "move": 16
       },
       {
-        "mgr": "Sherwin Lee",
-        "team": "soteriapsalms",
-        "gw": 70,
-        "total": 313,
-        "move": -11
-      },
-      {
         "mgr": "Gautam Vassanmal",
         "team": "GV9",
         "gw": 88,
         "total": 313,
         "move": 8
+      },
+      {
+        "mgr": "Sherwin Lee",
+        "team": "soteriapsalms",
+        "gw": 70,
+        "total": 313,
+        "move": -11
       },
       {
         "mgr": "Karan Khosla",
@@ -290,18 +290,18 @@
         "move": 0
       },
       {
-        "mgr": "M Suudi",
-        "team": "Cakdes FPL",
-        "gw": 62,
-        "total": 277,
-        "move": -12
-      },
-      {
         "mgr": "Rachman Witarlan",
         "team": "FC Milanello",
         "gw": 69,
         "total": 277,
         "move": -3
+      },
+      {
+        "mgr": "M Suudi",
+        "team": "Cakdes FPL",
+        "gw": 62,
+        "total": 277,
+        "move": -12
       },
       {
         "mgr": "Prakash Mahtani",
@@ -453,18 +453,18 @@
         "move": 9
       },
       {
-        "mgr": "Sherwin Lee",
-        "team": "soteriapsalms",
-        "gw": 70,
-        "total": 313,
-        "move": -3
-      },
-      {
         "mgr": "Gautam Vassanmal",
         "team": "GV9",
         "gw": 88,
         "total": 313,
         "move": 5
+      },
+      {
+        "mgr": "Sherwin Lee",
+        "team": "soteriapsalms",
+        "gw": 70,
+        "total": 313,
+        "move": -3
       },
       {
         "mgr": "Karan Khosla",
