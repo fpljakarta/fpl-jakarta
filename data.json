@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16T19:16:41.030Z",
+  "updated": "2026-09-16T22:32:43.345Z",
   "standings": {
     "main": [
       {
@@ -17,15 +17,15 @@
         "move": 8
       },
       {
-        "mgr": "Draking Ngaditono",
-        "team": "Enerzy",
+        "mgr": "Akshay Melwani",
+        "team": "Test",
         "gw": 105,
         "total": 335,
         "move": 13
       },
       {
-        "mgr": "Akshay Melwani",
-        "team": "Test",
+        "mgr": "Draking Ngaditono",
+        "team": "Enerzy",
         "gw": 105,
         "total": 335,
         "move": 13
@@ -178,18 +178,18 @@
         "move": 3
       },
       {
-        "mgr": "Nitin Nathani",
-        "team": "Untouchables",
-        "gw": 76,
-        "total": 301,
-        "move": -4
-      },
-      {
         "mgr": "Neeraj Narwani",
         "team": "Gampang Bro",
         "gw": 70,
         "total": 301,
         "move": -12
+      },
+      {
+        "mgr": "Nitin Nathani",
+        "team": "Untouchables",
+        "gw": 76,
+        "total": 301,
+        "move": -4
       },
       {
         "mgr": "Hitesh Mahbubani",
@@ -621,8 +621,8 @@
     {
       "gw": 4,
       "pts": 105,
-      "winner": "Draking Ngaditono",
-      "team": "Enerzy"
+      "winner": "Akshay Melwani",
+      "team": "Test"
     },
     {
       "gw": 3,
