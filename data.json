@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T22:36:53.033Z",
+  "updated": "2026-09-16T00:56:55.382Z",
   "standings": {
     "main": [
       {
@@ -17,15 +17,15 @@
         "move": 8
       },
       {
-        "mgr": "Draking Ngaditono",
-        "team": "Enerzy",
+        "mgr": "Akshay Melwani",
+        "team": "Test",
         "gw": 105,
         "total": 335,
         "move": 13
       },
       {
-        "mgr": "Akshay Melwani",
-        "team": "Test",
+        "mgr": "Draking Ngaditono",
+        "team": "Enerzy",
         "gw": 105,
         "total": 335,
         "move": 13
@@ -94,18 +94,18 @@
         "move": 16
       },
       {
-        "mgr": "Gautam Vassanmal",
-        "team": "GV9",
-        "gw": 88,
-        "total": 313,
-        "move": 8
-      },
-      {
         "mgr": "Sherwin Lee",
         "team": "soteriapsalms",
         "gw": 70,
         "total": 313,
         "move": -11
+      },
+      {
+        "mgr": "Gautam Vassanmal",
+        "team": "GV9",
+        "gw": 88,
+        "total": 313,
+        "move": 8
       },
       {
         "mgr": "Karan Khosla",
@@ -290,18 +290,18 @@
         "move": 0
       },
       {
-        "mgr": "Rachman Witarlan",
-        "team": "FC Milanello",
-        "gw": 69,
-        "total": 277,
-        "move": -3
-      },
-      {
         "mgr": "M Suudi",
         "team": "Cakdes FPL",
         "gw": 62,
         "total": 277,
         "move": -12
+      },
+      {
+        "mgr": "Rachman Witarlan",
+        "team": "FC Milanello",
+        "gw": 69,
+        "total": 277,
+        "move": -3
       },
       {
         "mgr": "Prakash Mahtani",
@@ -621,8 +621,8 @@
     {
       "gw": 4,
       "pts": 105,
-      "winner": "Draking Ngaditono",
-      "team": "Enerzy"
+      "winner": "Akshay Melwani",
+      "team": "Test"
     },
     {
       "gw": 3,
