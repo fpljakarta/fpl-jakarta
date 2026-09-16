@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16T10:38:48.123Z",
+  "updated": "2026-09-16T15:15:42.708Z",
   "standings": {
     "main": [
       {
@@ -94,18 +94,18 @@
         "move": 16
       },
       {
-        "mgr": "Gautam Vassanmal",
-        "team": "GV9",
-        "gw": 88,
-        "total": 313,
-        "move": 8
-      },
-      {
         "mgr": "Sherwin Lee",
         "team": "soteriapsalms",
         "gw": 70,
         "total": 313,
         "move": -11
+      },
+      {
+        "mgr": "Gautam Vassanmal",
+        "team": "GV9",
+        "gw": 88,
+        "total": 313,
+        "move": 8
       },
       {
         "mgr": "Karan Khosla",
@@ -178,18 +178,18 @@
         "move": 3
       },
       {
-        "mgr": "Neeraj Narwani",
-        "team": "Gampang Bro",
-        "gw": 70,
-        "total": 301,
-        "move": -12
-      },
-      {
         "mgr": "Nitin Nathani",
         "team": "Untouchables",
         "gw": 76,
         "total": 301,
         "move": -4
+      },
+      {
+        "mgr": "Neeraj Narwani",
+        "team": "Gampang Bro",
+        "gw": 70,
+        "total": 301,
+        "move": -12
       },
       {
         "mgr": "Hitesh Mahbubani",
@@ -453,18 +453,18 @@
         "move": 9
       },
       {
-        "mgr": "Sherwin Lee",
-        "team": "soteriapsalms",
-        "gw": 70,
-        "total": 313,
-        "move": -3
-      },
-      {
         "mgr": "Gautam Vassanmal",
         "team": "GV9",
         "gw": 88,
         "total": 313,
         "move": 5
+      },
+      {
+        "mgr": "Sherwin Lee",
+        "team": "soteriapsalms",
+        "gw": 70,
+        "total": 313,
+        "move": -3
       },
       {
         "mgr": "Karan Khosla",
