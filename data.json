@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T23:18:27.467Z",
+  "updated": "2026-09-18T02:38:16.620Z",
   "standings": {
     "main": [
       {
@@ -178,18 +178,18 @@
         "move": 3
       },
       {
-        "mgr": "Neeraj Narwani",
-        "team": "Gampang Bro",
-        "gw": 70,
-        "total": 301,
-        "move": -12
-      },
-      {
         "mgr": "Nitin Nathani",
         "team": "Untouchables",
         "gw": 76,
         "total": 301,
         "move": -4
+      },
+      {
+        "mgr": "Neeraj Narwani",
+        "team": "Gampang Bro",
+        "gw": 70,
+        "total": 301,
+        "move": -12
       },
       {
         "mgr": "Hitesh Mahbubani",
