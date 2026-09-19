@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T19:52:29.183Z",
+  "updated": "2026-09-19T22:00:49.819Z",
   "standings": {
     "main": [
       {
@@ -12,8 +12,8 @@
       {
         "mgr": "Sanchit Suri",
         "team": "WinterisHere!",
-        "gw": 39,
-        "total": 368,
+        "gw": 38,
+        "total": 367,
         "move": 4
       },
       {
@@ -59,18 +59,18 @@
         "move": 2
       },
       {
-        "mgr": "Rishabh Mehta",
-        "team": "PepMasterclass",
-        "gw": 35,
-        "total": 345,
-        "move": 10
-      },
-      {
         "mgr": "Paras Lalwani",
         "team": "FC Pain Chaud",
         "gw": 20,
         "total": 345,
         "move": -2
+      },
+      {
+        "mgr": "Rishabh Mehta",
+        "team": "PepMasterclass",
+        "gw": 35,
+        "total": 345,
+        "move": 10
       },
       {
         "mgr": "Sanjay Morani",
@@ -89,15 +89,15 @@
       {
         "mgr": "Prashant Chainani",
         "team": "HighOnHouse",
-        "gw": 24,
-        "total": 339,
+        "gw": 25,
+        "total": 340,
         "move": -1
       },
       {
         "mgr": "Bharat Lakhwani",
         "team": "Bpl",
-        "gw": 13,
-        "total": 337,
+        "gw": 12,
+        "total": 336,
         "move": -6
       },
       {
@@ -115,18 +115,18 @@
         "move": 2
       },
       {
-        "mgr": "Gautam Vassanmal",
-        "team": "GV9",
-        "gw": 17,
-        "total": 330,
-        "move": -3
-      },
-      {
         "mgr": "Kunal Manwani",
         "team": "Kloppite_6",
         "gw": 23,
         "total": 330,
-        "move": 2
+        "move": 3
+      },
+      {
+        "mgr": "Gautam Vassanmal",
+        "team": "GV9",
+        "gw": 16,
+        "total": 329,
+        "move": -4
       },
       {
         "mgr": "Chiraag Keswani",
@@ -166,9 +166,9 @@
       {
         "mgr": "Snehanshu Gupta",
         "team": "Snaydoooo",
-        "gw": 31,
-        "total": 321,
-        "move": 11
+        "gw": 32,
+        "total": 322,
+        "move": 13
       },
       {
         "mgr": "Charles Lesmana",
@@ -192,18 +192,18 @@
         "move": -2
       },
       {
-        "mgr": "Hitesh Mahbubani",
-        "team": "Goalbusters",
-        "gw": 15,
-        "total": 315,
-        "move": 0
-      },
-      {
         "mgr": "Nitin Nathani",
         "team": "Untouchables",
         "gw": 13,
         "total": 314,
-        "move": -3
+        "move": -2
+      },
+      {
+        "mgr": "Hitesh Mahbubani",
+        "team": "Goalbusters",
+        "gw": 14,
+        "total": 314,
+        "move": 0
       },
       {
         "mgr": "Vishal Lakhiani",
@@ -313,15 +313,15 @@
       {
         "mgr": "Hitesh Singh",
         "team": "Not Too Xabi",
-        "gw": 27,
-        "total": 293,
+        "gw": 28,
+        "total": 294,
         "move": 4
       },
       {
         "mgr": "Mohit Mirpuri",
         "team": "LION CITY BALLERS",
-        "gw": 21,
-        "total": 290,
+        "gw": 22,
+        "total": 291,
         "move": 2
       },
       {
@@ -339,24 +339,24 @@
         "move": -4
       },
       {
+        "mgr": "Gajendra Khand",
+        "team": "Gajendra united",
+        "gw": 28,
+        "total": 284,
+        "move": 2
+      },
+      {
         "mgr": "Jonathan Lobo",
         "team": "Jonathan's Team",
         "gw": 13,
         "total": 284,
-        "move": -2
-      },
-      {
-        "mgr": "Gajendra Khand",
-        "team": "Gajendra united",
-        "gw": 27,
-        "total": 283,
-        "move": 1
+        "move": -3
       },
       {
         "mgr": "Ashwin Mulani",
         "team": "Balon D'orgu",
-        "gw": 33,
-        "total": 279,
+        "gw": 32,
+        "total": 278,
         "move": 4
       },
       {
@@ -427,8 +427,8 @@
       {
         "mgr": "Sanchit Suri",
         "team": "WinterisHere!",
-        "gw": 39,
-        "total": 368,
+        "gw": 38,
+        "total": 367,
         "move": 0
       },
       {
@@ -455,8 +455,8 @@
       {
         "mgr": "Prashant Chainani",
         "team": "HighOnHouse",
-        "gw": 24,
-        "total": 339,
+        "gw": 25,
+        "total": 340,
         "move": -2
       },
       {
@@ -467,18 +467,18 @@
         "move": 2
       },
       {
-        "mgr": "Gautam Vassanmal",
-        "team": "GV9",
-        "gw": 17,
-        "total": 330,
-        "move": -2
-      },
-      {
         "mgr": "Kunal Manwani",
         "team": "Kloppite_6",
         "gw": 23,
         "total": 330,
-        "move": 1
+        "move": 2
+      },
+      {
+        "mgr": "Gautam Vassanmal",
+        "team": "GV9",
+        "gw": 16,
+        "total": 329,
+        "move": -3
       },
       {
         "mgr": "Deepu Narwani",
@@ -553,8 +553,8 @@
       {
         "mgr": "Mohit Mirpuri",
         "team": "LION CITY BALLERS",
-        "gw": 21,
-        "total": 290,
+        "gw": 22,
+        "total": 291,
         "move": 2
       },
       {
