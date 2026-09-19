@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T05:23:07.742Z",
+  "updated": "2026-09-19T10:05:55.607Z",
   "standings": {
     "main": [
       {
@@ -220,18 +220,18 @@
         "move": 6
       },
       {
-        "mgr": "Ajay Yeleswaram",
-        "team": "Relegated",
-        "gw": 5,
-        "total": 296,
-        "move": 1
-      },
-      {
         "mgr": "Abhishek Keswani",
         "team": "Usual Suspects",
         "gw": 4,
         "total": 296,
         "move": -2
+      },
+      {
+        "mgr": "Ajay Yeleswaram",
+        "team": "Relegated",
+        "gw": 5,
+        "total": 296,
+        "move": 1
       },
       {
         "mgr": "Michael Kenneth",
