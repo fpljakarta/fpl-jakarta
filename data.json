@@ -1,12 +1,12 @@
 {
-  "updated": "2026-09-20T05:36:02.832Z",
+  "updated": "2026-09-20T10:24:27.120Z",
   "standings": {
     "main": [
       {
         "mgr": "S M",
         "team": "I Know Nothing",
-        "gw": 30,
-        "total": 372,
+        "gw": 29,
+        "total": 371,
         "move": 0
       },
       {
@@ -59,18 +59,18 @@
         "move": 2
       },
       {
-        "mgr": "Paras Lalwani",
-        "team": "FC Pain Chaud",
-        "gw": 20,
-        "total": 345,
-        "move": -2
-      },
-      {
         "mgr": "Rishabh Mehta",
         "team": "PepMasterclass",
         "gw": 35,
         "total": 345,
         "move": 10
+      },
+      {
+        "mgr": "Paras Lalwani",
+        "team": "FC Pain Chaud",
+        "gw": 20,
+        "total": 345,
+        "move": -2
       },
       {
         "mgr": "Sanjay Morani",
@@ -150,11 +150,11 @@
         "move": 8
       },
       {
-        "mgr": "Snehanshu Gupta",
-        "team": "Snaydoooo",
-        "gw": 32,
+        "mgr": "Karan Khosla",
+        "team": "Jinja's Safari",
+        "gw": 13,
         "total": 322,
-        "move": 13
+        "move": -6
       },
       {
         "mgr": "Abhishek Keswani",
@@ -164,11 +164,11 @@
         "move": 8
       },
       {
-        "mgr": "Karan Khosla",
-        "team": "Jinja's Safari",
-        "gw": 13,
+        "mgr": "Snehanshu Gupta",
+        "team": "Snaydoooo",
+        "gw": 32,
         "total": 322,
-        "move": -6
+        "move": 13
       },
       {
         "mgr": "Charles Lesmana",
@@ -192,18 +192,18 @@
         "move": -2
       },
       {
-        "mgr": "Hitesh Mahbubani",
-        "team": "Goalbusters",
-        "gw": 14,
-        "total": 314,
-        "move": 0
-      },
-      {
         "mgr": "Nitin Nathani",
         "team": "Untouchables",
         "gw": 13,
         "total": 314,
         "move": -2
+      },
+      {
+        "mgr": "Hitesh Mahbubani",
+        "team": "Goalbusters",
+        "gw": 14,
+        "total": 314,
+        "move": 0
       },
       {
         "mgr": "Vishal Lakhiani",
@@ -227,18 +227,18 @@
         "move": 0
       },
       {
-        "mgr": "Win Win",
-        "team": "Kalimasada FC",
-        "gw": 22,
-        "total": 312,
-        "move": 1
-      },
-      {
         "mgr": "Indar Dhaliwal",
         "team": "Daylight Brobbery",
         "gw": 16,
         "total": 312,
         "move": -2
+      },
+      {
+        "mgr": "Win Win",
+        "team": "Kalimasada FC",
+        "gw": 22,
+        "total": 312,
+        "move": 1
       },
       {
         "mgr": "Joanda Febrian",
@@ -420,8 +420,8 @@
       {
         "mgr": "S M",
         "team": "I Know Nothing",
-        "gw": 30,
-        "total": 372,
+        "gw": 29,
+        "total": 371,
         "move": 0
       },
       {
