@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T22:00:49.819Z",
+  "updated": "2026-09-20T00:32:29.213Z",
   "standings": {
     "main": [
       {
@@ -59,18 +59,18 @@
         "move": 2
       },
       {
-        "mgr": "Paras Lalwani",
-        "team": "FC Pain Chaud",
-        "gw": 20,
-        "total": 345,
-        "move": -2
-      },
-      {
         "mgr": "Rishabh Mehta",
         "team": "PepMasterclass",
         "gw": 35,
         "total": 345,
         "move": 10
+      },
+      {
+        "mgr": "Paras Lalwani",
+        "team": "FC Pain Chaud",
+        "gw": 20,
+        "total": 345,
+        "move": -2
       },
       {
         "mgr": "Sanjay Morani",
@@ -150,13 +150,6 @@
         "move": 8
       },
       {
-        "mgr": "Karan Khosla",
-        "team": "Jinja's Safari",
-        "gw": 13,
-        "total": 322,
-        "move": -6
-      },
-      {
         "mgr": "Abhishek Keswani",
         "team": "Usual Suspects",
         "gw": 30,
@@ -169,6 +162,13 @@
         "gw": 32,
         "total": 322,
         "move": 13
+      },
+      {
+        "mgr": "Karan Khosla",
+        "team": "Jinja's Safari",
+        "gw": 13,
+        "total": 322,
+        "move": -6
       },
       {
         "mgr": "Charles Lesmana",
