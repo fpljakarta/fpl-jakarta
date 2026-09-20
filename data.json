@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T20:07:31.322Z",
+  "updated": "2026-09-20T22:51:38.473Z",
   "standings": {
     "main": [
       {
@@ -276,18 +276,18 @@
         "move": 0
       },
       {
-        "mgr": "M Suudi",
-        "team": "Cakdes FPL",
-        "gw": 52,
-        "total": 329,
-        "move": 2
-      },
-      {
         "mgr": "Jevesh Vatvani",
         "team": "YNWA",
         "gw": 28,
         "total": 329,
         "move": -15
+      },
+      {
+        "mgr": "M Suudi",
+        "team": "Cakdes FPL",
+        "gw": 52,
+        "total": 329,
+        "move": 2
       },
       {
         "mgr": "Sagar Paleja",
