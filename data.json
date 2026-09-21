@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T00:44:33.127Z",
+  "updated": "2026-09-21T05:45:58.943Z",
   "standings": {
     "main": [
       {
@@ -101,18 +101,18 @@
         "move": 0
       },
       {
-        "mgr": "Kunal Manwani",
-        "team": "Kloppite_6",
-        "gw": 53,
-        "total": 360,
-        "move": 5
-      },
-      {
         "mgr": "Rohan Kalwani",
         "team": "-4 Builds Carrickter",
         "gw": 41,
         "total": 360,
         "move": -6
+      },
+      {
+        "mgr": "Kunal Manwani",
+        "team": "Kloppite_6",
+        "gw": 53,
+        "total": 360,
+        "move": 5
       },
       {
         "mgr": "Deepu Narwani",
@@ -185,18 +185,18 @@
         "move": -10
       },
       {
-        "mgr": "Indar Dhaliwal",
-        "team": "Daylight Brobbery",
-        "gw": 46,
-        "total": 342,
-        "move": 4
-      },
-      {
         "mgr": "Charles Lesmana",
         "team": "Les Intouchables",
         "gw": 36,
         "total": 342,
         "move": -6
+      },
+      {
+        "mgr": "Indar Dhaliwal",
+        "team": "Daylight Brobbery",
+        "gw": 46,
+        "total": 342,
+        "move": 4
       },
       {
         "mgr": "Nitin Nathani",
@@ -276,18 +276,18 @@
         "move": 0
       },
       {
-        "mgr": "M Suudi",
-        "team": "Cakdes FPL",
-        "gw": 52,
-        "total": 329,
-        "move": 2
-      },
-      {
         "mgr": "Jevesh Vatvani",
         "team": "YNWA",
         "gw": 28,
         "total": 329,
         "move": -15
+      },
+      {
+        "mgr": "M Suudi",
+        "team": "Cakdes FPL",
+        "gw": 52,
+        "total": 329,
+        "move": 2
       },
       {
         "mgr": "Sagar Paleja",
