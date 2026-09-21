@@ -1,14 +1,7 @@
 {
-  "updated": "2026-09-21T11:40:47.654Z",
+  "updated": "2026-09-21T17:37:23.979Z",
   "standings": {
     "main": [
-      {
-        "mgr": "Sanchit Suri",
-        "team": "WinterisHere!",
-        "gw": 56,
-        "total": 385,
-        "move": 5
-      },
       {
         "mgr": "Rahul Nanwani",
         "team": "Rahul Nanwani FC",
@@ -17,15 +10,22 @@
         "move": 1
       },
       {
-        "mgr": "Draking Ngaditono",
-        "team": "Enerzy",
+        "mgr": "Sanchit Suri",
+        "team": "WinterisHere!",
+        "gw": 56,
+        "total": 385,
+        "move": 5
+      },
+      {
+        "mgr": "Akshay Melwani",
+        "team": "Test",
         "gw": 43,
         "total": 378,
         "move": 0
       },
       {
-        "mgr": "Akshay Melwani",
-        "team": "Test",
+        "mgr": "Draking Ngaditono",
+        "team": "Enerzy",
         "gw": 43,
         "total": 378,
         "move": 0
@@ -73,18 +73,18 @@
         "move": 9
       },
       {
-        "mgr": "Prashant Chainani",
-        "team": "HighOnHouse",
-        "gw": 53,
-        "total": 368,
-        "move": 1
-      },
-      {
         "mgr": "Bharat Lakhwani",
         "team": "Bpl",
         "gw": 44,
         "total": 368,
         "move": -3
+      },
+      {
+        "mgr": "Prashant Chainani",
+        "team": "HighOnHouse",
+        "gw": 53,
+        "total": 368,
+        "move": 1
       },
       {
         "mgr": "Siddarth Kaul",
@@ -607,7 +607,11 @@
       "team": "I Know Nothing",
       "pts": 198
     },
-    null,
+    {
+      "winner": "Edward Angkasa",
+      "team": "Juvenalis",
+      "pts": 207
+    },
     null,
     null,
     null,
@@ -619,10 +623,16 @@
   ],
   "motw": [
     {
+      "gw": 5,
+      "pts": 67,
+      "winner": "Edward Angkasa",
+      "team": "Juvenalis"
+    },
+    {
       "gw": 4,
       "pts": 105,
-      "winner": "Draking Ngaditono",
-      "team": "Enerzy"
+      "winner": "Akshay Melwani",
+      "team": "Test"
     },
     {
       "gw": 3,
