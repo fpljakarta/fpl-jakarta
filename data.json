@@ -1,14 +1,7 @@
 {
-  "updated": "2026-09-21T17:37:23.979Z",
+  "updated": "2026-09-21T21:32:27.704Z",
   "standings": {
     "main": [
-      {
-        "mgr": "Rahul Nanwani",
-        "team": "Rahul Nanwani FC",
-        "gw": 48,
-        "total": 385,
-        "move": 1
-      },
       {
         "mgr": "Sanchit Suri",
         "team": "WinterisHere!",
@@ -17,15 +10,22 @@
         "move": 5
       },
       {
-        "mgr": "Akshay Melwani",
-        "team": "Test",
+        "mgr": "Rahul Nanwani",
+        "team": "Rahul Nanwani FC",
+        "gw": 48,
+        "total": 385,
+        "move": 1
+      },
+      {
+        "mgr": "Draking Ngaditono",
+        "team": "Enerzy",
         "gw": 43,
         "total": 378,
         "move": 0
       },
       {
-        "mgr": "Draking Ngaditono",
-        "team": "Enerzy",
+        "mgr": "Akshay Melwani",
+        "team": "Test",
         "gw": 43,
         "total": 378,
         "move": 0
@@ -631,8 +631,8 @@
     {
       "gw": 4,
       "pts": 105,
-      "winner": "Akshay Melwani",
-      "team": "Test"
+      "winner": "Draking Ngaditono",
+      "team": "Enerzy"
     },
     {
       "gw": 3,
