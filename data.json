@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T05:43:10.335Z",
+  "updated": "2026-09-22T10:44:50.510Z",
   "standings": {
     "main": [
       {
@@ -108,18 +108,18 @@
         "move": -1
       },
       {
-        "mgr": "Kunal Manwani",
-        "team": "Kloppite_6",
-        "gw": 53,
-        "total": 360,
-        "move": 4
-      },
-      {
         "mgr": "Rohan Kalwani",
         "team": "-4 Builds Carrickter",
         "gw": 41,
         "total": 360,
         "move": -7
+      },
+      {
+        "mgr": "Kunal Manwani",
+        "team": "Kloppite_6",
+        "gw": 53,
+        "total": 360,
+        "move": 4
       },
       {
         "mgr": "Deepu Narwani",
