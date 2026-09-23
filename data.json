@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T13:12:55.163Z",
+  "updated": "2026-09-23T18:08:23.437Z",
   "standings": {
     "main": [
       {
@@ -17,15 +17,15 @@
         "move": 5
       },
       {
-        "mgr": "Draking Ngaditono",
-        "team": "Enerzy",
+        "mgr": "Akshay Melwani",
+        "team": "Test",
         "gw": 43,
         "total": 378,
         "move": 0
       },
       {
-        "mgr": "Akshay Melwani",
-        "team": "Test",
+        "mgr": "Draking Ngaditono",
+        "team": "Enerzy",
         "gw": 43,
         "total": 378,
         "move": 0
@@ -73,18 +73,18 @@
         "move": 9
       },
       {
-        "mgr": "Prashant Chainani",
-        "team": "HighOnHouse",
-        "gw": 53,
-        "total": 368,
-        "move": 1
-      },
-      {
         "mgr": "Bharat Lakhwani",
         "team": "Bpl",
         "gw": 44,
         "total": 368,
         "move": -3
+      },
+      {
+        "mgr": "Prashant Chainani",
+        "team": "HighOnHouse",
+        "gw": 53,
+        "total": 368,
+        "move": 1
       },
       {
         "mgr": "Siddarth Kaul",
@@ -199,18 +199,18 @@
         "move": -12
       },
       {
-        "mgr": "Indar Dhaliwal",
-        "team": "Daylight Brobbery",
-        "gw": 46,
-        "total": 342,
-        "move": 2
-      },
-      {
         "mgr": "Charles Lesmana",
         "team": "Les Intouchables",
         "gw": 36,
         "total": 342,
         "move": -8
+      },
+      {
+        "mgr": "Indar Dhaliwal",
+        "team": "Daylight Brobbery",
+        "gw": 46,
+        "total": 342,
+        "move": 2
       },
       {
         "mgr": "Edward Angkasa",
@@ -631,8 +631,8 @@
     {
       "gw": 4,
       "pts": 105,
-      "winner": "Draking Ngaditono",
-      "team": "Enerzy"
+      "winner": "Akshay Melwani",
+      "team": "Test"
     },
     {
       "gw": 3,
