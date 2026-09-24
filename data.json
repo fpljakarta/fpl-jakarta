@@ -1,20 +1,20 @@
 {
-  "updated": "2026-09-24T05:44:08.769Z",
+  "updated": "2026-09-24T10:54:39.681Z",
   "standings": {
     "main": [
-      {
-        "mgr": "Sanchit Suri",
-        "team": "WinterisHere!",
-        "gw": 56,
-        "total": 385,
-        "move": 5
-      },
       {
         "mgr": "Rahul Nanwani",
         "team": "Rahul Nanwani FC",
         "gw": 48,
         "total": 385,
         "move": 1
+      },
+      {
+        "mgr": "Sanchit Suri",
+        "team": "WinterisHere!",
+        "gw": 56,
+        "total": 385,
+        "move": 5
       },
       {
         "mgr": "Akshay Melwani",
