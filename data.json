@@ -1,14 +1,7 @@
 {
-  "updated": "2026-09-24T00:13:20.094Z",
+  "updated": "2026-09-24T05:44:08.769Z",
   "standings": {
     "main": [
-      {
-        "mgr": "Rahul Nanwani",
-        "team": "Rahul Nanwani FC",
-        "gw": 48,
-        "total": 385,
-        "move": 1
-      },
       {
         "mgr": "Sanchit Suri",
         "team": "WinterisHere!",
@@ -17,15 +10,22 @@
         "move": 5
       },
       {
-        "mgr": "Draking Ngaditono",
-        "team": "Enerzy",
+        "mgr": "Rahul Nanwani",
+        "team": "Rahul Nanwani FC",
+        "gw": 48,
+        "total": 385,
+        "move": 1
+      },
+      {
+        "mgr": "Akshay Melwani",
+        "team": "Test",
         "gw": 43,
         "total": 378,
         "move": 0
       },
       {
-        "mgr": "Akshay Melwani",
-        "team": "Test",
+        "mgr": "Draking Ngaditono",
+        "team": "Enerzy",
         "gw": 43,
         "total": 378,
         "move": 0
@@ -108,18 +108,18 @@
         "move": -1
       },
       {
-        "mgr": "Kunal Manwani",
-        "team": "Kloppite_6",
-        "gw": 53,
-        "total": 360,
-        "move": 4
-      },
-      {
         "mgr": "Rohan Kalwani",
         "team": "-4 Builds Carrickter",
         "gw": 41,
         "total": 360,
         "move": -7
+      },
+      {
+        "mgr": "Kunal Manwani",
+        "team": "Kloppite_6",
+        "gw": 53,
+        "total": 360,
+        "move": 4
       },
       {
         "mgr": "Deepu Narwani",
@@ -631,8 +631,8 @@
     {
       "gw": 4,
       "pts": 105,
-      "winner": "Draking Ngaditono",
-      "team": "Enerzy"
+      "winner": "Akshay Melwani",
+      "team": "Test"
     },
     {
       "gw": 3,
