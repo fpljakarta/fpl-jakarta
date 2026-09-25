@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T20:57:54.132Z",
+  "updated": "2026-09-25T23:52:03.837Z",
   "standings": {
     "main": [
       {
@@ -108,18 +108,18 @@
         "move": -1
       },
       {
-        "mgr": "Rohan Kalwani",
-        "team": "-4 Builds Carrickter",
-        "gw": 41,
-        "total": 360,
-        "move": -7
-      },
-      {
         "mgr": "Kunal Manwani",
         "team": "Kloppite_6",
         "gw": 53,
         "total": 360,
         "move": 4
+      },
+      {
+        "mgr": "Rohan Kalwani",
+        "team": "-4 Builds Carrickter",
+        "gw": 41,
+        "total": 360,
+        "move": -7
       },
       {
         "mgr": "Deepu Narwani",
@@ -199,18 +199,18 @@
         "move": -12
       },
       {
-        "mgr": "Indar Dhaliwal",
-        "team": "Daylight Brobbery",
-        "gw": 46,
-        "total": 342,
-        "move": 2
-      },
-      {
         "mgr": "Charles Lesmana",
         "team": "Les Intouchables",
         "gw": 36,
         "total": 342,
         "move": -8
+      },
+      {
+        "mgr": "Indar Dhaliwal",
+        "team": "Daylight Brobbery",
+        "gw": 46,
+        "total": 342,
+        "move": 2
       },
       {
         "mgr": "Edward Angkasa",
