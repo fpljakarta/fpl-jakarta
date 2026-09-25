@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T17:42:16.672Z",
+  "updated": "2026-09-25T20:57:54.132Z",
   "standings": {
     "main": [
       {
@@ -73,18 +73,18 @@
         "move": 9
       },
       {
-        "mgr": "Bharat Lakhwani",
-        "team": "Bpl",
-        "gw": 44,
-        "total": 368,
-        "move": -3
-      },
-      {
         "mgr": "Prashant Chainani",
         "team": "HighOnHouse",
         "gw": 53,
         "total": 368,
         "move": 1
+      },
+      {
+        "mgr": "Bharat Lakhwani",
+        "team": "Bpl",
+        "gw": 44,
+        "total": 368,
+        "move": -3
       },
       {
         "mgr": "Siddarth Kaul",
@@ -199,18 +199,18 @@
         "move": -12
       },
       {
-        "mgr": "Charles Lesmana",
-        "team": "Les Intouchables",
-        "gw": 36,
-        "total": 342,
-        "move": -8
-      },
-      {
         "mgr": "Indar Dhaliwal",
         "team": "Daylight Brobbery",
         "gw": 46,
         "total": 342,
         "move": 2
+      },
+      {
+        "mgr": "Charles Lesmana",
+        "team": "Les Intouchables",
+        "gw": 36,
+        "total": 342,
+        "move": -8
       },
       {
         "mgr": "Edward Angkasa",
