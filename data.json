@@ -1,14 +1,7 @@
 {
-  "updated": "2026-09-26T02:58:06.083Z",
+  "updated": "2026-09-26T08:22:40.488Z",
   "standings": {
     "main": [
-      {
-        "mgr": "Sanchit Suri",
-        "team": "WinterisHere!",
-        "gw": 56,
-        "total": 385,
-        "move": 5
-      },
       {
         "mgr": "Rahul Nanwani",
         "team": "Rahul Nanwani FC",
@@ -17,15 +10,22 @@
         "move": 1
       },
       {
-        "mgr": "Draking Ngaditono",
-        "team": "Enerzy",
+        "mgr": "Sanchit Suri",
+        "team": "WinterisHere!",
+        "gw": 56,
+        "total": 385,
+        "move": 5
+      },
+      {
+        "mgr": "Akshay Melwani",
+        "team": "Test",
         "gw": 43,
         "total": 378,
         "move": 0
       },
       {
-        "mgr": "Akshay Melwani",
-        "team": "Test",
+        "mgr": "Draking Ngaditono",
+        "team": "Enerzy",
         "gw": 43,
         "total": 378,
         "move": 0
@@ -73,18 +73,18 @@
         "move": 9
       },
       {
-        "mgr": "Prashant Chainani",
-        "team": "HighOnHouse",
-        "gw": 53,
-        "total": 368,
-        "move": 1
-      },
-      {
         "mgr": "Bharat Lakhwani",
         "team": "Bpl",
         "gw": 44,
         "total": 368,
         "move": -3
+      },
+      {
+        "mgr": "Prashant Chainani",
+        "team": "HighOnHouse",
+        "gw": 53,
+        "total": 368,
+        "move": 1
       },
       {
         "mgr": "Siddarth Kaul",
@@ -199,18 +199,18 @@
         "move": -12
       },
       {
-        "mgr": "Charles Lesmana",
-        "team": "Les Intouchables",
-        "gw": 36,
-        "total": 342,
-        "move": -8
-      },
-      {
         "mgr": "Indar Dhaliwal",
         "team": "Daylight Brobbery",
         "gw": 46,
         "total": 342,
         "move": 2
+      },
+      {
+        "mgr": "Charles Lesmana",
+        "team": "Les Intouchables",
+        "gw": 36,
+        "total": 342,
+        "move": -8
       },
       {
         "mgr": "Edward Angkasa",
@@ -631,8 +631,8 @@
     {
       "gw": 4,
       "pts": 105,
-      "winner": "Draking Ngaditono",
-      "team": "Enerzy"
+      "winner": "Akshay Melwani",
+      "team": "Test"
     },
     {
       "gw": 3,
