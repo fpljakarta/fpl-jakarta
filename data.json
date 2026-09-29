@@ -1,20 +1,20 @@
 {
-  "updated": "2026-09-28T20:59:16.871Z",
+  "updated": "2026-09-29T00:53:05.166Z",
   "standings": {
     "main": [
-      {
-        "mgr": "Rahul Nanwani",
-        "team": "Rahul Nanwani FC",
-        "gw": 48,
-        "total": 385,
-        "move": 1
-      },
       {
         "mgr": "Sanchit Suri",
         "team": "WinterisHere!",
         "gw": 56,
         "total": 385,
         "move": 5
+      },
+      {
+        "mgr": "Rahul Nanwani",
+        "team": "Rahul Nanwani FC",
+        "gw": 48,
+        "total": 385,
+        "move": 1
       },
       {
         "mgr": "Draking Ngaditono",
@@ -199,18 +199,18 @@
         "move": -12
       },
       {
-        "mgr": "Charles Lesmana",
-        "team": "Les Intouchables",
-        "gw": 36,
-        "total": 342,
-        "move": -8
-      },
-      {
         "mgr": "Indar Dhaliwal",
         "team": "Daylight Brobbery",
         "gw": 46,
         "total": 342,
         "move": 2
+      },
+      {
+        "mgr": "Charles Lesmana",
+        "team": "Les Intouchables",
+        "gw": 36,
+        "total": 342,
+        "move": -8
       },
       {
         "mgr": "Edward Angkasa",
