@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T21:42:10.904Z",
+  "updated": "2026-10-09T01:37:10.667Z",
   "standings": {
     "main": [
       {
@@ -199,18 +199,18 @@
         "move": -12
       },
       {
-        "mgr": "Charles Lesmana",
-        "team": "Les Intouchables",
-        "gw": 36,
-        "total": 342,
-        "move": -8
-      },
-      {
         "mgr": "Indar Dhaliwal",
         "team": "Daylight Brobbery",
         "gw": 46,
         "total": 342,
         "move": 2
+      },
+      {
+        "mgr": "Charles Lesmana",
+        "team": "Les Intouchables",
+        "gw": 36,
+        "total": 342,
+        "move": -8
       },
       {
         "mgr": "Edward Angkasa",
