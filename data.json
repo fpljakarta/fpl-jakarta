@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T22:08:09.375Z",
+  "updated": "2026-10-11T01:27:40.376Z",
   "standings": {
     "main": [
       {
@@ -129,18 +129,18 @@
         "move": 4
       },
       {
-        "mgr": "Ajay Yeleswaram",
-        "team": "Relegated",
-        "gw": 64,
-        "total": 413,
-        "move": 4
-      },
-      {
         "mgr": "Suraj Topandasani",
         "team": "Londonal FC",
         "gw": 65,
         "total": 413,
         "move": 6
+      },
+      {
+        "mgr": "Ajay Yeleswaram",
+        "team": "Relegated",
+        "gw": 64,
+        "total": 413,
+        "move": 4
       },
       {
         "mgr": "Kunal Manwani",
@@ -276,18 +276,18 @@
         "move": 7
       },
       {
+        "mgr": "Nitin Nathani",
+        "team": "Untouchables",
+        "gw": 45,
+        "total": 385,
+        "move": -8
+      },
+      {
         "mgr": "Edward Angkasa",
         "team": "Juvenalis",
         "gw": 44,
         "total": 384,
-        "move": -9
-      },
-      {
-        "mgr": "Nitin Nathani",
-        "team": "Untouchables",
-        "gw": 43,
-        "total": 383,
-        "move": -9
+        "move": -10
       },
       {
         "mgr": "Prakash Mahtani",
@@ -395,25 +395,25 @@
         "move": 0
       },
       {
+        "mgr": "Sanjev Rama",
+        "team": "Jippy's",
+        "gw": 31,
+        "total": 315,
+        "move": 0
+      },
+      {
         "mgr": "Gaurav Yadav",
         "team": "Quantom of Tzolis",
         "gw": 42,
         "total": 315,
-        "move": 2
+        "move": 1
       },
       {
         "mgr": "Jasvin Seera",
         "team": "Seera Squad",
         "gw": 39,
         "total": 313,
-        "move": 0
-      },
-      {
-        "mgr": "Sanjev Rama",
-        "team": "Jippy's",
-        "gw": 29,
-        "total": 313,
-        "move": -2
+        "move": -1
       }
     ],
     "hs": [
