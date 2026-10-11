@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T19:50:06.101Z",
+  "updated": "2026-10-11T23:21:14.220Z",
   "standings": {
     "main": [
       {
@@ -101,18 +101,18 @@
         "move": 2
       },
       {
-        "mgr": "Rishabh Mehta",
-        "team": "PepMasterclass",
-        "gw": 61,
-        "total": 429,
-        "move": -5
-      },
-      {
         "mgr": "S M",
         "team": "I Know Nothing",
         "gw": 54,
         "total": 429,
         "move": -9
+      },
+      {
+        "mgr": "Rishabh Mehta",
+        "team": "PepMasterclass",
+        "gw": 61,
+        "total": 429,
+        "move": -5
       },
       {
         "mgr": "Sherwin Lee",
@@ -460,18 +460,18 @@
         "move": 0
       },
       {
-        "mgr": "Vishal Lakhiani",
-        "team": "Vish Fish",
-        "gw": 89,
-        "total": 422,
-        "move": 11
-      },
-      {
         "mgr": "Sagar Paleja",
         "team": "Jai Shree Krishna",
         "gw": 73,
         "total": 422,
         "move": 4
+      },
+      {
+        "mgr": "Vishal Lakhiani",
+        "team": "Vish Fish",
+        "gw": 89,
+        "total": 422,
+        "move": 11
       },
       {
         "mgr": "Deepu Narwani",
