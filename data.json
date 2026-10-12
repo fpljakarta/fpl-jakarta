@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T23:21:14.220Z",
+  "updated": "2026-10-12T03:43:49.885Z",
   "standings": {
     "main": [
       {
@@ -101,18 +101,18 @@
         "move": 2
       },
       {
-        "mgr": "S M",
-        "team": "I Know Nothing",
-        "gw": 54,
-        "total": 429,
-        "move": -9
-      },
-      {
         "mgr": "Rishabh Mehta",
         "team": "PepMasterclass",
         "gw": 61,
         "total": 429,
         "move": -5
+      },
+      {
+        "mgr": "S M",
+        "team": "I Know Nothing",
+        "gw": 54,
+        "total": 429,
+        "move": -9
       },
       {
         "mgr": "Sherwin Lee",
@@ -262,18 +262,18 @@
         "move": 3
       },
       {
-        "mgr": "Charles Lesmana",
-        "team": "Les Intouchables",
-        "gw": 57,
-        "total": 399,
-        "move": -9
-      },
-      {
         "mgr": "Nitin Nathani",
         "team": "Untouchables",
         "gw": 59,
         "total": 399,
         "move": -6
+      },
+      {
+        "mgr": "Charles Lesmana",
+        "team": "Les Intouchables",
+        "gw": 57,
+        "total": 399,
+        "move": -9
       },
       {
         "mgr": "Ashwin Mulani",
