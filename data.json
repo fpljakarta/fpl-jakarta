@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T03:43:49.885Z",
+  "updated": "2026-10-12T11:32:12.454Z",
   "standings": {
     "main": [
       {
@@ -262,18 +262,18 @@
         "move": 3
       },
       {
-        "mgr": "Nitin Nathani",
-        "team": "Untouchables",
-        "gw": 59,
-        "total": 399,
-        "move": -6
-      },
-      {
         "mgr": "Charles Lesmana",
         "team": "Les Intouchables",
         "gw": 57,
         "total": 399,
         "move": -9
+      },
+      {
+        "mgr": "Nitin Nathani",
+        "team": "Untouchables",
+        "gw": 59,
+        "total": 399,
+        "move": -6
       },
       {
         "mgr": "Ashwin Mulani",
@@ -460,18 +460,18 @@
         "move": 0
       },
       {
-        "mgr": "Sagar Paleja",
-        "team": "Jai Shree Krishna",
-        "gw": 73,
-        "total": 422,
-        "move": 4
-      },
-      {
         "mgr": "Vishal Lakhiani",
         "team": "Vish Fish",
         "gw": 89,
         "total": 422,
         "move": 11
+      },
+      {
+        "mgr": "Sagar Paleja",
+        "team": "Jai Shree Krishna",
+        "gw": 73,
+        "total": 422,
+        "move": 4
       },
       {
         "mgr": "Deepu Narwani",
