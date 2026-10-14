@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T17:42:57.288Z",
+  "updated": "2026-10-14T21:10:40.866Z",
   "standings": {
     "main": [
       {
@@ -304,18 +304,18 @@
         "move": 6
       },
       {
-        "mgr": "Mohit Mirpuri",
-        "team": "LION CITY BALLERS",
-        "gw": 79,
-        "total": 389,
-        "move": 6
-      },
-      {
         "mgr": "Prakash Mahtani",
         "team": "400K Redemption Arc",
         "gw": 74,
         "total": 389,
         "move": 4
+      },
+      {
+        "mgr": "Mohit Mirpuri",
+        "team": "LION CITY BALLERS",
+        "gw": 79,
+        "total": 389,
+        "move": 6
       },
       {
         "mgr": "Karan Khosla",
@@ -474,18 +474,18 @@
         "move": -6
       },
       {
-        "mgr": "Sagar Paleja",
-        "team": "Jai Shree Krishna",
-        "gw": 75,
-        "total": 424,
-        "move": 2
-      },
-      {
         "mgr": "Vishal Lakhiani",
         "team": "Vish Fish",
         "gw": 91,
         "total": 424,
         "move": 9
+      },
+      {
+        "mgr": "Sagar Paleja",
+        "team": "Jai Shree Krishna",
+        "gw": 75,
+        "total": 424,
+        "move": 2
       },
       {
         "mgr": "Kunal Manwani",
