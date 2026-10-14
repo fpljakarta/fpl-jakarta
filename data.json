@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T01:31:05.728Z",
+  "updated": "2026-10-14T06:58:03.601Z",
   "standings": {
     "main": [
       {
@@ -143,13 +143,6 @@
         "move": 9
       },
       {
-        "mgr": "Vishal Lakhiani",
-        "team": "Vish Fish",
-        "gw": 91,
-        "total": 424,
-        "move": 18
-      },
-      {
         "mgr": "Sagar Paleja",
         "team": "Jai Shree Krishna",
         "gw": 75,
@@ -157,11 +150,11 @@
         "move": 1
       },
       {
-        "mgr": "Kunal Manwani",
-        "team": "Kloppite_6",
-        "gw": 61,
-        "total": 421,
-        "move": -7
+        "mgr": "Vishal Lakhiani",
+        "team": "Vish Fish",
+        "gw": 91,
+        "total": 424,
+        "move": 18
       },
       {
         "mgr": "Ajay Yeleswaram",
@@ -169,6 +162,13 @@
         "gw": 72,
         "total": 421,
         "move": 0
+      },
+      {
+        "mgr": "Kunal Manwani",
+        "team": "Kloppite_6",
+        "gw": 61,
+        "total": 421,
+        "move": -7
       },
       {
         "mgr": "Deepu Narwani",
