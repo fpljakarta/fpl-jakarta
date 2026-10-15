@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T21:10:40.866Z",
+  "updated": "2026-10-15T00:13:40.656Z",
   "standings": {
     "main": [
       {
@@ -38,15 +38,15 @@
         "move": -4
       },
       {
-        "mgr": "Bharat Lakhwani",
-        "team": "Bpl",
+        "mgr": "Prashant Chainani",
+        "team": "HighOnHouse",
         "gw": 77,
         "total": 445,
         "move": 5
       },
       {
-        "mgr": "Prashant Chainani",
-        "team": "HighOnHouse",
+        "mgr": "Bharat Lakhwani",
+        "team": "Bpl",
         "gw": 77,
         "total": 445,
         "move": 5
@@ -80,15 +80,15 @@
         "move": 14
       },
       {
-        "mgr": "Draking Ngaditono",
-        "team": "Enerzy",
+        "mgr": "Akshay Melwani",
+        "team": "Test",
         "gw": 60,
         "total": 438,
         "move": -9
       },
       {
-        "mgr": "Akshay Melwani",
-        "team": "Test",
+        "mgr": "Draking Ngaditono",
+        "team": "Enerzy",
         "gw": 60,
         "total": 438,
         "move": -9
@@ -143,18 +143,18 @@
         "move": 9
       },
       {
-        "mgr": "Sagar Paleja",
-        "team": "Jai Shree Krishna",
-        "gw": 75,
-        "total": 424,
-        "move": 1
-      },
-      {
         "mgr": "Vishal Lakhiani",
         "team": "Vish Fish",
         "gw": 91,
         "total": 424,
         "move": 18
+      },
+      {
+        "mgr": "Sagar Paleja",
+        "team": "Jai Shree Krishna",
+        "gw": 75,
+        "total": 424,
+        "move": 1
       },
       {
         "mgr": "Ajay Yeleswaram",
@@ -637,8 +637,8 @@
     {
       "gw": 4,
       "pts": 105,
-      "winner": "Draking Ngaditono",
-      "team": "Enerzy"
+      "winner": "Akshay Melwani",
+      "team": "Test"
     },
     {
       "gw": 3,
