@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T00:13:40.656Z",
+  "updated": "2026-10-15T05:27:03.931Z",
   "standings": {
     "main": [
       {
@@ -38,15 +38,15 @@
         "move": -4
       },
       {
-        "mgr": "Prashant Chainani",
-        "team": "HighOnHouse",
+        "mgr": "Bharat Lakhwani",
+        "team": "Bpl",
         "gw": 77,
         "total": 445,
         "move": 5
       },
       {
-        "mgr": "Bharat Lakhwani",
-        "team": "Bpl",
+        "mgr": "Prashant Chainani",
+        "team": "HighOnHouse",
         "gw": 77,
         "total": 445,
         "move": 5
@@ -157,18 +157,18 @@
         "move": 1
       },
       {
-        "mgr": "Ajay Yeleswaram",
-        "team": "Relegated",
-        "gw": 72,
-        "total": 421,
-        "move": 0
-      },
-      {
         "mgr": "Kunal Manwani",
         "team": "Kloppite_6",
         "gw": 61,
         "total": 421,
         "move": -7
+      },
+      {
+        "mgr": "Ajay Yeleswaram",
+        "team": "Relegated",
+        "gw": 72,
+        "total": 421,
+        "move": 0
       },
       {
         "mgr": "Deepu Narwani",
@@ -353,18 +353,18 @@
         "move": -6
       },
       {
-        "mgr": "Amrit Lakhiani",
-        "team": "Pomfriterole FC",
-        "gw": 72,
-        "total": 371,
-        "move": 3
-      },
-      {
         "mgr": "Snehanshu Gupta",
         "team": "Snaydoooo",
         "gw": 33,
         "total": 371,
         "move": -17
+      },
+      {
+        "mgr": "Amrit Lakhiani",
+        "team": "Pomfriterole FC",
+        "gw": 72,
+        "total": 371,
+        "move": 3
       },
       {
         "mgr": "M Suudi",
@@ -474,18 +474,18 @@
         "move": -6
       },
       {
-        "mgr": "Vishal Lakhiani",
-        "team": "Vish Fish",
-        "gw": 91,
-        "total": 424,
-        "move": 9
-      },
-      {
         "mgr": "Sagar Paleja",
         "team": "Jai Shree Krishna",
         "gw": 75,
         "total": 424,
         "move": 2
+      },
+      {
+        "mgr": "Vishal Lakhiani",
+        "team": "Vish Fish",
+        "gw": 91,
+        "total": 424,
+        "move": 9
       },
       {
         "mgr": "Kunal Manwani",
@@ -551,18 +551,18 @@
         "move": 3
       },
       {
-        "mgr": "Mohit Mirpuri",
-        "team": "LION CITY BALLERS",
-        "gw": 79,
-        "total": 389,
-        "move": 3
-      },
-      {
         "mgr": "Prakash Mahtani",
         "team": "400K Redemption Arc",
         "gw": 74,
         "total": 389,
         "move": 1
+      },
+      {
+        "mgr": "Mohit Mirpuri",
+        "team": "LION CITY BALLERS",
+        "gw": 79,
+        "total": 389,
+        "move": 3
       },
       {
         "mgr": "Karan Khosla",
