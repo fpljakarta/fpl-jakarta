@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T05:21:51.388Z",
+  "updated": "2026-10-16T10:27:45.140Z",
   "standings": {
     "main": [
       {
@@ -38,15 +38,15 @@
         "move": -4
       },
       {
-        "mgr": "Bharat Lakhwani",
-        "team": "Bpl",
+        "mgr": "Prashant Chainani",
+        "team": "HighOnHouse",
         "gw": 77,
         "total": 445,
         "move": 5
       },
       {
-        "mgr": "Prashant Chainani",
-        "team": "HighOnHouse",
+        "mgr": "Bharat Lakhwani",
+        "team": "Bpl",
         "gw": 77,
         "total": 445,
         "move": 5
@@ -157,18 +157,18 @@
         "move": 18
       },
       {
-        "mgr": "Ajay Yeleswaram",
-        "team": "Relegated",
-        "gw": 72,
-        "total": 421,
-        "move": 0
-      },
-      {
         "mgr": "Kunal Manwani",
         "team": "Kloppite_6",
         "gw": 61,
         "total": 421,
         "move": -7
+      },
+      {
+        "mgr": "Ajay Yeleswaram",
+        "team": "Relegated",
+        "gw": 72,
+        "total": 421,
+        "move": 0
       },
       {
         "mgr": "Deepu Narwani",
@@ -304,18 +304,18 @@
         "move": 6
       },
       {
-        "mgr": "Prakash Mahtani",
-        "team": "400K Redemption Arc",
-        "gw": 74,
-        "total": 389,
-        "move": 4
-      },
-      {
         "mgr": "Mohit Mirpuri",
         "team": "LION CITY BALLERS",
         "gw": 79,
         "total": 389,
         "move": 6
+      },
+      {
+        "mgr": "Prakash Mahtani",
+        "team": "400K Redemption Arc",
+        "gw": 74,
+        "total": 389,
+        "move": 4
       },
       {
         "mgr": "Karan Khosla",
@@ -353,18 +353,18 @@
         "move": -6
       },
       {
-        "mgr": "Amrit Lakhiani",
-        "team": "Pomfriterole FC",
-        "gw": 72,
-        "total": 371,
-        "move": 3
-      },
-      {
         "mgr": "Snehanshu Gupta",
         "team": "Snaydoooo",
         "gw": 33,
         "total": 371,
         "move": -17
+      },
+      {
+        "mgr": "Amrit Lakhiani",
+        "team": "Pomfriterole FC",
+        "gw": 72,
+        "total": 371,
+        "move": 3
       },
       {
         "mgr": "M Suudi",
