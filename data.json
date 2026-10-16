@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T15:05:56.807Z",
+  "updated": "2026-10-16T19:10:53.767Z",
   "standings": {
     "main": [
       {
@@ -353,18 +353,18 @@
         "move": -6
       },
       {
-        "mgr": "Snehanshu Gupta",
-        "team": "Snaydoooo",
-        "gw": 33,
-        "total": 371,
-        "move": -17
-      },
-      {
         "mgr": "Amrit Lakhiani",
         "team": "Pomfriterole FC",
         "gw": 72,
         "total": 371,
         "move": 3
+      },
+      {
+        "mgr": "Snehanshu Gupta",
+        "team": "Snaydoooo",
+        "gw": 33,
+        "total": 371,
+        "move": -17
       },
       {
         "mgr": "M Suudi",
