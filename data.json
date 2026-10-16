@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T00:55:52.105Z",
+  "updated": "2026-10-16T05:21:51.388Z",
   "standings": {
     "main": [
       {
@@ -80,15 +80,15 @@
         "move": 14
       },
       {
-        "mgr": "Akshay Melwani",
-        "team": "Test",
+        "mgr": "Draking Ngaditono",
+        "team": "Enerzy",
         "gw": 60,
         "total": 438,
         "move": -9
       },
       {
-        "mgr": "Draking Ngaditono",
-        "team": "Enerzy",
+        "mgr": "Akshay Melwani",
+        "team": "Test",
         "gw": 60,
         "total": 438,
         "move": -9
@@ -157,18 +157,18 @@
         "move": 18
       },
       {
-        "mgr": "Kunal Manwani",
-        "team": "Kloppite_6",
-        "gw": 61,
-        "total": 421,
-        "move": -7
-      },
-      {
         "mgr": "Ajay Yeleswaram",
         "team": "Relegated",
         "gw": 72,
         "total": 421,
         "move": 0
+      },
+      {
+        "mgr": "Kunal Manwani",
+        "team": "Kloppite_6",
+        "gw": 61,
+        "total": 421,
+        "move": -7
       },
       {
         "mgr": "Deepu Narwani",
@@ -551,18 +551,18 @@
         "move": 3
       },
       {
-        "mgr": "Prakash Mahtani",
-        "team": "400K Redemption Arc",
-        "gw": 74,
-        "total": 389,
-        "move": 1
-      },
-      {
         "mgr": "Mohit Mirpuri",
         "team": "LION CITY BALLERS",
         "gw": 79,
         "total": 389,
         "move": 3
+      },
+      {
+        "mgr": "Prakash Mahtani",
+        "team": "400K Redemption Arc",
+        "gw": 74,
+        "total": 389,
+        "move": 1
       },
       {
         "mgr": "Karan Khosla",
@@ -637,8 +637,8 @@
     {
       "gw": 4,
       "pts": 105,
-      "winner": "Akshay Melwani",
-      "team": "Test"
+      "winner": "Draking Ngaditono",
+      "team": "Enerzy"
     },
     {
       "gw": 3,
