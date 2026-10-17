@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T21:19:10.155Z",
+  "updated": "2026-10-17T23:41:25.921Z",
   "standings": {
     "main": [
       {
@@ -80,15 +80,15 @@
         "move": 5
       },
       {
-        "mgr": "Akshay Melwani",
-        "team": "Test",
+        "mgr": "Draking Ngaditono",
+        "team": "Enerzy",
         "gw": 34,
         "total": 472,
         "move": 0
       },
       {
-        "mgr": "Draking Ngaditono",
-        "team": "Enerzy",
+        "mgr": "Akshay Melwani",
+        "team": "Test",
         "gw": 34,
         "total": 472,
         "move": 0
@@ -101,18 +101,18 @@
         "move": -4
       },
       {
-        "mgr": "Sherwin Lee",
-        "team": "soteriapsalms",
-        "gw": 36,
-        "total": 466,
-        "move": 2
-      },
-      {
         "mgr": "Rishabh Mehta",
         "team": "PepMasterclass",
         "gw": 34,
         "total": 466,
         "move": 0
+      },
+      {
+        "mgr": "Sherwin Lee",
+        "team": "soteriapsalms",
+        "gw": 36,
+        "total": 466,
+        "move": 2
       },
       {
         "mgr": "Sanjay Morani",
@@ -150,18 +150,18 @@
         "move": -1
       },
       {
-        "mgr": "Sagar Paleja",
-        "team": "Jai Shree Krishna",
-        "gw": 34,
-        "total": 458,
-        "move": -1
-      },
-      {
         "mgr": "Nikk Kadbet",
         "team": "Anfield Legends",
         "gw": 43,
         "total": 458,
         "move": 4
+      },
+      {
+        "mgr": "Sagar Paleja",
+        "team": "Jai Shree Krishna",
+        "gw": 34,
+        "total": 458,
+        "move": -1
       },
       {
         "mgr": "Prashan Harjani",
@@ -227,18 +227,18 @@
         "move": -4
       },
       {
-        "mgr": "Joanda Febrian",
-        "team": "DBM FC",
-        "gw": 37,
-        "total": 441,
-        "move": 2
-      },
-      {
         "mgr": "Charles Lesmana",
         "team": "Les Intouchables",
         "gw": 40,
         "total": 441,
         "move": 6
+      },
+      {
+        "mgr": "Joanda Febrian",
+        "team": "DBM FC",
+        "gw": 37,
+        "total": 441,
+        "move": 2
       },
       {
         "mgr": "Jevesh Vatvani",
@@ -397,8 +397,8 @@
       {
         "mgr": "Sanjev Rama",
         "team": "Jippy's",
-        "gw": 51,
-        "total": 378,
+        "gw": 50,
+        "total": 377,
         "move": 2
       },
       {
@@ -637,8 +637,8 @@
     {
       "gw": 4,
       "pts": 105,
-      "winner": "Akshay Melwani",
-      "team": "Test"
+      "winner": "Draking Ngaditono",
+      "team": "Enerzy"
     },
     {
       "gw": 3,
