@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T23:41:25.921Z",
+  "updated": "2026-10-18T02:31:42.556Z",
   "standings": {
     "main": [
       {
@@ -481,18 +481,18 @@
         "move": -1
       },
       {
-        "mgr": "Nikk Kadbet",
-        "team": "Anfield Legends",
-        "gw": 43,
-        "total": 458,
-        "move": 3
-      },
-      {
         "mgr": "Sagar Paleja",
         "team": "Jai Shree Krishna",
         "gw": 34,
         "total": 458,
         "move": -1
+      },
+      {
+        "mgr": "Nikk Kadbet",
+        "team": "Anfield Legends",
+        "gw": 43,
+        "total": 458,
+        "move": 3
       },
       {
         "mgr": "Prashan Harjani",
