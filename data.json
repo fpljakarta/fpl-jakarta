@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T02:31:42.556Z",
+  "updated": "2026-10-18T07:39:31.942Z",
   "standings": {
     "main": [
       {
@@ -101,13 +101,6 @@
         "move": -4
       },
       {
-        "mgr": "Rishabh Mehta",
-        "team": "PepMasterclass",
-        "gw": 34,
-        "total": 466,
-        "move": 0
-      },
-      {
         "mgr": "Sherwin Lee",
         "team": "soteriapsalms",
         "gw": 36,
@@ -115,11 +108,11 @@
         "move": 2
       },
       {
-        "mgr": "Sanjay Morani",
-        "team": "Xisco Inferno FC",
-        "gw": 33,
-        "total": 462,
-        "move": 1
+        "mgr": "Rishabh Mehta",
+        "team": "PepMasterclass",
+        "gw": 34,
+        "total": 466,
+        "move": 0
       },
       {
         "mgr": "Rohan Kalwani",
@@ -127,6 +120,13 @@
         "gw": 29,
         "total": 462,
         "move": -3
+      },
+      {
+        "mgr": "Sanjay Morani",
+        "team": "Xisco Inferno FC",
+        "gw": 33,
+        "total": 462,
+        "move": 1
       },
       {
         "mgr": "Edward Angkasa",
@@ -150,18 +150,18 @@
         "move": -1
       },
       {
-        "mgr": "Nikk Kadbet",
-        "team": "Anfield Legends",
-        "gw": 43,
-        "total": 458,
-        "move": 4
-      },
-      {
         "mgr": "Sagar Paleja",
         "team": "Jai Shree Krishna",
         "gw": 34,
         "total": 458,
         "move": -1
+      },
+      {
+        "mgr": "Nikk Kadbet",
+        "team": "Anfield Legends",
+        "gw": 43,
+        "total": 458,
+        "move": 4
       },
       {
         "mgr": "Prashan Harjani",
