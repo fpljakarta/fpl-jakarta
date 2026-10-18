@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T19:09:38.898Z",
+  "updated": "2026-10-18T22:09:03.382Z",
   "standings": {
     "main": [
       {
@@ -59,15 +59,15 @@
         "move": -2
       },
       {
-        "mgr": "Akshay Melwani",
-        "team": "Test",
+        "mgr": "Draking Ngaditono",
+        "team": "Enerzy",
         "gw": 75,
         "total": 513,
         "move": 3
       },
       {
-        "mgr": "Draking Ngaditono",
-        "team": "Enerzy",
+        "mgr": "Akshay Melwani",
+        "team": "Test",
         "gw": 75,
         "total": 513,
         "move": 3
@@ -122,18 +122,18 @@
         "move": 3
       },
       {
-        "mgr": "Rohan Kalwani",
-        "team": "-4 Builds Carrickter",
-        "gw": 64,
-        "total": 497,
-        "move": -4
-      },
-      {
         "mgr": "Sanjay Morani",
         "team": "Xisco Inferno FC",
         "gw": 68,
         "total": 497,
         "move": 0
+      },
+      {
+        "mgr": "Rohan Kalwani",
+        "team": "-4 Builds Carrickter",
+        "gw": 64,
+        "total": 497,
+        "move": -4
       },
       {
         "mgr": "Prashan Harjani",
@@ -248,18 +248,18 @@
         "move": -6
       },
       {
-        "mgr": "Charles Lesmana",
-        "team": "Les Intouchables",
-        "gw": 69,
-        "total": 470,
-        "move": 4
-      },
-      {
         "mgr": "Joanda Febrian",
         "team": "DBM FC",
         "gw": 66,
         "total": 470,
         "move": 0
+      },
+      {
+        "mgr": "Charles Lesmana",
+        "team": "Les Intouchables",
+        "gw": 69,
+        "total": 470,
+        "move": 4
       },
       {
         "mgr": "Deepu Narwani",
@@ -637,8 +637,8 @@
     {
       "gw": 4,
       "pts": 105,
-      "winner": "Akshay Melwani",
-      "team": "Test"
+      "winner": "Draking Ngaditono",
+      "team": "Enerzy"
     },
     {
       "gw": 3,
