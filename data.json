@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T07:39:31.942Z",
+  "updated": "2026-10-18T12:21:55.913Z",
   "standings": {
     "main": [
       {
@@ -52,18 +52,18 @@
         "move": -4
       },
       {
-        "mgr": "Bharat Lakhwani",
-        "team": "Bpl",
-        "gw": 32,
-        "total": 477,
-        "move": -2
-      },
-      {
         "mgr": "Paras Lalwani",
         "team": "FC Pain Chaud",
         "gw": 33,
         "total": 477,
         "move": 0
+      },
+      {
+        "mgr": "Bharat Lakhwani",
+        "team": "Bpl",
+        "gw": 32,
+        "total": 477,
+        "move": -2
       },
       {
         "mgr": "Prashant Chainani",
@@ -101,13 +101,6 @@
         "move": -4
       },
       {
-        "mgr": "Sherwin Lee",
-        "team": "soteriapsalms",
-        "gw": 36,
-        "total": 466,
-        "move": 2
-      },
-      {
         "mgr": "Rishabh Mehta",
         "team": "PepMasterclass",
         "gw": 34,
@@ -115,11 +108,11 @@
         "move": 0
       },
       {
-        "mgr": "Rohan Kalwani",
-        "team": "-4 Builds Carrickter",
-        "gw": 29,
-        "total": 462,
-        "move": -3
+        "mgr": "Sherwin Lee",
+        "team": "soteriapsalms",
+        "gw": 36,
+        "total": 466,
+        "move": 2
       },
       {
         "mgr": "Sanjay Morani",
@@ -127,6 +120,13 @@
         "gw": 33,
         "total": 462,
         "move": 1
+      },
+      {
+        "mgr": "Rohan Kalwani",
+        "team": "-4 Builds Carrickter",
+        "gw": 29,
+        "total": 462,
+        "move": -3
       },
       {
         "mgr": "Edward Angkasa",
@@ -150,18 +150,18 @@
         "move": -1
       },
       {
-        "mgr": "Sagar Paleja",
-        "team": "Jai Shree Krishna",
-        "gw": 34,
-        "total": 458,
-        "move": -1
-      },
-      {
         "mgr": "Nikk Kadbet",
         "team": "Anfield Legends",
         "gw": 43,
         "total": 458,
         "move": 4
+      },
+      {
+        "mgr": "Sagar Paleja",
+        "team": "Jai Shree Krishna",
+        "gw": 34,
+        "total": 458,
+        "move": -1
       },
       {
         "mgr": "Prashan Harjani",
@@ -227,18 +227,18 @@
         "move": -4
       },
       {
-        "mgr": "Charles Lesmana",
-        "team": "Les Intouchables",
-        "gw": 40,
-        "total": 441,
-        "move": 6
-      },
-      {
         "mgr": "Joanda Febrian",
         "team": "DBM FC",
         "gw": 37,
         "total": 441,
         "move": 2
+      },
+      {
+        "mgr": "Charles Lesmana",
+        "team": "Les Intouchables",
+        "gw": 40,
+        "total": 441,
+        "move": 6
       },
       {
         "mgr": "Jevesh Vatvani",
@@ -481,18 +481,18 @@
         "move": -1
       },
       {
-        "mgr": "Sagar Paleja",
-        "team": "Jai Shree Krishna",
-        "gw": 34,
-        "total": 458,
-        "move": -1
-      },
-      {
         "mgr": "Nikk Kadbet",
         "team": "Anfield Legends",
         "gw": 43,
         "total": 458,
         "move": 3
+      },
+      {
+        "mgr": "Sagar Paleja",
+        "team": "Jai Shree Krishna",
+        "gw": 34,
+        "total": 458,
+        "move": -1
       },
       {
         "mgr": "Prashan Harjani",
