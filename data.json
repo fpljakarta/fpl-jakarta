@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T05:34:18.423Z",
+  "updated": "2026-10-19T11:47:17.524Z",
   "standings": {
     "main": [
       {
@@ -59,15 +59,15 @@
         "move": -2
       },
       {
-        "mgr": "Draking Ngaditono",
-        "team": "Enerzy",
+        "mgr": "Akshay Melwani",
+        "team": "Test",
         "gw": 75,
         "total": 513,
         "move": 3
       },
       {
-        "mgr": "Akshay Melwani",
-        "team": "Test",
+        "mgr": "Draking Ngaditono",
+        "team": "Enerzy",
         "gw": 75,
         "total": 513,
         "move": 3
@@ -136,18 +136,18 @@
         "move": 0
       },
       {
-        "mgr": "Prashan Harjani",
-        "team": "Pineapple Delight",
-        "gw": 88,
-        "total": 493,
-        "move": 13
-      },
-      {
         "mgr": "Sagar Paleja",
         "team": "Jai Shree Krishna",
         "gw": 69,
         "total": 493,
         "move": 1
+      },
+      {
+        "mgr": "Prashan Harjani",
+        "team": "Pineapple Delight",
+        "gw": 88,
+        "total": 493,
+        "move": 13
       },
       {
         "mgr": "Gautam Vassanmal",
@@ -241,13 +241,6 @@
         "move": 3
       },
       {
-        "mgr": "Charles Lesmana",
-        "team": "Les Intouchables",
-        "gw": 69,
-        "total": 470,
-        "move": 4
-      },
-      {
         "mgr": "Dayne De Melo",
         "team": "Gross Misconduct",
         "gw": 64,
@@ -260,6 +253,13 @@
         "gw": 66,
         "total": 470,
         "move": 0
+      },
+      {
+        "mgr": "Charles Lesmana",
+        "team": "Les Intouchables",
+        "gw": 69,
+        "total": 470,
+        "move": 4
       },
       {
         "mgr": "Deepu Narwani",
@@ -523,18 +523,18 @@
         "move": -1
       },
       {
-        "mgr": "Dayne De Melo",
-        "team": "Gross Misconduct",
-        "gw": 64,
-        "total": 470,
-        "move": -1
-      },
-      {
         "mgr": "Charles Lesmana",
         "team": "Les Intouchables",
         "gw": 69,
         "total": 470,
         "move": 2
+      },
+      {
+        "mgr": "Dayne De Melo",
+        "team": "Gross Misconduct",
+        "gw": 64,
+        "total": 470,
+        "move": -1
       },
       {
         "mgr": "Deepu Narwani",
@@ -637,8 +637,8 @@
     {
       "gw": 4,
       "pts": 105,
-      "winner": "Draking Ngaditono",
-      "team": "Enerzy"
+      "winner": "Akshay Melwani",
+      "team": "Test"
     },
     {
       "gw": 3,
