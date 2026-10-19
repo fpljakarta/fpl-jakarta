@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T00:40:38.185Z",
+  "updated": "2026-10-19T05:34:18.423Z",
   "standings": {
     "main": [
       {
@@ -122,18 +122,18 @@
         "move": 3
       },
       {
-        "mgr": "Sanjay Morani",
-        "team": "Xisco Inferno FC",
-        "gw": 68,
-        "total": 497,
-        "move": 0
-      },
-      {
         "mgr": "Rohan Kalwani",
         "team": "-4 Builds Carrickter",
         "gw": 64,
         "total": 497,
         "move": -4
+      },
+      {
+        "mgr": "Sanjay Morani",
+        "team": "Xisco Inferno FC",
+        "gw": 68,
+        "total": 497,
+        "move": 0
       },
       {
         "mgr": "Prashan Harjani",
@@ -241,6 +241,13 @@
         "move": 3
       },
       {
+        "mgr": "Charles Lesmana",
+        "team": "Les Intouchables",
+        "gw": 69,
+        "total": 470,
+        "move": 4
+      },
+      {
         "mgr": "Dayne De Melo",
         "team": "Gross Misconduct",
         "gw": 64,
@@ -253,13 +260,6 @@
         "gw": 66,
         "total": 470,
         "move": 0
-      },
-      {
-        "mgr": "Charles Lesmana",
-        "team": "Les Intouchables",
-        "gw": 69,
-        "total": 470,
-        "move": 4
       },
       {
         "mgr": "Deepu Narwani",
@@ -523,18 +523,18 @@
         "move": -1
       },
       {
-        "mgr": "Charles Lesmana",
-        "team": "Les Intouchables",
-        "gw": 69,
-        "total": 470,
-        "move": 2
-      },
-      {
         "mgr": "Dayne De Melo",
         "team": "Gross Misconduct",
         "gw": 64,
         "total": 470,
         "move": -1
+      },
+      {
+        "mgr": "Charles Lesmana",
+        "team": "Les Intouchables",
+        "gw": 69,
+        "total": 470,
+        "move": 2
       },
       {
         "mgr": "Deepu Narwani",
