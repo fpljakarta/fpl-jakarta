@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T12:35:16.630Z",
+  "updated": "2026-10-20T17:42:06.160Z",
   "standings": {
     "main": [
       {
@@ -73,18 +73,18 @@
         "move": 1
       },
       {
-        "mgr": "Paras Lalwani",
-        "team": "FC Pain Chaud",
-        "gw": 68,
-        "total": 512,
-        "move": -3
-      },
-      {
         "mgr": "Prashant Chainani",
         "team": "HighOnHouse",
         "gw": 67,
         "total": 512,
         "move": -5
+      },
+      {
+        "mgr": "Paras Lalwani",
+        "team": "FC Pain Chaud",
+        "gw": 68,
+        "total": 512,
+        "move": -3
       },
       {
         "mgr": "Rahul Nanwani",
@@ -136,13 +136,6 @@
         "move": -5
       },
       {
-        "mgr": "Sagar Paleja",
-        "team": "Jai Shree Krishna",
-        "gw": 73,
-        "total": 497,
-        "move": 1
-      },
-      {
         "mgr": "Sanjay Morani",
         "team": "Xisco Inferno FC",
         "gw": 68,
@@ -155,6 +148,13 @@
         "gw": 92,
         "total": 497,
         "move": 13
+      },
+      {
+        "mgr": "Sagar Paleja",
+        "team": "Jai Shree Krishna",
+        "gw": 73,
+        "total": 497,
+        "move": 1
       },
       {
         "mgr": "Nikk Kadbet",
@@ -283,18 +283,18 @@
         "move": -8
       },
       {
-        "mgr": "Rachman Witarlan",
-        "team": "FC Milanello",
-        "gw": 73,
-        "total": 465,
-        "move": 1
-      },
-      {
         "mgr": "Hitesh Singh",
         "team": "Not Too Xabi",
         "gw": 72,
         "total": 465,
         "move": 0
+      },
+      {
+        "mgr": "Rachman Witarlan",
+        "team": "FC Milanello",
+        "gw": 73,
+        "total": 465,
+        "move": 1
       },
       {
         "mgr": "Prakash Mahtani",
@@ -474,18 +474,18 @@
         "move": 1
       },
       {
-        "mgr": "Sanjay Morani",
-        "team": "Xisco Inferno FC",
-        "gw": 68,
-        "total": 497,
-        "move": -1
-      },
-      {
         "mgr": "Prashan Harjani",
         "team": "Pineapple Delight",
         "gw": 92,
         "total": 497,
         "move": 8
+      },
+      {
+        "mgr": "Sanjay Morani",
+        "team": "Xisco Inferno FC",
+        "gw": 68,
+        "total": 497,
+        "move": -1
       },
       {
         "mgr": "Nikk Kadbet",
@@ -622,6 +622,12 @@
     null
   ],
   "motw": [
+    {
+      "gw": 7,
+      "pts": 92,
+      "winner": "Sanchit Suri",
+      "team": "WinterisHere!"
+    },
     {
       "gw": 6,
       "pts": 92,
