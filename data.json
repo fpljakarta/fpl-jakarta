@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T05:37:35.807Z",
+  "updated": "2026-10-21T10:58:51.247Z",
   "standings": {
     "main": [
       {
@@ -143,18 +143,18 @@
         "move": -2
       },
       {
-        "mgr": "Prashan Harjani",
-        "team": "Pineapple Delight",
-        "gw": 92,
-        "total": 497,
-        "move": 13
-      },
-      {
         "mgr": "Sagar Paleja",
         "team": "Jai Shree Krishna",
         "gw": 73,
         "total": 497,
         "move": 1
+      },
+      {
+        "mgr": "Prashan Harjani",
+        "team": "Pineapple Delight",
+        "gw": 92,
+        "total": 497,
+        "move": 13
       },
       {
         "mgr": "Nikk Kadbet",
@@ -467,6 +467,13 @@
         "move": -2
       },
       {
+        "mgr": "Sagar Paleja",
+        "team": "Jai Shree Krishna",
+        "gw": 73,
+        "total": 497,
+        "move": 1
+      },
+      {
         "mgr": "Prashan Harjani",
         "team": "Pineapple Delight",
         "gw": 92,
@@ -479,13 +486,6 @@
         "gw": 68,
         "total": 497,
         "move": -1
-      },
-      {
-        "mgr": "Sagar Paleja",
-        "team": "Jai Shree Krishna",
-        "gw": 73,
-        "total": 497,
-        "move": 1
       },
       {
         "mgr": "Nikk Kadbet",
