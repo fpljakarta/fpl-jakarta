@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T00:18:16.388Z",
+  "updated": "2026-10-21T05:37:35.807Z",
   "standings": {
     "main": [
       {
@@ -38,15 +38,15 @@
         "move": 4
       },
       {
-        "mgr": "Draking Ngaditono",
-        "team": "Enerzy",
+        "mgr": "Akshay Melwani",
+        "team": "Test",
         "gw": 79,
         "total": 517,
         "move": 6
       },
       {
-        "mgr": "Akshay Melwani",
-        "team": "Test",
+        "mgr": "Draking Ngaditono",
+        "team": "Enerzy",
         "gw": 79,
         "total": 517,
         "move": 6
@@ -73,18 +73,18 @@
         "move": 1
       },
       {
-        "mgr": "Prashant Chainani",
-        "team": "HighOnHouse",
-        "gw": 67,
-        "total": 512,
-        "move": -5
-      },
-      {
         "mgr": "Paras Lalwani",
         "team": "FC Pain Chaud",
         "gw": 68,
         "total": 512,
         "move": -3
+      },
+      {
+        "mgr": "Prashant Chainani",
+        "team": "HighOnHouse",
+        "gw": 67,
+        "total": 512,
+        "move": -5
       },
       {
         "mgr": "Rahul Nanwani",
@@ -136,13 +136,6 @@
         "move": -5
       },
       {
-        "mgr": "Sagar Paleja",
-        "team": "Jai Shree Krishna",
-        "gw": 73,
-        "total": 497,
-        "move": 1
-      },
-      {
         "mgr": "Sanjay Morani",
         "team": "Xisco Inferno FC",
         "gw": 68,
@@ -155,6 +148,13 @@
         "gw": 92,
         "total": 497,
         "move": 13
+      },
+      {
+        "mgr": "Sagar Paleja",
+        "team": "Jai Shree Krishna",
+        "gw": 73,
+        "total": 497,
+        "move": 1
       },
       {
         "mgr": "Nikk Kadbet",
@@ -467,6 +467,13 @@
         "move": -2
       },
       {
+        "mgr": "Prashan Harjani",
+        "team": "Pineapple Delight",
+        "gw": 92,
+        "total": 497,
+        "move": 8
+      },
+      {
         "mgr": "Sanjay Morani",
         "team": "Xisco Inferno FC",
         "gw": 68,
@@ -479,13 +486,6 @@
         "gw": 73,
         "total": 497,
         "move": 1
-      },
-      {
-        "mgr": "Prashan Harjani",
-        "team": "Pineapple Delight",
-        "gw": 92,
-        "total": 497,
-        "move": 8
       },
       {
         "mgr": "Nikk Kadbet",
@@ -643,8 +643,8 @@
     {
       "gw": 4,
       "pts": 105,
-      "winner": "Draking Ngaditono",
-      "team": "Enerzy"
+      "winner": "Akshay Melwani",
+      "team": "Test"
     },
     {
       "gw": 3,
