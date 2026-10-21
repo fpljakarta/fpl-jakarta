@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T19:51:25.488Z",
+  "updated": "2026-10-21T22:57:21.800Z",
   "standings": {
     "main": [
       {
@@ -73,18 +73,18 @@
         "move": 1
       },
       {
-        "mgr": "Prashant Chainani",
-        "team": "HighOnHouse",
-        "gw": 67,
-        "total": 512,
-        "move": -5
-      },
-      {
         "mgr": "Paras Lalwani",
         "team": "FC Pain Chaud",
         "gw": 68,
         "total": 512,
         "move": -3
+      },
+      {
+        "mgr": "Prashant Chainani",
+        "team": "HighOnHouse",
+        "gw": 67,
+        "total": 512,
+        "move": -5
       },
       {
         "mgr": "Rahul Nanwani",
@@ -136,11 +136,11 @@
         "move": -5
       },
       {
-        "mgr": "Prashan Harjani",
-        "team": "Pineapple Delight",
-        "gw": 92,
+        "mgr": "Sagar Paleja",
+        "team": "Jai Shree Krishna",
+        "gw": 73,
         "total": 497,
-        "move": 13
+        "move": 1
       },
       {
         "mgr": "Sanjay Morani",
@@ -150,11 +150,11 @@
         "move": -2
       },
       {
-        "mgr": "Sagar Paleja",
-        "team": "Jai Shree Krishna",
-        "gw": 73,
+        "mgr": "Prashan Harjani",
+        "team": "Pineapple Delight",
+        "gw": 92,
         "total": 497,
-        "move": 1
+        "move": 13
       },
       {
         "mgr": "Nikk Kadbet",
@@ -283,18 +283,18 @@
         "move": -8
       },
       {
-        "mgr": "Hitesh Singh",
-        "team": "Not Too Xabi",
-        "gw": 72,
-        "total": 465,
-        "move": 0
-      },
-      {
         "mgr": "Rachman Witarlan",
         "team": "FC Milanello",
         "gw": 73,
         "total": 465,
         "move": 1
+      },
+      {
+        "mgr": "Hitesh Singh",
+        "team": "Not Too Xabi",
+        "gw": 72,
+        "total": 465,
+        "move": 0
       },
       {
         "mgr": "Prakash Mahtani",
