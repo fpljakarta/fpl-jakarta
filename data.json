@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T12:45:44.920Z",
+  "updated": "2026-10-22T17:48:09.853Z",
   "standings": {
     "main": [
       {
@@ -38,15 +38,15 @@
         "move": 4
       },
       {
-        "mgr": "Draking Ngaditono",
-        "team": "Enerzy",
+        "mgr": "Akshay Melwani",
+        "team": "Test",
         "gw": 79,
         "total": 517,
         "move": 6
       },
       {
-        "mgr": "Akshay Melwani",
-        "team": "Test",
+        "mgr": "Draking Ngaditono",
+        "team": "Enerzy",
         "gw": 79,
         "total": 517,
         "move": 6
@@ -136,6 +136,13 @@
         "move": -5
       },
       {
+        "mgr": "Sagar Paleja",
+        "team": "Jai Shree Krishna",
+        "gw": 73,
+        "total": 497,
+        "move": 1
+      },
+      {
         "mgr": "Prashan Harjani",
         "team": "Pineapple Delight",
         "gw": 92,
@@ -148,13 +155,6 @@
         "gw": 68,
         "total": 497,
         "move": -2
-      },
-      {
-        "mgr": "Sagar Paleja",
-        "team": "Jai Shree Krishna",
-        "gw": 73,
-        "total": 497,
-        "move": 1
       },
       {
         "mgr": "Nikk Kadbet",
@@ -474,18 +474,18 @@
         "move": -1
       },
       {
-        "mgr": "Sagar Paleja",
-        "team": "Jai Shree Krishna",
-        "gw": 73,
-        "total": 497,
-        "move": 1
-      },
-      {
         "mgr": "Prashan Harjani",
         "team": "Pineapple Delight",
         "gw": 92,
         "total": 497,
         "move": 8
+      },
+      {
+        "mgr": "Sagar Paleja",
+        "team": "Jai Shree Krishna",
+        "gw": 73,
+        "total": 497,
+        "move": 1
       },
       {
         "mgr": "Nikk Kadbet",
@@ -643,8 +643,8 @@
     {
       "gw": 4,
       "pts": 105,
-      "winner": "Draking Ngaditono",
-      "team": "Enerzy"
+      "winner": "Akshay Melwani",
+      "team": "Test"
     },
     {
       "gw": 3,
