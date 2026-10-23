@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T00:19:35.960Z",
+  "updated": "2026-10-23T05:38:40.540Z",
   "standings": {
     "main": [
       {
@@ -38,15 +38,15 @@
         "move": 4
       },
       {
-        "mgr": "Akshay Melwani",
-        "team": "Test",
+        "mgr": "Draking Ngaditono",
+        "team": "Enerzy",
         "gw": 79,
         "total": 517,
         "move": 6
       },
       {
-        "mgr": "Draking Ngaditono",
-        "team": "Enerzy",
+        "mgr": "Akshay Melwani",
+        "team": "Test",
         "gw": 79,
         "total": 517,
         "move": 6
@@ -73,18 +73,18 @@
         "move": 1
       },
       {
-        "mgr": "Prashant Chainani",
-        "team": "HighOnHouse",
-        "gw": 67,
-        "total": 512,
-        "move": -5
-      },
-      {
         "mgr": "Paras Lalwani",
         "team": "FC Pain Chaud",
         "gw": 68,
         "total": 512,
         "move": -3
+      },
+      {
+        "mgr": "Prashant Chainani",
+        "team": "HighOnHouse",
+        "gw": 67,
+        "total": 512,
+        "move": -5
       },
       {
         "mgr": "Rahul Nanwani",
@@ -467,13 +467,6 @@
         "move": -2
       },
       {
-        "mgr": "Sanjay Morani",
-        "team": "Xisco Inferno FC",
-        "gw": 68,
-        "total": 497,
-        "move": -1
-      },
-      {
         "mgr": "Sagar Paleja",
         "team": "Jai Shree Krishna",
         "gw": 73,
@@ -486,6 +479,13 @@
         "gw": 92,
         "total": 497,
         "move": 8
+      },
+      {
+        "mgr": "Sanjay Morani",
+        "team": "Xisco Inferno FC",
+        "gw": 68,
+        "total": 497,
+        "move": -1
       },
       {
         "mgr": "Nikk Kadbet",
@@ -643,8 +643,8 @@
     {
       "gw": 4,
       "pts": 105,
-      "winner": "Akshay Melwani",
-      "team": "Test"
+      "winner": "Draking Ngaditono",
+      "team": "Enerzy"
     },
     {
       "gw": 3,
