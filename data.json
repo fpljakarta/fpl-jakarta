@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T21:04:13.401Z",
+  "updated": "2026-10-23T00:19:35.960Z",
   "standings": {
     "main": [
       {
@@ -73,18 +73,18 @@
         "move": 1
       },
       {
-        "mgr": "Paras Lalwani",
-        "team": "FC Pain Chaud",
-        "gw": 68,
-        "total": 512,
-        "move": -3
-      },
-      {
         "mgr": "Prashant Chainani",
         "team": "HighOnHouse",
         "gw": 67,
         "total": 512,
         "move": -5
+      },
+      {
+        "mgr": "Paras Lalwani",
+        "team": "FC Pain Chaud",
+        "gw": 68,
+        "total": 512,
+        "move": -3
       },
       {
         "mgr": "Rahul Nanwani",
@@ -143,18 +143,18 @@
         "move": 1
       },
       {
-        "mgr": "Sanjay Morani",
-        "team": "Xisco Inferno FC",
-        "gw": 68,
-        "total": 497,
-        "move": -2
-      },
-      {
         "mgr": "Prashan Harjani",
         "team": "Pineapple Delight",
         "gw": 92,
         "total": 497,
         "move": 13
+      },
+      {
+        "mgr": "Sanjay Morani",
+        "team": "Xisco Inferno FC",
+        "gw": 68,
+        "total": 497,
+        "move": -2
       },
       {
         "mgr": "Nikk Kadbet",
