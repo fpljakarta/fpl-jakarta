@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T19:42:01.470Z",
+  "updated": "2026-10-23T22:48:48.829Z",
   "standings": {
     "main": [
       {
@@ -12,8 +12,8 @@
       {
         "mgr": "Xerxis Desai",
         "team": "Bay City Ballers",
-        "gw": 1,
-        "total": 530,
+        "gw": 2,
+        "total": 531,
         "move": 0
       },
       {
@@ -101,25 +101,25 @@
         "move": 5
       },
       {
+        "mgr": "Indar Dhaliwal",
+        "team": "Daylight Brobbery",
+        "gw": 2,
+        "total": 502,
+        "move": 5
+      },
+      {
         "mgr": "Sherwin Lee",
         "team": "soteriapsalms",
         "gw": 0,
         "total": 501,
-        "move": 2
-      },
-      {
-        "mgr": "Indar Dhaliwal",
-        "team": "Daylight Brobbery",
-        "gw": 1,
-        "total": 501,
-        "move": 5
+        "move": 1
       },
       {
         "mgr": "Gautam Vassanmal",
         "team": "GV9",
-        "gw": 1,
-        "total": 500,
-        "move": -1
+        "gw": 2,
+        "total": 501,
+        "move": 0
       },
       {
         "mgr": "Rishabh Mehta",
@@ -171,18 +171,18 @@
         "move": -3
       },
       {
+        "mgr": "Win Win",
+        "team": "Kalimasada FC",
+        "gw": 2,
+        "total": 487,
+        "move": 9
+      },
+      {
         "mgr": "Jonathan Lobo",
         "team": "Jonathan's Team",
         "gw": 0,
         "total": 487,
-        "move": 11
-      },
-      {
-        "mgr": "Win Win",
-        "team": "Kalimasada FC",
-        "gw": 1,
-        "total": 486,
-        "move": 8
+        "move": 10
       },
       {
         "mgr": "Abhishek Keswani",
@@ -213,24 +213,24 @@
         "move": 9
       },
       {
+        "mgr": "Edward Angkasa",
+        "team": "Juvenalis",
+        "gw": 2,
+        "total": 481,
+        "move": -4
+      },
+      {
         "mgr": "Kevin Raymond",
         "team": "Gunners United",
         "gw": 1,
         "total": 481,
-        "move": -3
-      },
-      {
-        "mgr": "Edward Angkasa",
-        "team": "Juvenalis",
-        "gw": 1,
-        "total": 480,
-        "move": -5
+        "move": -4
       },
       {
         "mgr": "Ajay Yeleswaram",
         "team": "Relegated",
-        "gw": 1,
-        "total": 479,
+        "gw": 2,
+        "total": 480,
         "move": -10
       },
       {
@@ -243,8 +243,8 @@
       {
         "mgr": "Nitin Nathani",
         "team": "Untouchables",
-        "gw": 1,
-        "total": 475,
+        "gw": 2,
+        "total": 476,
         "move": 2
       },
       {
@@ -278,9 +278,9 @@
       {
         "mgr": "Rachman Witarlan",
         "team": "FC Milanello",
-        "gw": 1,
-        "total": 466,
-        "move": 2
+        "gw": 2,
+        "total": 467,
+        "move": 3
       },
       {
         "mgr": "Joanda Febrian",
@@ -355,15 +355,15 @@
       {
         "mgr": "Lavesh Punjabi",
         "team": "Punjabi United",
-        "gw": 1,
-        "total": 441,
+        "gw": 2,
+        "total": 442,
         "move": 5
       },
       {
         "mgr": "Anoop Vaswani",
         "team": "Beer Kings",
-        "gw": 16,
-        "total": 432,
+        "gw": 15,
+        "total": 431,
         "move": -3
       },
       {
@@ -376,8 +376,8 @@
       {
         "mgr": "joachim chia",
         "team": "brotatogyokeres",
-        "gw": 1,
-        "total": 426,
+        "gw": 2,
+        "total": 427,
         "move": -4
       },
       {
@@ -397,8 +397,8 @@
       {
         "mgr": "Jasvin Seera",
         "team": "Seera Squad",
-        "gw": 6,
-        "total": 418,
+        "gw": 7,
+        "total": 419,
         "move": 1
       },
       {
@@ -427,8 +427,8 @@
       {
         "mgr": "Xerxis Desai",
         "team": "Bay City Ballers",
-        "gw": 1,
-        "total": 530,
+        "gw": 2,
+        "total": 531,
         "move": 0
       },
       {
@@ -462,9 +462,9 @@
       {
         "mgr": "Gautam Vassanmal",
         "team": "GV9",
-        "gw": 1,
-        "total": 500,
-        "move": -2
+        "gw": 2,
+        "total": 501,
+        "move": -1
       },
       {
         "mgr": "Prashan Harjani",
@@ -525,8 +525,8 @@
       {
         "mgr": "Edward Angkasa",
         "team": "Juvenalis",
-        "gw": 1,
-        "total": 480,
+        "gw": 2,
+        "total": 481,
         "move": -2
       },
       {
@@ -581,15 +581,15 @@
       {
         "mgr": "Lavesh Punjabi",
         "team": "Punjabi United",
-        "gw": 1,
-        "total": 441,
+        "gw": 2,
+        "total": 442,
         "move": 1
       },
       {
         "mgr": "joachim chia",
         "team": "brotatogyokeres",
-        "gw": 1,
-        "total": 426,
+        "gw": 2,
+        "total": 427,
         "move": -2
       },
       {
