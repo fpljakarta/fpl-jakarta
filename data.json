@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T20:15:09.038Z",
+  "updated": "2026-10-25T22:58:07.261Z",
   "standings": {
     "main": [
       {
@@ -215,8 +215,8 @@
       {
         "mgr": "Charles Lesmana",
         "team": "Les Intouchables",
-        "gw": 55,
-        "total": 525,
+        "gw": 54,
+        "total": 524,
         "move": 6
       },
       {
@@ -283,18 +283,18 @@
         "move": 1
       },
       {
-        "mgr": "Amrit Lakhiani",
-        "team": "Pomfriterole FC",
-        "gw": 61,
-        "total": 505,
-        "move": 7
-      },
-      {
         "mgr": "Rayan Hamza",
         "team": "Zarks",
         "gw": 38,
         "total": 505,
-        "move": -2
+        "move": -1
+      },
+      {
+        "mgr": "Amrit Lakhiani",
+        "team": "Pomfriterole FC",
+        "gw": 60,
+        "total": 504,
+        "move": 6
       },
       {
         "mgr": "Rachman Witarlan",
@@ -348,8 +348,8 @@
       {
         "mgr": "Jeremy Oberoi",
         "team": "Next Season FC",
-        "gw": 61,
-        "total": 485,
+        "gw": 63,
+        "total": 487,
         "move": 4
       },
       {
@@ -390,8 +390,8 @@
       {
         "mgr": "Sagar Sadarangani",
         "team": "cole me palmer",
-        "gw": 39,
-        "total": 461,
+        "gw": 40,
+        "total": 462,
         "move": -1
       },
       {
@@ -411,8 +411,8 @@
       {
         "mgr": "Gaurav Yadav",
         "team": "Quantom of Tzolis",
-        "gw": 31,
-        "total": 420,
+        "gw": 33,
+        "total": 422,
         "move": 0
       }
     ],
@@ -518,8 +518,8 @@
       {
         "mgr": "Charles Lesmana",
         "team": "Les Intouchables",
-        "gw": 55,
-        "total": 525,
+        "gw": 54,
+        "total": 524,
         "move": 2
       },
       {
@@ -553,8 +553,8 @@
       {
         "mgr": "Amrit Lakhiani",
         "team": "Pomfriterole FC",
-        "gw": 61,
-        "total": 505,
+        "gw": 60,
+        "total": 504,
         "move": 3
       },
       {
@@ -595,8 +595,8 @@
       {
         "mgr": "Gaurav Yadav",
         "team": "Quantom of Tzolis",
-        "gw": 31,
-        "total": 420,
+        "gw": 33,
+        "total": 422,
         "move": 0
       }
     ]
