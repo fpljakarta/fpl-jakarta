@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T14:44:26.808Z",
+  "updated": "2026-10-26T20:14:51.205Z",
   "standings": {
     "main": [
       {
@@ -304,18 +304,18 @@
         "move": -5
       },
       {
-        "mgr": "Prakash Mahtani",
-        "team": "400K Redemption Arc",
-        "gw": 41,
-        "total": 504,
-        "move": -1
-      },
-      {
         "mgr": "Amrit Lakhiani",
         "team": "Pomfriterole FC",
         "gw": 60,
         "total": 504,
         "move": 4
+      },
+      {
+        "mgr": "Prakash Mahtani",
+        "team": "400K Redemption Arc",
+        "gw": 41,
+        "total": 504,
+        "move": -1
       },
       {
         "mgr": "Mohit Mirpuri",
@@ -551,18 +551,18 @@
         "move": -1
       },
       {
-        "mgr": "Prakash Mahtani",
-        "team": "400K Redemption Arc",
-        "gw": 41,
-        "total": 504,
-        "move": -1
-      },
-      {
         "mgr": "Amrit Lakhiani",
         "team": "Pomfriterole FC",
         "gw": 60,
         "total": 504,
         "move": 3
+      },
+      {
+        "mgr": "Prakash Mahtani",
+        "team": "400K Redemption Arc",
+        "gw": 41,
+        "total": 504,
+        "move": -1
       },
       {
         "mgr": "Mohit Mirpuri",
@@ -622,6 +622,12 @@
     null
   ],
   "motw": [
+    {
+      "gw": 8,
+      "pts": 76,
+      "winner": "Jasvin Seera",
+      "team": "Seera Squad"
+    },
     {
       "gw": 7,
       "pts": 92,
