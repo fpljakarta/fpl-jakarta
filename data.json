@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T22:58:07.261Z",
+  "updated": "2026-10-26T01:01:16.397Z",
   "standings": {
     "main": [
       {
@@ -38,15 +38,15 @@
         "move": -3
       },
       {
-        "mgr": "Akshay Melwani",
-        "team": "Test",
+        "mgr": "Draking Ngaditono",
+        "team": "Enerzy",
         "gw": 47,
         "total": 564,
         "move": 0
       },
       {
-        "mgr": "Draking Ngaditono",
-        "team": "Enerzy",
+        "mgr": "Akshay Melwani",
+        "team": "Test",
         "gw": 47,
         "total": 564,
         "move": 0
@@ -643,8 +643,8 @@
     {
       "gw": 4,
       "pts": 105,
-      "winner": "Akshay Melwani",
-      "team": "Test"
+      "winner": "Draking Ngaditono",
+      "team": "Enerzy"
     },
     {
       "gw": 3,
