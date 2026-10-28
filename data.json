@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T06:30:00.462Z",
+  "updated": "2026-10-28T13:42:48.118Z",
   "standings": {
     "main": [
       {
@@ -129,18 +129,18 @@
         "move": 8
       },
       {
-        "mgr": "Indar Dhaliwal",
-        "team": "Daylight Brobbery",
-        "gw": 38,
-        "total": 538,
-        "move": -3
-      },
-      {
         "mgr": "Gautam Vassanmal",
         "team": "GV9",
         "gw": 39,
         "total": 538,
         "move": -1
+      },
+      {
+        "mgr": "Indar Dhaliwal",
+        "team": "Daylight Brobbery",
+        "gw": 38,
+        "total": 538,
+        "move": -3
       },
       {
         "mgr": "Rohan Kalwani",
