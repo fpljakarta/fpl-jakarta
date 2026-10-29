@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T17:14:07.823Z",
+  "updated": "2026-10-29T22:17:15.316Z",
   "standings": {
     "main": [
       {
@@ -551,18 +551,18 @@
         "move": -1
       },
       {
-        "mgr": "Amrit Lakhiani",
-        "team": "Pomfriterole FC",
-        "gw": 60,
-        "total": 504,
-        "move": 3
-      },
-      {
         "mgr": "Prakash Mahtani",
         "team": "400K Redemption Arc",
         "gw": 41,
         "total": 504,
         "move": -1
+      },
+      {
+        "mgr": "Amrit Lakhiani",
+        "team": "Pomfriterole FC",
+        "gw": 60,
+        "total": 504,
+        "move": 3
       },
       {
         "mgr": "Mohit Mirpuri",
