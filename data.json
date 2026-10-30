@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T16:25:15.071Z",
+  "updated": "2026-10-30T21:17:36.974Z",
   "standings": {
     "main": [
       {
@@ -129,18 +129,18 @@
         "move": 8
       },
       {
-        "mgr": "Gautam Vassanmal",
-        "team": "GV9",
-        "gw": 39,
-        "total": 538,
-        "move": -1
-      },
-      {
         "mgr": "Indar Dhaliwal",
         "team": "Daylight Brobbery",
         "gw": 38,
         "total": 538,
         "move": -3
+      },
+      {
+        "mgr": "Gautam Vassanmal",
+        "team": "GV9",
+        "gw": 39,
+        "total": 538,
+        "move": -1
       },
       {
         "mgr": "Rohan Kalwani",
@@ -304,18 +304,18 @@
         "move": -5
       },
       {
-        "mgr": "Prakash Mahtani",
-        "team": "400K Redemption Arc",
-        "gw": 41,
-        "total": 504,
-        "move": -1
-      },
-      {
         "mgr": "Amrit Lakhiani",
         "team": "Pomfriterole FC",
         "gw": 60,
         "total": 504,
         "move": 4
+      },
+      {
+        "mgr": "Prakash Mahtani",
+        "team": "400K Redemption Arc",
+        "gw": 41,
+        "total": 504,
+        "move": -1
       },
       {
         "mgr": "Mohit Mirpuri",
