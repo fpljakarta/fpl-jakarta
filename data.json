@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T02:18:54.785Z",
+  "updated": "2026-10-30T09:24:19.772Z",
   "standings": {
     "main": [
       {
@@ -31,15 +31,15 @@
         "move": -1
       },
       {
-        "mgr": "Akshay Melwani",
-        "team": "Test",
+        "mgr": "Draking Ngaditono",
+        "team": "Enerzy",
         "gw": 48,
         "total": 565,
         "move": 1
       },
       {
-        "mgr": "Draking Ngaditono",
-        "team": "Enerzy",
+        "mgr": "Akshay Melwani",
+        "team": "Test",
         "gw": 48,
         "total": 565,
         "move": 1
@@ -551,18 +551,18 @@
         "move": -1
       },
       {
-        "mgr": "Amrit Lakhiani",
-        "team": "Pomfriterole FC",
-        "gw": 60,
-        "total": 504,
-        "move": 3
-      },
-      {
         "mgr": "Prakash Mahtani",
         "team": "400K Redemption Arc",
         "gw": 41,
         "total": 504,
         "move": -1
+      },
+      {
+        "mgr": "Amrit Lakhiani",
+        "team": "Pomfriterole FC",
+        "gw": 60,
+        "total": 504,
+        "move": 3
       },
       {
         "mgr": "Mohit Mirpuri",
@@ -649,8 +649,8 @@
     {
       "gw": 4,
       "pts": 105,
-      "winner": "Akshay Melwani",
-      "team": "Test"
+      "winner": "Draking Ngaditono",
+      "team": "Enerzy"
     },
     {
       "gw": 3,
