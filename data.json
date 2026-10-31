@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T01:19:33.902Z",
+  "updated": "2026-10-31T07:51:29.337Z",
   "standings": {
     "main": [
       {
@@ -129,18 +129,18 @@
         "move": 8
       },
       {
-        "mgr": "Gautam Vassanmal",
-        "team": "GV9",
-        "gw": 39,
-        "total": 538,
-        "move": -1
-      },
-      {
         "mgr": "Indar Dhaliwal",
         "team": "Daylight Brobbery",
         "gw": 38,
         "total": 538,
         "move": -3
+      },
+      {
+        "mgr": "Gautam Vassanmal",
+        "team": "GV9",
+        "gw": 39,
+        "total": 538,
+        "move": -1
       },
       {
         "mgr": "Rohan Kalwani",
@@ -304,18 +304,18 @@
         "move": -5
       },
       {
-        "mgr": "Amrit Lakhiani",
-        "team": "Pomfriterole FC",
-        "gw": 60,
-        "total": 504,
-        "move": 4
-      },
-      {
         "mgr": "Prakash Mahtani",
         "team": "400K Redemption Arc",
         "gw": 41,
         "total": 504,
         "move": -1
+      },
+      {
+        "mgr": "Amrit Lakhiani",
+        "team": "Pomfriterole FC",
+        "gw": 60,
+        "total": 504,
+        "move": 4
       },
       {
         "mgr": "Mohit Mirpuri",
@@ -551,18 +551,18 @@
         "move": -1
       },
       {
-        "mgr": "Amrit Lakhiani",
-        "team": "Pomfriterole FC",
-        "gw": 60,
-        "total": 504,
-        "move": 3
-      },
-      {
         "mgr": "Prakash Mahtani",
         "team": "400K Redemption Arc",
         "gw": 41,
         "total": 504,
         "move": -1
+      },
+      {
+        "mgr": "Amrit Lakhiani",
+        "team": "Pomfriterole FC",
+        "gw": 60,
+        "total": 504,
+        "move": 3
       },
       {
         "mgr": "Mohit Mirpuri",
