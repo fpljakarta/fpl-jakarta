@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T21:17:36.974Z",
+  "updated": "2026-10-31T01:19:33.902Z",
   "standings": {
     "main": [
       {
@@ -31,15 +31,15 @@
         "move": -1
       },
       {
-        "mgr": "Akshay Melwani",
-        "team": "Test",
+        "mgr": "Draking Ngaditono",
+        "team": "Enerzy",
         "gw": 48,
         "total": 565,
         "move": 1
       },
       {
-        "mgr": "Draking Ngaditono",
-        "team": "Enerzy",
+        "mgr": "Akshay Melwani",
+        "team": "Test",
         "gw": 48,
         "total": 565,
         "move": 1
@@ -129,18 +129,18 @@
         "move": 8
       },
       {
-        "mgr": "Indar Dhaliwal",
-        "team": "Daylight Brobbery",
-        "gw": 38,
-        "total": 538,
-        "move": -3
-      },
-      {
         "mgr": "Gautam Vassanmal",
         "team": "GV9",
         "gw": 39,
         "total": 538,
         "move": -1
+      },
+      {
+        "mgr": "Indar Dhaliwal",
+        "team": "Daylight Brobbery",
+        "gw": 38,
+        "total": 538,
+        "move": -3
       },
       {
         "mgr": "Rohan Kalwani",
@@ -649,8 +649,8 @@
     {
       "gw": 4,
       "pts": 105,
-      "winner": "Akshay Melwani",
-      "team": "Test"
+      "winner": "Draking Ngaditono",
+      "team": "Enerzy"
     },
     {
       "gw": 3,
