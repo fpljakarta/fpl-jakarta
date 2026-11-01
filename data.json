@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T08:32:02.862Z",
+  "updated": "2026-11-01T15:39:41.644Z",
   "standings": {
     "main": [
       {
@@ -17,18 +17,18 @@
         "move": 10
       },
       {
-        "mgr": "Siddarth Kaul",
-        "team": "sidskids",
-        "gw": 56,
-        "total": 625,
-        "move": 1
-      },
-      {
         "mgr": "Neel Dadlani",
         "team": "NDFC",
         "gw": 50,
         "total": 625,
         "move": 0
+      },
+      {
+        "mgr": "Siddarth Kaul",
+        "team": "sidskids",
+        "gw": 56,
+        "total": 625,
+        "move": 1
       },
       {
         "mgr": "Bharat Lakhwani",
@@ -38,15 +38,15 @@
         "move": -3
       },
       {
-        "mgr": "Akshay Melwani",
-        "team": "Test",
+        "mgr": "Draking Ngaditono",
+        "team": "Enerzy",
         "gw": 49,
         "total": 614,
         "move": -1
       },
       {
-        "mgr": "Draking Ngaditono",
-        "team": "Enerzy",
+        "mgr": "Akshay Melwani",
+        "team": "Test",
         "gw": 49,
         "total": 614,
         "move": -1
@@ -649,8 +649,8 @@
     {
       "gw": 4,
       "pts": 105,
-      "winner": "Akshay Melwani",
-      "team": "Test"
+      "winner": "Draking Ngaditono",
+      "team": "Enerzy"
     },
     {
       "gw": 3,
