@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T22:19:14.844Z",
+  "updated": "2026-11-01T01:45:08.516Z",
   "standings": {
     "main": [
       {
@@ -17,18 +17,18 @@
         "move": 10
       },
       {
-        "mgr": "Siddarth Kaul",
-        "team": "sidskids",
-        "gw": 56,
-        "total": 625,
-        "move": 1
-      },
-      {
         "mgr": "Neel Dadlani",
         "team": "NDFC",
         "gw": 50,
         "total": 625,
         "move": 0
+      },
+      {
+        "mgr": "Siddarth Kaul",
+        "team": "sidskids",
+        "gw": 56,
+        "total": 625,
+        "move": 1
       },
       {
         "mgr": "Bharat Lakhwani",
@@ -171,25 +171,25 @@
         "move": 4
       },
       {
-        "mgr": "Kunal Manwani",
-        "team": "Kloppite_6",
-        "gw": 49,
-        "total": 578,
-        "move": 6
-      },
-      {
         "mgr": "Nitin Nathani",
         "team": "Untouchables",
         "gw": 44,
         "total": 577,
-        "move": 1
+        "move": 2
+      },
+      {
+        "mgr": "Kunal Manwani",
+        "team": "Kloppite_6",
+        "gw": 47,
+        "total": 576,
+        "move": 5
       },
       {
         "mgr": "Rishabh Mehta",
         "team": "PepMasterclass",
         "gw": 30,
         "total": 576,
-        "move": -12
+        "move": -11
       },
       {
         "mgr": "Sagar Paleja",
@@ -199,18 +199,18 @@
         "move": -5
       },
       {
-        "mgr": "Dayne De Melo",
-        "team": "Gross Misconduct",
-        "gw": 53,
-        "total": 574,
-        "move": 4
-      },
-      {
         "mgr": "Kevin Raymond",
         "team": "Gunners United",
         "gw": 35,
         "total": 574,
         "move": -11
+      },
+      {
+        "mgr": "Dayne De Melo",
+        "team": "Gross Misconduct",
+        "gw": 53,
+        "total": 574,
+        "move": 4
       },
       {
         "mgr": "Sherwin Lee",
@@ -276,18 +276,18 @@
         "move": 1
       },
       {
-        "mgr": "Deepu Narwani",
-        "team": "FC BOSS THA",
-        "gw": 58,
-        "total": 560,
-        "move": 3
-      },
-      {
         "mgr": "Prakash Mahtani",
         "team": "400K Redemption Arc",
         "gw": 56,
         "total": 560,
         "move": 4
+      },
+      {
+        "mgr": "Deepu Narwani",
+        "team": "FC BOSS THA",
+        "gw": 58,
+        "total": 560,
+        "move": 3
       },
       {
         "mgr": "Jevesh Vatvani",
@@ -348,8 +348,8 @@
       {
         "mgr": "Karan Khosla",
         "team": "Jinja's Safari",
-        "gw": 44,
-        "total": 537,
+        "gw": 42,
+        "total": 535,
         "move": -3
       },
       {
@@ -490,8 +490,8 @@
       {
         "mgr": "Kunal Manwani",
         "team": "Kloppite_6",
-        "gw": 49,
-        "total": 578,
+        "gw": 47,
+        "total": 576,
         "move": 3
       },
       {
@@ -581,8 +581,8 @@
       {
         "mgr": "Karan Khosla",
         "team": "Jinja's Safari",
-        "gw": 44,
-        "total": 537,
+        "gw": 42,
+        "total": 535,
         "move": -1
       },
       {
