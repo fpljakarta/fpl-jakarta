@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T01:45:08.516Z",
+  "updated": "2026-11-01T08:32:02.862Z",
   "standings": {
     "main": [
       {
@@ -17,18 +17,18 @@
         "move": 10
       },
       {
-        "mgr": "Neel Dadlani",
-        "team": "NDFC",
-        "gw": 50,
-        "total": 625,
-        "move": 0
-      },
-      {
         "mgr": "Siddarth Kaul",
         "team": "sidskids",
         "gw": 56,
         "total": 625,
         "move": 1
+      },
+      {
+        "mgr": "Neel Dadlani",
+        "team": "NDFC",
+        "gw": 50,
+        "total": 625,
+        "move": 0
       },
       {
         "mgr": "Bharat Lakhwani",
@@ -178,18 +178,18 @@
         "move": 2
       },
       {
-        "mgr": "Kunal Manwani",
-        "team": "Kloppite_6",
-        "gw": 47,
-        "total": 576,
-        "move": 5
-      },
-      {
         "mgr": "Rishabh Mehta",
         "team": "PepMasterclass",
         "gw": 30,
         "total": 576,
         "move": -11
+      },
+      {
+        "mgr": "Kunal Manwani",
+        "team": "Kloppite_6",
+        "gw": 47,
+        "total": 576,
+        "move": 5
       },
       {
         "mgr": "Sagar Paleja",
@@ -199,18 +199,18 @@
         "move": -5
       },
       {
-        "mgr": "Kevin Raymond",
-        "team": "Gunners United",
-        "gw": 35,
-        "total": 574,
-        "move": -11
-      },
-      {
         "mgr": "Dayne De Melo",
         "team": "Gross Misconduct",
         "gw": 53,
         "total": 574,
         "move": 4
+      },
+      {
+        "mgr": "Kevin Raymond",
+        "team": "Gunners United",
+        "gw": 35,
+        "total": 574,
+        "move": -11
       },
       {
         "mgr": "Sherwin Lee",
