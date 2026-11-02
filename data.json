@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T07:02:23.069Z",
+  "updated": "2026-11-02T17:39:42.241Z",
   "standings": {
     "main": [
       {
@@ -87,18 +87,18 @@
         "move": -1
       },
       {
-        "mgr": "S M",
-        "team": "I Know Nothing",
-        "gw": 49,
-        "total": 607,
-        "move": 0
-      },
-      {
         "mgr": "Xerxis Desai",
         "team": "Bay City Ballers",
         "gw": 43,
         "total": 607,
         "move": -6
+      },
+      {
+        "mgr": "S M",
+        "team": "I Know Nothing",
+        "gw": 49,
+        "total": 607,
+        "move": 0
       },
       {
         "mgr": "Nikk Kadbet",
