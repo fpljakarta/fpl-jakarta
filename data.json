@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T00:18:30.214Z",
+  "updated": "2026-11-03T07:26:59.033Z",
   "standings": {
     "main": [
       {
@@ -26,8 +26,8 @@
       {
         "mgr": "Bharat Lakhwani",
         "team": "Bpl",
-        "gw": 61,
-        "total": 637,
+        "gw": 62,
+        "total": 638,
         "move": -2
       },
       {
@@ -45,15 +45,15 @@
         "move": 4
       },
       {
-        "mgr": "Akshay Melwani",
-        "team": "Test",
+        "mgr": "Draking Ngaditono",
+        "team": "Enerzy",
         "gw": 63,
         "total": 628,
         "move": -2
       },
       {
-        "mgr": "Draking Ngaditono",
-        "team": "Enerzy",
+        "mgr": "Akshay Melwani",
+        "team": "Test",
         "gw": 63,
         "total": 628,
         "move": -2
@@ -115,18 +115,18 @@
         "move": 16
       },
       {
-        "mgr": "Vishal Lakhiani",
-        "team": "Vish Fish",
-        "gw": 67,
-        "total": 602,
-        "move": 8
-      },
-      {
         "mgr": "Hitesh Mahbubani",
         "team": "Goalbusters",
         "gw": 65,
         "total": 602,
         "move": 5
+      },
+      {
+        "mgr": "Vishal Lakhiani",
+        "team": "Vish Fish",
+        "gw": 67,
+        "total": 602,
+        "move": 8
       },
       {
         "mgr": "Prashan Harjani",
@@ -649,8 +649,8 @@
     {
       "gw": 4,
       "pts": 105,
-      "winner": "Akshay Melwani",
-      "team": "Test"
+      "winner": "Draking Ngaditono",
+      "team": "Enerzy"
     },
     {
       "gw": 3,
