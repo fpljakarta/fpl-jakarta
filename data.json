@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T21:24:24.481Z",
+  "updated": "2026-11-04T01:48:01.591Z",
   "standings": {
     "main": [
       {
@@ -17,11 +17,11 @@
         "move": 2
       },
       {
-        "mgr": "Suraj Topandasani",
-        "team": "Londonal FC",
-        "gw": 78,
+        "mgr": "Akshay Melwani",
+        "team": "Test",
+        "gw": 73,
         "total": 638,
-        "move": 9
+        "move": 2
       },
       {
         "mgr": "Draking Ngaditono",
@@ -31,11 +31,11 @@
         "move": 2
       },
       {
-        "mgr": "Akshay Melwani",
-        "team": "Test",
-        "gw": 73,
+        "mgr": "Suraj Topandasani",
+        "team": "Londonal FC",
+        "gw": 78,
         "total": 638,
-        "move": 2
+        "move": 9
       },
       {
         "mgr": "Bharat Lakhwani",
@@ -659,8 +659,8 @@
     {
       "gw": 4,
       "pts": 105,
-      "winner": "Draking Ngaditono",
-      "team": "Enerzy"
+      "winner": "Akshay Melwani",
+      "team": "Test"
     },
     {
       "gw": 3,
