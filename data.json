@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T18:26:13.045Z",
+  "updated": "2026-11-05T23:54:49.866Z",
   "standings": {
     "main": [
       {
@@ -24,18 +24,18 @@
         "move": 2
       },
       {
-        "mgr": "Akshay Melwani",
-        "team": "Test",
-        "gw": 73,
-        "total": 638,
-        "move": 2
-      },
-      {
         "mgr": "Suraj Topandasani",
         "team": "Londonal FC",
         "gw": 78,
         "total": 638,
         "move": 9
+      },
+      {
+        "mgr": "Akshay Melwani",
+        "team": "Test",
+        "gw": 73,
+        "total": 638,
+        "move": 2
       },
       {
         "mgr": "Bharat Lakhwani",
@@ -115,18 +115,18 @@
         "move": 16
       },
       {
-        "mgr": "Vishal Lakhiani",
-        "team": "Vish Fish",
-        "gw": 67,
-        "total": 602,
-        "move": 8
-      },
-      {
         "mgr": "Hitesh Mahbubani",
         "team": "Goalbusters",
         "gw": 65,
         "total": 602,
         "move": 5
+      },
+      {
+        "mgr": "Vishal Lakhiani",
+        "team": "Vish Fish",
+        "gw": 67,
+        "total": 602,
+        "move": 8
       },
       {
         "mgr": "Prashan Harjani",
@@ -290,18 +290,18 @@
         "move": 1
       },
       {
-        "mgr": "Prakash Mahtani",
-        "team": "400K Redemption Arc",
-        "gw": 60,
-        "total": 564,
-        "move": 2
-      },
-      {
         "mgr": "Hitesh Singh",
         "team": "Not Too Xabi",
         "gw": 53,
         "total": 564,
         "move": -2
+      },
+      {
+        "mgr": "Prakash Mahtani",
+        "team": "400K Redemption Arc",
+        "gw": 60,
+        "total": 564,
+        "move": 2
       },
       {
         "mgr": "Amrit Lakhiani",
