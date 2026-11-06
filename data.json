@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T04:38:35.854Z",
+  "updated": "2026-11-06T12:38:53.734Z",
   "standings": {
     "main": [
       {
@@ -17,6 +17,13 @@
         "move": 2
       },
       {
+        "mgr": "Suraj Topandasani",
+        "team": "Londonal FC",
+        "gw": 78,
+        "total": 638,
+        "move": 9
+      },
+      {
         "mgr": "Draking Ngaditono",
         "team": "Enerzy",
         "gw": 73,
@@ -29,13 +36,6 @@
         "gw": 73,
         "total": 638,
         "move": 2
-      },
-      {
-        "mgr": "Suraj Topandasani",
-        "team": "Londonal FC",
-        "gw": 78,
-        "total": 638,
-        "move": 9
       },
       {
         "mgr": "Bharat Lakhwani",
@@ -290,18 +290,18 @@
         "move": 1
       },
       {
-        "mgr": "Hitesh Singh",
-        "team": "Not Too Xabi",
-        "gw": 53,
-        "total": 564,
-        "move": -2
-      },
-      {
         "mgr": "Prakash Mahtani",
         "team": "400K Redemption Arc",
         "gw": 60,
         "total": 564,
         "move": 2
+      },
+      {
+        "mgr": "Hitesh Singh",
+        "team": "Not Too Xabi",
+        "gw": 53,
+        "total": 564,
+        "move": -2
       },
       {
         "mgr": "Amrit Lakhiani",
