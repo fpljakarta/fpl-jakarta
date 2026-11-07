@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T04:03:36.911Z",
+  "updated": "2026-11-07T11:25:55.156Z",
   "standings": {
     "main": [
       {
@@ -10,15 +10,15 @@
         "move": 0
       },
       {
-        "mgr": "Draking Ngaditono",
-        "team": "Enerzy",
+        "mgr": "Akshay Melwani",
+        "team": "Test",
         "gw": 16,
         "total": 654,
         "move": 1
       },
       {
-        "mgr": "Akshay Melwani",
-        "team": "Test",
+        "mgr": "Draking Ngaditono",
+        "team": "Enerzy",
         "gw": 16,
         "total": 654,
         "move": 1
@@ -290,15 +290,15 @@
         "move": 0
       },
       {
-        "mgr": "Hitesh Singh",
-        "team": "Not Too Xabi",
+        "mgr": "Prakash Mahtani",
+        "team": "400K Redemption Arc",
         "gw": 0,
         "total": 564,
         "move": 0
       },
       {
-        "mgr": "Prakash Mahtani",
-        "team": "400K Redemption Arc",
+        "mgr": "Hitesh Singh",
+        "team": "Not Too Xabi",
         "gw": 0,
         "total": 564,
         "move": 0
@@ -659,8 +659,8 @@
     {
       "gw": 4,
       "pts": 105,
-      "winner": "Draking Ngaditono",
-      "team": "Enerzy"
+      "winner": "Akshay Melwani",
+      "team": "Test"
     },
     {
       "gw": 3,
