@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T00:59:32.626Z",
+  "updated": "2026-11-08T07:03:33.534Z",
   "standings": {
     "main": [
       {
@@ -101,18 +101,18 @@
         "move": -2
       },
       {
-        "mgr": "Vishal Lakhiani",
-        "team": "Vish Fish",
-        "gw": 28,
-        "total": 630,
-        "move": 2
-      },
-      {
         "mgr": "Sagar Paleja",
         "team": "Jai Shree Krishna",
         "gw": 32,
         "total": 630,
         "move": 5
+      },
+      {
+        "mgr": "Vishal Lakhiani",
+        "team": "Vish Fish",
+        "gw": 28,
+        "total": 630,
+        "move": 2
       },
       {
         "mgr": "Xerxis Desai",
