@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T13:31:41.939Z",
+  "updated": "2026-11-09T23:14:16.735Z",
   "standings": {
     "main": [
       {
@@ -626,6 +626,12 @@
     null
   ],
   "motw": [
+    {
+      "gw": 10,
+      "pts": 101,
+      "winner": "Joanda Febrian",
+      "team": "DBM FC"
+    },
     {
       "gw": 9,
       "pts": 86,
