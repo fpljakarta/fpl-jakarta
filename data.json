@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T05:34:07.772Z",
+  "updated": "2026-11-10T14:05:27.896Z",
   "standings": {
     "main": [
       {
@@ -24,15 +24,15 @@
         "move": -1
       },
       {
-        "mgr": "Akshay Melwani",
-        "team": "Test",
+        "mgr": "Draking Ngaditono",
+        "team": "Enerzy",
         "gw": 66,
         "total": 704,
         "move": -1
       },
       {
-        "mgr": "Draking Ngaditono",
-        "team": "Enerzy",
+        "mgr": "Akshay Melwani",
+        "team": "Test",
         "gw": 66,
         "total": 704,
         "move": -1
@@ -185,18 +185,18 @@
         "move": -1
       },
       {
-        "mgr": "Kevin Raymond",
-        "team": "Gunners United",
-        "gw": 70,
-        "total": 655,
-        "move": 3
-      },
-      {
         "mgr": "Rohan Kalwani",
         "team": "-4 Builds Carrickter",
         "gw": 58,
         "total": 655,
         "move": -6
+      },
+      {
+        "mgr": "Kevin Raymond",
+        "team": "Gunners United",
+        "gw": 70,
+        "total": 655,
+        "move": 3
       },
       {
         "mgr": "Abhishek Keswani",
@@ -665,8 +665,8 @@
     {
       "gw": 4,
       "pts": 105,
-      "winner": "Akshay Melwani",
-      "team": "Test"
+      "winner": "Draking Ngaditono",
+      "team": "Enerzy"
     },
     {
       "gw": 3,
