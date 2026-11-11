@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T08:43:06.630Z",
+  "updated": "2026-11-11T16:48:51.014Z",
   "standings": {
     "main": [
       {
@@ -24,15 +24,15 @@
         "move": -1
       },
       {
-        "mgr": "Akshay Melwani",
-        "team": "Test",
+        "mgr": "Draking Ngaditono",
+        "team": "Enerzy",
         "gw": 66,
         "total": 704,
         "move": -1
       },
       {
-        "mgr": "Draking Ngaditono",
-        "team": "Enerzy",
+        "mgr": "Akshay Melwani",
+        "team": "Test",
         "gw": 66,
         "total": 704,
         "move": -1
@@ -325,18 +325,18 @@
         "move": 1
       },
       {
-        "mgr": "Rachman Witarlan",
-        "team": "FC Milanello",
-        "gw": 55,
-        "total": 612,
-        "move": -2
-      },
-      {
         "mgr": "Gajendra Khand",
         "team": "Gajendra united",
         "gw": 75,
         "total": 612,
         "move": 5
+      },
+      {
+        "mgr": "Rachman Witarlan",
+        "team": "FC Milanello",
+        "gw": 55,
+        "total": 612,
+        "move": -2
       },
       {
         "mgr": "Hitesh Singh",
@@ -665,8 +665,8 @@
     {
       "gw": 4,
       "pts": 105,
-      "winner": "Akshay Melwani",
-      "team": "Test"
+      "winner": "Draking Ngaditono",
+      "team": "Enerzy"
     },
     {
       "gw": 3,
