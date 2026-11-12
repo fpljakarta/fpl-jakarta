@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T23:15:13.680Z",
+  "updated": "2026-11-12T05:17:43.012Z",
   "standings": {
     "main": [
       {
@@ -185,18 +185,18 @@
         "move": -1
       },
       {
-        "mgr": "Kevin Raymond",
-        "team": "Gunners United",
-        "gw": 70,
-        "total": 655,
-        "move": 3
-      },
-      {
         "mgr": "Rohan Kalwani",
         "team": "-4 Builds Carrickter",
         "gw": 58,
         "total": 655,
         "move": -6
+      },
+      {
+        "mgr": "Kevin Raymond",
+        "team": "Gunners United",
+        "gw": 70,
+        "total": 655,
+        "move": 3
       },
       {
         "mgr": "Abhishek Keswani",
