@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T15:47:23.251Z",
+  "updated": "2026-11-17T23:16:05.033Z",
   "standings": {
     "main": [
       {
@@ -325,18 +325,18 @@
         "move": 1
       },
       {
-        "mgr": "Rachman Witarlan",
-        "team": "FC Milanello",
-        "gw": 55,
-        "total": 612,
-        "move": -2
-      },
-      {
         "mgr": "Gajendra Khand",
         "team": "Gajendra united",
         "gw": 75,
         "total": 612,
         "move": 5
+      },
+      {
+        "mgr": "Rachman Witarlan",
+        "team": "FC Milanello",
+        "gw": 55,
+        "total": 612,
+        "move": -2
       },
       {
         "mgr": "Hitesh Singh",
