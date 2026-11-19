@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T03:55:46.512Z",
+  "updated": "2026-11-19T12:25:36.237Z",
   "standings": {
     "main": [
       {
@@ -185,18 +185,18 @@
         "move": -1
       },
       {
-        "mgr": "Kevin Raymond",
-        "team": "Gunners United",
-        "gw": 70,
-        "total": 655,
-        "move": 3
-      },
-      {
         "mgr": "Rohan Kalwani",
         "team": "-4 Builds Carrickter",
         "gw": 58,
         "total": 655,
         "move": -6
+      },
+      {
+        "mgr": "Kevin Raymond",
+        "team": "Gunners United",
+        "gw": 70,
+        "total": 655,
+        "move": 3
       },
       {
         "mgr": "Abhishek Keswani",
@@ -325,18 +325,18 @@
         "move": 1
       },
       {
-        "mgr": "Rachman Witarlan",
-        "team": "FC Milanello",
-        "gw": 55,
-        "total": 612,
-        "move": -2
-      },
-      {
         "mgr": "Gajendra Khand",
         "team": "Gajendra united",
         "gw": 75,
         "total": 612,
         "move": 5
+      },
+      {
+        "mgr": "Rachman Witarlan",
+        "team": "FC Milanello",
+        "gw": 55,
+        "total": 612,
+        "move": -2
       },
       {
         "mgr": "Hitesh Singh",
