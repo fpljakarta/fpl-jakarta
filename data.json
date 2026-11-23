@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T05:08:07.020Z",
+  "updated": "2026-11-23T17:02:08.249Z",
   "standings": {
     "main": [
       {
@@ -10,15 +10,15 @@
         "move": 0
       },
       {
-        "mgr": "Akshay Melwani",
-        "team": "Test",
+        "mgr": "Draking Ngaditono",
+        "team": "Enerzy",
         "gw": 40,
         "total": 744,
         "move": 2
       },
       {
-        "mgr": "Draking Ngaditono",
-        "team": "Enerzy",
+        "mgr": "Akshay Melwani",
+        "team": "Test",
         "gw": 40,
         "total": 744,
         "move": 2
@@ -54,8 +54,8 @@
       {
         "mgr": "Chiraag Keswani",
         "team": "Ckeswani's XI",
-        "gw": 46,
-        "total": 730,
+        "gw": 45,
+        "total": 729,
         "move": 4
       },
       {
@@ -110,8 +110,8 @@
       {
         "mgr": "Xerxis Desai",
         "team": "Bay City Ballers",
-        "gw": 45,
-        "total": 710,
+        "gw": 44,
+        "total": 709,
         "move": 1
       },
       {
@@ -262,18 +262,18 @@
         "move": 2
       },
       {
-        "mgr": "Dayne De Melo",
-        "team": "Gross Misconduct",
-        "gw": 26,
-        "total": 667,
-        "move": -1
-      },
-      {
         "mgr": "Ajay Yeleswaram",
         "team": "Relegated",
         "gw": 27,
         "total": 667,
         "move": 0
+      },
+      {
+        "mgr": "Dayne De Melo",
+        "team": "Gross Misconduct",
+        "gw": 26,
+        "total": 667,
+        "move": -1
       },
       {
         "mgr": "Amrit Lakhiani",
@@ -455,8 +455,8 @@
       {
         "mgr": "Xerxis Desai",
         "team": "Bay City Ballers",
-        "gw": 45,
-        "total": 710,
+        "gw": 44,
+        "total": 709,
         "move": 1
       },
       {
@@ -665,8 +665,8 @@
     {
       "gw": 4,
       "pts": 105,
-      "winner": "Akshay Melwani",
-      "team": "Test"
+      "winner": "Draking Ngaditono",
+      "team": "Enerzy"
     },
     {
       "gw": 3,
