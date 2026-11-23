@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T23:04:06.651Z",
+  "updated": "2026-11-23T05:08:07.020Z",
   "standings": {
     "main": [
       {
@@ -10,15 +10,15 @@
         "move": 0
       },
       {
-        "mgr": "Draking Ngaditono",
-        "team": "Enerzy",
+        "mgr": "Akshay Melwani",
+        "team": "Test",
         "gw": 40,
         "total": 744,
         "move": 2
       },
       {
-        "mgr": "Akshay Melwani",
-        "team": "Test",
+        "mgr": "Draking Ngaditono",
+        "team": "Enerzy",
         "gw": 40,
         "total": 744,
         "move": 2
@@ -262,18 +262,18 @@
         "move": 2
       },
       {
-        "mgr": "Ajay Yeleswaram",
-        "team": "Relegated",
-        "gw": 27,
-        "total": 667,
-        "move": 0
-      },
-      {
         "mgr": "Dayne De Melo",
         "team": "Gross Misconduct",
         "gw": 26,
         "total": 667,
         "move": -1
+      },
+      {
+        "mgr": "Ajay Yeleswaram",
+        "team": "Relegated",
+        "gw": 27,
+        "total": 667,
+        "move": 0
       },
       {
         "mgr": "Amrit Lakhiani",
@@ -665,8 +665,8 @@
     {
       "gw": 4,
       "pts": 105,
-      "winner": "Draking Ngaditono",
-      "team": "Enerzy"
+      "winner": "Akshay Melwani",
+      "team": "Test"
     },
     {
       "gw": 3,
